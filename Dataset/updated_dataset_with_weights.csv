@@ -1,0 +1,775 @@
+Diseases,Symptoms,Specialist,Weight
+panic disorder,"anxiety and nervousness , shortness of breath , depressive or psychotic symptoms , chest tightness , palpitations , irregular heartbeat , breathing fast , dizziness , insomnia , depression , abnormal involuntary movements",Psychiatrist,14
+vocal cord polyp,"difficulty speaking , throat swelling , throat feels tight , hoarse voice , sore throat",ENT Specialist,20
+turner syndrome,"depression , emotional symptoms",Geneticist,70
+cryptorchidism,"lack of growth , symptoms of the scrotum and testes , swelling of scrotum",General Practitioner,16
+poisoning due to ethylene glycol,"depression , depressive or psychotic symptoms , abusing alcohol , fainting",General Practitioner,100
+atrophic vaginitis,"suprapubic pain , vaginal itching , painful urination , involuntary urination , frequent urination , vaginal discharge , blood in urine , pain during intercourse",General Practitioner,45
+fracture of the hand,"arm pain , arm stiffness or tightness , hand or finger swelling , hand or finger stiffness or tightness , wrist stiffness or tightness , hand or finger pain , wrist pain , wrist swelling",Orthopedic Surgeon,48
+cellulitis or abscess of mouth,"sore throat , throat swelling , difficulty in swallowing , abnormal appearing skin , skin growth , lip swelling , toothache",Dermatologist,81
+eye alignment disorder,"lack of growth , eye deviation , double vision , cross-eyed , symptoms of eye , pain in eye , irregular appearing scalp , diminished vision , eye moves abnormally",Psychiatrist,31
+headache after lumbar puncture,"dizziness , nausea , neck pain , headache , painful urination , vomiting , low back pain",Neurologist,35
+pyloric stenosis,"cough , arm stiffness or tightness , vomiting",Gastroenterologist,74
+salivary gland disorder,"sore throat , cough , throat feels tight , swollen lymph nodes",Psychiatrist,62
+osteochondrosis,"bowlegged or knock-kneed , ankle pain , elbow pain , knee pain , hand or finger pain , foot or toe pain",General Practitioner,61
+injury to the knee,"knee pain , knee weakness , foot or toe swelling , leg pain , problems with movement",Traumatologist,36
+metabolic disorder,"jaundice , arm stiffness or tightness , smoking problems , weight gain",Psychiatrist,60
+vaginitis,"suprapubic pain , vaginal itching , painful urination , pain during intercourse , pelvic pain , vaginal pain , lower abdominal pain , vaginal discharge , sharp abdominal pain , pain during pregnancy , vaginal redness",General Practitioner,80
+sick sinus syndrome,"shortness of breath , irregular heartbeat , fainting , increased heart rate , dizziness , palpitations , weakness , decreased heart rate",Geneticist,53
+tinnitus of unknown cause,"hoarse voice , headache , ear pain , ringing in ear , itchy ear(s) , diminished hearing , dizziness , plugged feeling in ear",General Practitioner,36
+glaucoma,"diminished vision , foreign body sensation in eye , spots or clouds in vision , eye redness , lacrimation , itchiness of eye , itchy eyelid , symptoms of eye , pain in eye",Ophthalmologist,36
+eating disorder,"depressive or psychotic symptoms , insomnia , abusing alcohol , decreased appetite , anxiety and nervousness , depression , acne or pimples , weight gain , difficulty eating",Psychiatrist,80
+transient ischemic attack,"depressive or psychotic symptoms , headache , weakness , focal weakness , symptoms of the face , disturbance of memory , dizziness , difficulty speaking , loss of sensation , paresthesia",Cardiologist,63
+pyelonephritis,"sharp abdominal pain , nausea , frequent urination , low back pain , side pain , suprapubic pain , lower abdominal pain , back pain , vomiting , painful urination , blood in urine",Nephrologist,45
+rotator cuff injury,"hand or finger stiffness or tightness , shoulder pain , arm stiffness or tightness , shoulder stiffness or tightness , shoulder weakness , arm pain",Traumatologist,87
+chronic pain disorder,"hip pain , low back pain , pelvic pain , shoulder pain , leg pain , headache , knee pain , sharp abdominal pain , ache all over , back pain",Psychiatrist,35
+problem during pregnancy,"sharp abdominal pain , vomiting , headache , nausea , lower abdominal pain , spotting or bleeding during pregnancy , cramps and spasms , back pain , pain during pregnancy , pelvic pain , problems during pregnancy",Obstetrician,77
+liver cancer,"groin mass , sharp abdominal pain , upper abdominal pain , decreased appetite , stomach bloating",Oncologist,35
+atelectasis,"dizziness , sore throat , cough , headache , shortness of breath , sharp chest pain",General Practitioner,75
+injury to the hand,"wrist swelling , hand or finger stiffness or tightness , skin growth , joint pain , hand or finger pain , wrist pain , hand or finger swelling",Traumatologist,43
+choledocholithiasis,"sharp chest pain , sharp abdominal pain , nausea , upper abdominal pain , chills , decreased appetite , side pain , jaundice , vomiting",General Practitioner,73
+injury to the hip,"leg pain , hand or finger swelling , neck pain , hip pain",Traumatologist,86
+cirrhosis,"blood in stool , vomiting blood , regurgitation , upper abdominal pain , regurgitation.1 , abdominal distention , sharp abdominal pain , shortness of breath , peripheral edema",General Practitioner,55
+thoracic aortic aneurysm,"sharp chest pain , dizziness , jaundice , shortness of breath , sharp abdominal pain , fatigue , chest tightness",General Practitioner,49
+subdural hemorrhage,"depressive or psychotic symptoms , dizziness , irritable infant , vomiting , facial pain , headache",General Practitioner,57
+diabetic retinopathy,"symptoms of eye , pain in eye , abnormal movement of eyelid , foreign body sensation in eye , itchiness of eye , diminished vision , double vision , spots or clouds in vision , lacrimation",Endocrinologist,50
+fibromyalgia,"hip pain , headache , arm pain , low back pain , muscle pain , ache all over , sharp chest pain , neck pain , back pain , leg pain",Rheumatologist,80
+ischemia of the bowel,"retention of urine , blood in stool , nausea , burning abdominal pain , sharp abdominal pain , constipation , vomiting",General Practitioner,47
+fetal alcohol syndrome,"depressive or psychotic symptoms , emotional symptoms , excessive anger",Geneticist,60
+peritonitis,"groin mass , vomiting , nausea , back pain , side pain , shortness of breath , sharp abdominal pain , intermenstrual bleeding",General Practitioner,38
+injury to the abdomen,"sharp chest pain , leg pain , sharp abdominal pain , back pain , blood in urine",Traumatologist,39
+acute pancreatitis,"vomiting , diarrhea , side pain , hemoptysis , sharp chest pain , abusing alcohol , sharp abdominal pain , burning abdominal pain , nausea , back pain , lower body pain , upper abdominal pain",General Practitioner,86
+thrombophlebitis,"skin swelling , leg pain , arm pain , ache all over , foot or toe pain , leg swelling , arm swelling , skin on leg or foot looks infected , lymphedema",General Practitioner,41
+asthma,"sharp chest pain , wheezing , fever , coughing up sputum , coryza , allergic reaction , shortness of breath , chest tightness , difficulty breathing , cough , nasal congestion",Pulmonologist,58
+foreign body in the vagina,"emotional symptoms , painful urination , vaginal discharge",General Practitioner,44
+restless leg syndrome,"depression , abnormal involuntary movements , leg pain , fatigue , sleepiness , apnea , insomnia , headache",Geneticist,44
+emphysema,"shortness of breath , cough , emotional symptoms , sharp chest pain",General Practitioner,42
+cysticercosis,"shortness of breath , elbow weakness , headache , seizures",General Practitioner,38
+induced abortion,"sharp abdominal pain , lower abdominal pain , intermenstrual bleeding , spotting or bleeding during pregnancy , cramps and spasms , groin pain , pain during pregnancy , vaginal discharge",General Practitioner,45
+teething syndrome,"cough , nasal congestion , diarrhea , symptoms of infants , decreased appetite , fever , redness in ear , ear pain , temper problems",Geneticist,44
+infectious gastroenteritis,"blood in stool , sharp abdominal pain , vomiting , nausea , diarrhea , burning abdominal pain , decreased appetite , fever , chills , fluid retention , flu-like syndrome , headache",General Practitioner,49
+acute sinusitis,"sore throat , ear pain , frontal headache , fever , coryza , sinus congestion , nasal congestion , coughing up sputum , painful sinuses , cough , facial pain",General Practitioner,52
+substance-related mental disorder,"anxiety and nervousness , insomnia , hostile behavior , feeling ill , delusions or hallucinations , drug abuse , depressive or psychotic symptoms",Psychiatrist,82
+postpartum depression,"depressive or psychotic symptoms , drug abuse , pain during pregnancy , problems during pregnancy , anxiety and nervousness , depression , intermenstrual bleeding , excessive anger , delusions or hallucinations",General Practitioner,40
+coronary atherosclerosis,"palpitations , irregular heartbeat , burning chest pain , chest tightness , shortness of breath , sharp chest pain , fatigue , leg cramps or spasms",General Practitioner,49
+spondylitis,"leg pain , hip pain , low back pain , side pain , lower body pain , back mass or lump , back pain , stiffness all over , neck pain",General Practitioner,51
+pituitary adenoma,"nausea , pain in eye , muscle swelling , headache",General Practitioner,56
+uterine fibroids,"sharp abdominal pain , involuntary urination , lower abdominal pain , heavy menstrual flow , unpredictable menstruation , painful menstruation , pelvic pain , cramps and spasms , intermenstrual bleeding",General Practitioner,87
+idiopathic nonmenstrual bleeding,"sharp abdominal pain , painful urination , long menstrual periods , vaginal discharge , unpredictable menstruation , intermenstrual bleeding",General Practitioner,67
+chalazion,"skin growth , diminished vision , symptoms of eye , pain in eye , lacrimation , swollen eye , eyelid swelling , foreign body sensation in eye , mass on eyelid , eye redness",General Practitioner,36
+ovarian torsion,"skin swelling , sharp abdominal pain , lower abdominal pain , ache all over , pelvic pain , groin mass",General Practitioner,86
+retinopathy due to high blood pressure,"pus draining from ear , diminished vision , symptoms of eye , foreign body sensation in eye , pain in eye , spots or clouds in vision",General Practitioner,56
+vaginal yeast infection,"suprapubic pain , sharp abdominal pain , vaginal itching , painful urination , lower abdominal pain , vaginal pain , itching of skin , vulvar irritation , vaginal redness , vaginal discharge",Infectious Disease Specialist,46
+mastoiditis,"nasal congestion , diminished hearing , dizziness , facial pain , cough , ear pain",General Practitioner,43
+lung contusion,"shortness of breath , sharp chest pain , ache all over , back pain",General Practitioner,69
+hypertrophic obstructive cardiomyopathy (hocm),"anxiety and nervousness , sharp chest pain , emotional symptoms",General Practitioner,74
+ingrown toe nail,"abnormal appearing skin , skin growth , neck swelling , foot or toe pain , foot or toe swelling , skin dryness, peeling, scaliness, or roughness , skin on arm or hand looks infected , skin on leg or foot looks infected , irregular appearing nails , swollen eye",General Practitioner,44
+pulmonary eosinophilia,"sharp chest pain , nasal congestion , paresthesia , dizziness , cough , fever , shortness of breath",General Practitioner,63
+corneal disorder,"diminished vision , foreign body sensation in eye , spots or clouds in vision , lacrimation , white discharge from eye , double vision , eye redness , pain in eye , itchiness of eye , symptoms of eye",Psychiatrist,36
+foreign body in the gastrointestinal tract,"lump in throat , difficulty in swallowing , recent weight loss , sharp abdominal pain , vomiting , vomiting blood",General Practitioner,53
+endophthalmitis,"painful urination , diminished vision , pain in eye , swollen eye , eye redness , itchiness of eye",General Practitioner,33
+intestinal malabsorption,"cough , sharp abdominal pain , vomiting , allergic reaction , nasal congestion , flatulence , diarrhea",General Practitioner,46
+viral warts,"skin swelling , lip swelling , abnormal appearing skin , skin growth , skin moles , warts , skin lesion , bumps on penis , acne or pimples",General Practitioner,60
+hyperhidrosis,"cough , fever , warts , sweating , acne or pimples",General Practitioner,74
+stroke,"abnormal involuntary movements , difficulty speaking , headache , problems with movement , focal weakness , slurring words , depressive or psychotic symptoms , dizziness , seizures , disturbance of memory",General Practitioner,90
+pilonidal cyst,"skin growth , pelvic pain , bones are painful , skin swelling , pain of the anus , lower body pain , irregular appearing scalp , ache all over",General Practitioner,56
+crushing injury,"hand or finger pain , hand or finger swelling , neck swelling , foot or toe pain , knee swelling , hand or finger stiffness or tightness",Traumatologist,62
+normal pressure hydrocephalus,"depressive or psychotic symptoms , palpitations , headache , problems with movement",General Practitioner,72
+alopecia,"feeling ill , acne or pimples , irregular appearing scalp , itching of skin , too little hair , skin swelling , skin growth , skin rash",General Practitioner,54
+hashimoto thyroiditis,"abnormal involuntary movements , weight gain",Endocrinologist,52
+flat feet,"skin swelling , knee pain , ankle pain , problems with movement , foot or toe pain",General Practitioner,40
+nonalcoholic liver disease (nash),"dizziness , sharp abdominal pain , nausea , mouth ulcer , weight gain",General Practitioner,85
+hemarthrosis,"frequent urination , knee pain , elbow weakness , knee swelling",General Practitioner,78
+pelvic organ prolapse,"suprapubic pain , blood in urine , intermenstrual bleeding , vaginal pain , symptoms of bladder , retention of urine , frequent urination , vaginal discharge , involuntary urination",General Practitioner,84
+fracture of the arm,"arm stiffness or tightness , wrist stiffness or tightness , elbow pain , wrist pain , arm pain , arm swelling , shoulder pain , elbow swelling , shoulder stiffness or tightness , wrist swelling",Orthopedic Surgeon,63
+coagulation (bleeding) disorder,"blood in urine , knee swelling , melena , leg pain , eye redness",Psychiatrist,39
+intracranial hemorrhage,"dizziness , abnormal involuntary movements , difficulty speaking , vomiting , diminished vision , seizures , depressive or psychotic symptoms , headache",General Practitioner,49
+hyperkalemia,"depressive or psychotic symptoms , difficulty in swallowing , feeling ill , vomiting , nausea , decreased heart rate , shortness of breath , weakness , dizziness , sharp chest pain",General Practitioner,61
+cornea infection,"diminished vision , symptoms of eye , pain in eye , spots or clouds in vision , eye redness , lacrimation , eye burns or stings , itchiness of eye , lip swelling , foreign body sensation in eye , swollen eye",Infectious Disease Specialist,37
+abscess of the lung,"depressive or psychotic symptoms , itchy eyelid , shortness of breath , cough",General Practitioner,85
+dengue fever,"sore throat , wrist pain , pain behind the eyes, joint and muscle pain, nausea, rash, mild bleeding",General Practitioner,73
+chronic sinusitis,"cough , facial pain , ear pain , fever , sinus congestion , sore throat , congestion in chest , frontal headache , headache , painful sinuses",General Practitioner,66
+cholesteatoma,"nasal congestion , diminished hearing , pus draining from ear , muscle swelling",General Practitioner,66
+volvulus,"depressive or psychotic symptoms , elbow weakness , vomiting , sharp abdominal pain",General Practitioner,85
+injury to the finger,"swelling of scrotum , hand or finger swelling , hand or finger pain , hand or finger stiffness or tightness",Traumatologist,55
+poisoning due to analgesics,"depressive or psychotic symptoms , skin swelling , problems during pregnancy , depression , vomiting , abusing alcohol",General Practitioner,93
+atrial fibrillation,"shortness of breath , sharp chest pain , palpitations , decreased heart rate , increased heart rate , fatigue , dizziness , irregular heartbeat",General Practitioner,47
+pinworm infection,"painful urination , pain of the anus , constipation , itching of the anus , retention of urine , sharp abdominal pain",Infectious Disease Specialist,32
+urethral valves,"suprapubic pain , sharp abdominal pain , lower abdominal pain , elbow weakness , side pain",General Practitioner,41
+open wound of the neck,"skin swelling , skin lesion , peripheral edema , ache all over , abnormal appearing skin",General Practitioner,62
+achalasia,"chest tightness , cough , throat feels tight , difficulty in swallowing , sharp chest pain",General Practitioner,62
+conductive hearing loss,"dizziness , hoarse voice , difficulty speaking , diminished hearing , ringing in ear , fluid in ear , plugged feeling in ear , redness in ear , low self-esteem , ear pain",General Practitioner,56
+abdominal hernia,"groin mass , symptoms of the scrotum and testes , lower abdominal pain , regurgitation , swollen abdomen , regurgitation.1 , irregular belly button , ache all over , sharp abdominal pain , upper abdominal pain",General Practitioner,82
+cerebral palsy,"lack of growth , problems with movement , infant feeding problem , blindness , cramps and spasms , seizures",General Practitioner,50
+marijuana abuse,"depressive or psychotic symptoms , hostile behavior , drug abuse , excessive anger , delusions or hallucinations , temper problems , fears and phobias , difficulty speaking , anxiety and nervousness , depression , abusing alcohol , low self-esteem",General Practitioner,60
+cryptococcosis,"depressive or psychotic symptoms , cross-eyed",General Practitioner,43
+obesity,"weight gain , sleepiness , excessive appetite",General Practitioner,31
+indigestion,"sharp chest pain , burning abdominal pain , heartburn , decreased appetite , sharp abdominal pain , nausea , diarrhea , stomach bloating , vomiting",General Practitioner,85
+bursitis,"leg pain , arm stiffness or tightness , knee swelling , elbow swelling , arm pain , shoulder pain , hip pain , arm swelling , shoulder stiffness or tightness , elbow pain , leg swelling , knee pain",General Practitioner,85
+esophageal cancer,"sharp abdominal pain , shortness of breath , hoarse voice , decreased appetite , stomach bloating",Oncologist,63
+pulmonary congestion,"shortness of breath , cough , weakness , fever , sharp chest pain , decreased heart rate , chest tightness , leg swelling , nasal congestion",General Practitioner,61
+juvenile rheumatoid arthritis,"hand or finger pain , wrist swelling , knee pain , joint pain , back pain",General Practitioner,60
+actinic keratosis,"skin swelling , skin lesion , skin growth , skin moles , symptoms of the face , skin dryness, peeling, scaliness, or roughness , skin irritation , skin rash , irregular appearing scalp , itching of skin , abnormal appearing skin",General Practitioner,62
+acute otitis media,"sore throat , cough , nasal congestion , plugged feeling in ear , fluid in ear , coryza , ear pain , redness in ear , fever , diminished hearing",General Practitioner,40
+astigmatism,"diminished vision , spots or clouds in vision , symptoms of eye , pain in eye , foreign body sensation in eye , double vision , lacrimation , eye deviation",General Practitioner,89
+tuberous sclerosis,"depressive or psychotic symptoms , elbow weakness , seizures",General Practitioner,32
+empyema,"sharp chest pain , cough , leg pain , shortness of breath",General Practitioner,55
+presbyacusis,"dizziness , diminished hearing , emotional symptoms , ear pain , ringing in ear",General Practitioner,64
+neonatal jaundice,"lack of growth , irritable infant , changes in stool appearance , jaundice , infant feeding problem",General Practitioner,76
+chronic obstructive pulmonary disease (copd),"sharp chest pain , chest tightness , cough , nasal congestion , coughing up sputum , coryza , congestion in chest , shortness of breath , sore throat , wheezing , fever",General Practitioner,75
+dislocation of the elbow,"irritable infant , wrist pain , elbow pain , depression , arm pain , arm stiffness or tightness , elbow swelling",General Practitioner,79
+spondylosis,"leg pain , hip pain , arm pain , neck pain , low back pain , knee pain , loss of sensation , back pain , paresthesia , shoulder pain , lower body pain , ache all over",General Practitioner,78
+herpangina,"insomnia , cough , mouth ulcer , swollen lymph nodes , sore throat , decreased appetite , fever , skin rash , vomiting",General Practitioner,36
+injury to the shoulder,"arm stiffness or tightness , bones are painful , shoulder pain , neck pain , muscle cramps, contractures, or spasms , arm pain , back pain , shoulder stiffness or tightness , elbow pain",Traumatologist,78
+poisoning due to antidepressants,"emotional symptoms , abusing alcohol , drug abuse , depression",General Practitioner,99
+infection of open wound,"insomnia , hand or finger swelling , abnormal appearing skin , leg pain",Infectious Disease Specialist,72
+deep vein thrombosis (dvt),"abnormal appearing skin , leg cramps or spasms , leg stiffness or tightness , leg pain , arm swelling , foot or toe swelling , leg swelling",General Practitioner,46
+protein deficiency,"depression , vomiting , nausea , smoking problems , weakness",General Practitioner,54
+myoclonus,"insomnia , abnormal involuntary movements , muscle swelling , seizures",General Practitioner,51
+bone spur of the calcaneous,"foot or toe pain , ankle pain , elbow pain , foot or toe swelling , leg pain",General Practitioner,43
+von willebrand disease,"blood in stool , muscle swelling , nosebleed",General Practitioner,74
+open wound of the back,"irregular heartbeat , weight gain , lower body pain , skin lesion",General Practitioner,80
+heart block,"shortness of breath , sharp chest pain , dizziness , chest tightness , irregular heartbeat , peripheral edema , weight gain , palpitations , weakness , fainting",General Practitioner,66
+colonic polyp,"flatulence , sharp abdominal pain , heartburn , blood in stool , pain of the anus , upper abdominal pain , diarrhea , rectal bleeding",ENT Specialist,81
+magnesium deficiency,"shortness of breath , sharp chest pain , dizziness , leg pain",General Practitioner,47
+female infertility of unknown cause,"scanty menstrual flow , long menstrual periods , unpredictable menstruation , pain during intercourse , infertility",General Practitioner,61
+pericarditis,"shortness of breath , chest tightness , palpitations , sharp abdominal pain , sharp chest pain , lower body pain",General Practitioner,47
+attention deficit hyperactivity disorder (adhd),"depression , depressive or psychotic symptoms , lack of growth , hostile behavior , temper problems , antisocial behavior , anxiety and nervousness , drug abuse , restlessness",Psychiatrist,35
+pulmonic valve disease,"shortness of breath , emotional symptoms",General Practitioner,48
+tietze syndrome,"shortness of breath , chest tightness , cough , nausea , loss of sensation , difficulty breathing , rib pain , sharp chest pain",Geneticist,63
+cranial nerve palsy,"difficulty speaking , facial pain , double vision , abnormal movement of eyelid , abnormal involuntary movements , diminished vision , symptoms of the face , headache",General Practitioner,70
+injury to the arm,"hand or finger pain , arm pain , bones are painful , loss of sensation , elbow swelling , hand or finger swelling , elbow pain , wrist pain , wrist swelling , arm swelling , joint pain , arm stiffness or tightness",Traumatologist,85
+conversion disorder,"anxiety and nervousness , depression , cough , seizures",Psychiatrist,54
+complex regional pain syndrome,"leg pain , hand or finger pain , foot or toe pain , ache all over , arm pain , back pain , neck pain , low back pain , loss of sensation , abnormal involuntary movements , problems with movement , paresthesia",Geneticist,82
+otosclerosis,"dizziness , diminished hearing , emotional symptoms",General Practitioner,33
+injury to the trunk,"symptoms of the scrotum and testes , headache , back pain , neck pain , shoulder pain , rib pain , sharp chest pain , wrist pain , low back pain , bones are painful , lower body pain",Traumatologist,57
+hypothyroidism,"hot flashes , wrist swelling , weight gain , fatigue , too little hair , muscle pain",Endocrinologist,81
+primary insomnia,"anxiety and nervousness , insomnia , abnormal involuntary movements , sleepiness , fatigue , delusions or hallucinations , abnormal breathing sounds",General Practitioner,52
+lice,"cough , nasal congestion , itching of skin , itchy scalp , leg lump or mass",General Practitioner,84
+vitamin b12 deficiency,"knee stiffness or tightness , disturbance of memory , fatigue , hot flashes , problems with movement",General Practitioner,74
+diabetes,"weight gain , thirst",General Practitioner,50
+vulvodynia,"nausea , back pain , pelvic pain , burning abdominal pain , side pain , painful urination , lower abdominal pain , vaginal discharge , pain during pregnancy , sharp abdominal pain , vaginal pain , cramps and spasms",General Practitioner,61
+endometriosis,"sharp abdominal pain , hot flashes , intermenstrual bleeding , pelvic pain , painful menstruation , infertility , lower abdominal pain , burning abdominal pain , heavy menstrual flow",General Practitioner,45
+vasculitis,"headache , foot or toe swelling , leg stiffness or tightness , lymphedema , skin rash , dizziness , leg pain , skin lesion",General Practitioner,52
+concussion,"dizziness , difficulty speaking , headache , nausea , rib pain , facial pain , back pain , neck pain , sleepiness , vomiting , double vision , disturbance of memory",General Practitioner,69
+oral leukoplakia,"skin swelling , elbow weakness , tongue lesions",General Practitioner,36
+chronic kidney disease,"shortness of breath , peripheral edema , fatigue , feeling cold , symptoms of the kidneys",General Practitioner,74
+bladder disorder,"suprapubic pain , painful urination , involuntary urination , frequent urination , lower abdominal pain , blood in urine , retention of urine , sharp abdominal pain , symptoms of bladder",Psychiatrist,63
+chorioretinitis,"pain in eye , spots or clouds in vision , diminished vision , double vision , muscle swelling",General Practitioner,54
+priapism,"abusing alcohol , penis pain , elbow weakness , painful urination",General Practitioner,48
+myositis,"leg pain , hip pain , headache , loss of sensation , knee pain , problems with movement",General Practitioner,41
+mononucleosis,"cough , feeling ill , headache , swollen lymph nodes , nasal congestion , fever , skin rash , sore throat",General Practitioner,76
+neuralgia,"hip pain , headache , arm pain , neck pain , loss of sensation , ache all over , leg pain , back pain , shoulder pain , low back pain",General Practitioner,30
+polycystic kidney disease,"retention of urine , blood in urine , skin growth , kidney mass , sharp abdominal pain , low back pain , back pain , side pain",General Practitioner,85
+bipolar disorder,"abusing alcohol , excessive anger , temper problems , obsessions and compulsions , depression , insomnia , delusions or hallucinations , anxiety and nervousness , depressive or psychotic symptoms , fears and phobias",Psychiatrist,77
+amyloidosis,"anxiety and nervousness , shortness of breath , wrist weakness",General Practitioner,39
+chronic inflammatory demyelinating polyneuropathy (cidp),"dizziness , weakness , loss of sensation , problems with movement",General Practitioner,40
+gastroesophageal reflux disease (gerd),"cough , difficulty in swallowing , sharp abdominal pain , burning abdominal pain , hoarse voice , regurgitation , regurgitation.1 , sharp chest pain , nausea , chest tightness",General Practitioner,47
+vitreous hemorrhage,"symptoms of eye , pain in eye , lacrimation , diminished vision , spots or clouds in vision , blindness",General Practitioner,44
+poisoning due to antimicrobial drugs,"shortness of breath , abnormal involuntary movements , peripheral edema , allergic reaction , problems with movement , skin rash",General Practitioner,97
+open wound of the mouth,"lip swelling , peripheral edema , seizures , toothache , mouth ulcer , tongue lesions",General Practitioner,61
+scleroderma,"feeling ill , lip swelling , abnormal appearing skin , skin growth , skin dryness, peeling, scaliness, or roughness , skin lesion , itching of skin , skin irritation",General Practitioner,88
+myasthenia gravis,"shortness of breath , dizziness , double vision , slurring words , coughing up sputum , fatigue , weakness",General Practitioner,48
+hypoglycemia,"depressive or psychotic symptoms , dizziness , abnormal involuntary movements , feeling ill , nausea , problems with movement , seizures , sweating , fainting , weakness , decreased appetite , sleepiness",General Practitioner,87
+idiopathic absence of menstruation,"nausea , lower abdominal pain , pelvic pain , pain or soreness of breast , long menstrual periods , sharp abdominal pain , vaginal itching , absence of menstruation , heartburn",General Practitioner,34
+dislocation of the ankle,"emotional symptoms , foot or toe pain , ankle swelling , ankle pain",General Practitioner,87
+carbon monoxide poisoning,"depressive or psychotic symptoms , headache , emotional symptoms , vomiting , nausea , dizziness",General Practitioner,92
+panic attack,"anxiety and nervousness , sharp chest pain , chest tightness , loss of sensation , shortness of breath , irregular heartbeat , weakness",Cardiologist,40
+plantar fasciitis,"knee pain , foot or toe pain , ankle pain , bones are painful , problems with movement , ankle swelling , muscle pain",General Practitioner,68
+hyperopia,"difficulty speaking , eye deviation , symptoms of eye , spots or clouds in vision , eye redness , diminished vision",General Practitioner,37
+poisoning due to sedatives,"depression , drug abuse , depressive or psychotic symptoms , insomnia , hostile behavior , sleepiness",General Practitioner,95
+pemphigus,"hand or finger pain , skin lesion , abnormal appearing skin",General Practitioner,71
+peyronie disease,"mass in scrotum , impotence , penis pain , emotional symptoms , symptoms of prostate",General Practitioner,37
+hiatal hernia,"dizziness , difficulty in swallowing , nausea , regurgitation , burning abdominal pain , heartburn , regurgitation.1 , sharp chest pain , back pain , vomiting blood , upper abdominal pain , sharp abdominal pain",General Practitioner,45
+extrapyramidal effect of drugs,"abnormal involuntary movements , headache , restlessness , seizures , anxiety and nervousness , arm stiffness or tightness",General Practitioner,79
+meniere disease,"headache , ringing in ear , nausea , facial pain , ear pain , dizziness , diminished hearing , allergic reaction",General Practitioner,89
+anal fissure,"blood in stool , sharp abdominal pain , vaginal dryness , lower body pain , changes in stool appearance , constipation , pain of the anus , rectal bleeding",General Practitioner,47
+allergy,"skin swelling , lip swelling , itchiness of eye , fluid retention , swollen eye , itching of skin , skin rash , cough , abnormal appearing skin , allergic reaction , peripheral edema",Allergist,79
+chronic otitis media,"cough , nasal congestion , ear pain , allergic reaction , pulling at ears , painful sinuses , plugged feeling in ear , fever , fluid in ear , redness in ear",General Practitioner,55
+fracture of the finger,"hand or finger swelling , hand or finger stiffness or tightness , foot or toe pain , hand or finger pain , foot or toe swelling",Orthopedic Surgeon,30
+hirschsprung disease,"emotional symptoms , sharp abdominal pain , constipation",General Practitioner,46
+polymyalgia rheumatica,"irregular heartbeat , difficulty in swallowing , leg pain , sharp chest pain , shoulder pain , fatigue",General Practitioner,78
+lymphedema,"throat swelling , abnormal appearing skin , skin lesion , peripheral edema , lymphedema , leg swelling , fluid retention , leg pain , foot or toe swelling",General Practitioner,60
+bladder cancer,"groin mass , mass in scrotum , blood in urine , excessive urination at night , symptoms of bladder , bladder mass , retention of urine",Oncologist,57
+acute bronchospasm,"sharp chest pain , chest tightness , nasal congestion , vomiting , wheezing , difficulty breathing , shortness of breath , fever , sore throat , coryza , cough",General Practitioner,66
+acute glaucoma,"diminished vision , blindness , double vision , symptoms of eye , spots or clouds in vision , eye redness , foreign body sensation in eye , pain in eye",Ophthalmologist,68
+open wound of the chest,"sharp chest pain , drug abuse",General Practitioner,76
+dislocation of the patella,"knee pain , knee stiffness or tightness , knee swelling",General Practitioner,65
+sciatica,"leg pain , hip pain , low back pain , leg cramps or spasms , unusual color or odor to urine , leg weakness , problems with movement , back cramps or spasms , loss of sensation , lower body pain",General Practitioner,87
+hypercalcemia,"dizziness , retention of urine , weakness , loss of sensation",General Practitioner,83
+stress incontinence,"retention of urine , painful urination , frequent urination , blood in urine , hot flashes , intermenstrual bleeding , involuntary urination",General Practitioner,69
+varicose veins,"leg pain , leg swelling , lymphedema , leg lump or mass , leg cramps or spasms , ache all over , skin lesion , peripheral edema",General Practitioner,78
+benign kidney cyst,"sharp abdominal pain , vomiting , involuntary urination , blood in urine , low back pain , impotence , side pain",General Practitioner,48
+hydrocele of the testicle,"retention of urine , groin mass , symptoms of the scrotum and testes , pain in testicles , mass in scrotum , lower abdominal pain , groin pain , swelling of scrotum",General Practitioner,59
+degenerative disc disease,"leg pain , arm pain , back pain , low back pain , loss of sensation , shoulder pain , lower body pain , joint pain , neck pain , paresthesia , hip pain",General Practitioner,37
+hirsutism,"abnormal appearing skin , acne or pimples , unwanted hair , apnea",General Practitioner,48
+dislocation of the foot,"elbow weakness , vomiting , foot or toe pain",General Practitioner,58
+hydronephrosis,"pain in testicles , sharp abdominal pain , nausea , lower abdominal pain , back pain , side pain , suprapubic pain , vomiting",General Practitioner,38
+diverticulosis,"blood in stool , nausea , lower abdominal pain , heartburn , melena , rectal bleeding , sharp abdominal pain , vomiting , diarrhea , upper abdominal pain",General Practitioner,73
+pain after an operation,"sharp chest pain , leg pain , headache , back pain , low back pain , nausea , lower abdominal pain , neck pain , side pain , sharp abdominal pain , vomiting",Pain Management Specialist,61
+huntington disease,"anxiety and nervousness , elbow weakness",General Practitioner,89
+lymphoma,"hoarse voice , groin mass , neck mass , itchy ear(s) , regurgitation , fatigue , regurgitation.1",General Practitioner,39
+dermatitis due to sun exposure,"skin swelling , lack of growth , skin dryness, peeling, scaliness, or roughness , skin rash , irregular appearing scalp , skin moles , abnormal appearing skin , skin lesion , acne or pimples",General Practitioner,56
+anemia due to chronic kidney disease,"shortness of breath , peripheral edema , recent weight loss , weakness , ankle swelling , fatigue",General Practitioner,44
+injury to internal organ,"sharp chest pain , retention of urine , frequent urination , back pain , side pain , sharp abdominal pain",Traumatologist,67
+scleritis,"abnormal involuntary movements , pain in eye , spots or clouds in vision , headache , eye redness",General Practitioner,79
+pterygium,"diminished vision , foreign body sensation in eye , spots or clouds in vision , eye redness , acne or pimples , symptoms of eye , lacrimation",General Practitioner,68
+fungal infection of the skin,"acne or pimples , irregular appearing scalp , itching of skin , itchy scalp , too little hair , skin rash , skin swelling , skin lesion , skin dryness, peeling, scaliness, or roughness , abnormal appearing skin",Infectious Disease Specialist,45
+insulin overdose,"depressive or psychotic symptoms , emotional symptoms",General Practitioner,81
+syndrome of inappropriate secretion of adh (siadh),"dizziness , feeling ill , cross-eyed",Geneticist,69
+foreign body in the ear,"throat feels tight , ear pain , bleeding from ear , diminished hearing , fluid in ear",General Practitioner,56
+premenstrual tension syndrome,"depressive or psychotic symptoms , lower abdominal pain , back pain , unpredictable menstruation , premenstrual tension or irritability , headache",Geneticist,46
+orbital cellulitis,"diminished hearing , peripheral edema , eye redness , fever , pain in eye , swollen eye , symptoms of eye",Dermatologist,67
+injury to the leg,"knee pain , ankle pain , knee stiffness or tightness , leg swelling , infant feeding problem , irregular appearing nails , ankle swelling , leg pain , foot or toe swelling , knee swelling , foot or toe pain , problems with movement",Traumatologist,47
+hepatic encephalopathy,"depressive or psychotic symptoms , abusing alcohol , fainting , sharp abdominal pain , fluid retention , shortness of breath",General Practitioner,70
+bone cancer,"leg pain , peripheral edema , fatigue , low back pain , problems with movement",Oncologist,48
+syringomyelia,"fainting , headache , shoulder pain , back pain",General Practitioner,67
+pulmonary fibrosis,"chest tightness , cough , fainting , difficulty breathing , sharp chest pain , fever , shortness of breath",General Practitioner,46
+mitral valve disease,"shortness of breath , sharp chest pain , dizziness , fatigue , nightmares , increased heart rate , sweating , chest tightness , irregular heartbeat",General Practitioner,56
+parkinson disease,"difficulty speaking , problems with movement , leg stiffness or tightness , stiffness all over , dizziness , abnormal involuntary movements , focal weakness , disturbance of memory , weakness",General Practitioner,71
+gout,"hand or finger pain , knee pain , foot or toe pain , knee swelling , foot or toe swelling , joint pain , wrist pain , ankle pain , leg swelling , ankle swelling , hand or finger swelling , wrist swelling",General Practitioner,36
+otitis media,"sore throat , diminished hearing , vomiting , ear pain , plugged feeling in ear , fever , cough , coryza , pulling at ears , nasal congestion , fluid in ear",General Practitioner,70
+drug abuse (opioids),"anxiety and nervousness , depression , depressive or psychotic symptoms , insomnia , drug abuse , restlessness , excessive anger , temper problems , delusions or hallucinations , abusing alcohol",General Practitioner,86
+myelodysplastic syndrome,"difficulty speaking , fatigue , chills",Geneticist,85
+fracture of the shoulder,"arm pain , arm stiffness or tightness , neck swelling , shoulder swelling , shoulder stiffness or tightness , shoulder pain , bones are painful",Orthopedic Surgeon,38
+acute kidney injury,"shortness of breath , dizziness , retention of urine , sharp abdominal pain , peripheral edema , weakness , symptoms of the kidneys , vomiting , nausea , kidney mass , sharp chest pain",Traumatologist,53
+threatened pregnancy,"sharp abdominal pain , back pain , problems during pregnancy , uterine contractions , vaginal discharge , pelvic pain , spotting or bleeding during pregnancy , cramps and spasms , blood clots during menstrual periods , intermenstrual bleeding , lower abdominal pain",Obstetrician,34
+intracranial abscess,"depressive or psychotic symptoms , headache , seizures",General Practitioner,79
+gum disease,"toothache , facial pain , mouth ulcer , ear pain , jaw swelling , lip swelling , fever , peripheral edema , bleeding gums , pain in gums , gum pain",General Practitioner,72
+open wound from surgical incision,"skin swelling , flatulence , skin lesion",General Practitioner,89
+gastrointestinal hemorrhage,"dizziness , blood in stool , fainting , vomiting , nausea , diarrhea , vomiting blood , changes in stool appearance , rectal bleeding , sharp abdominal pain , melena , weakness",General Practitioner,86
+seborrheic dermatitis,"acne or pimples , irregular appearing scalp , symptoms of the face , itching of skin , skin dryness, peeling, scaliness, or roughness , skin rash , abnormal appearing skin , skin lesion , skin growth , too little hair , dry or flaky scalp",General Practitioner,49
+drug abuse (methamphetamine),"anxiety and nervousness , shortness of breath , palpitations , abusing alcohol , hostile behavior , feeling ill , depressive or psychotic symptoms , drug abuse",General Practitioner,42
+torticollis,"throat swelling , arm pain , neck pain , neck stiffness or tightness , shoulder pain , headache , abnormal involuntary movements , neck cramps or spasms",General Practitioner,81
+poisoning due to antihypertensives,"depressive or psychotic symptoms , sharp abdominal pain , weakness",General Practitioner,93
+tension headache,"anxiety and nervousness , dizziness , back cramps or spasms , nausea , neck stiffness or tightness , chills , headache , neck pain",Neurologist,83
+alcohol intoxication,"sharp chest pain , abnormal involuntary movements , abusing alcohol , problems with movement , anxiety and nervousness , depression , depressive or psychotic symptoms , vomiting",General Practitioner,71
+scurvy,"sharp abdominal pain , knee lump or mass",General Practitioner,71
+narcolepsy,"shortness of breath , insomnia , headache , disturbance of memory , fatigue , apnea , sleepiness",General Practitioner,53
+food allergy,"cough , lip swelling , abnormal appearing skin , allergic reaction , itching of skin , skin rash , nasal congestion , hand or finger swelling , vomiting",Allergist,73
+labyrinthitis,"vomiting , headache , ear pain , plugged feeling in ear , spots or clouds in vision , sweating , dizziness , nausea , diminished hearing , loss of sensation",General Practitioner,77
+anxiety,"anxiety and nervousness , depression , shortness of breath , abnormal involuntary movements , increased heart rate , sharp chest pain , insomnia , palpitations , irregular heartbeat , fears and phobias , headache , depressive or psychotic symptoms",Psychologist,78
+impulse control disorder,"depressive or psychotic symptoms , excessive appetite , delusions or hallucinations , temper problems , depression , insomnia , anxiety and nervousness , excessive anger",Psychiatrist,88
+stenosis of the tear duct,"white discharge from eye , symptoms of eye , abnormal movement of eyelid , cough , lacrimation",Gastroenterologist,84
+abscess of nose,"sore throat , vomiting , fever , sinus congestion , cough , nasal congestion , irritable infant , coryza",General Practitioner,43
+omphalitis,"emotional symptoms , flatulence , irregular belly button",General Practitioner,52
+leukemia,"fever , muscle stiffness or tightness , fatigue , mouth pain",General Practitioner,45
+bell palsy,"abnormal involuntary movements , diminished vision , symptoms of eye , loss of sensation , focal weakness , symptoms of the face , headache , facial pain , weakness , peripheral edema",General Practitioner,58
+conjunctivitis due to allergy,"cough , nasal congestion , diminished vision , pain in eye , eye redness , lacrimation , itchiness of eye , eye burns or stings , symptoms of eye , allergic reaction , swollen eye , sneezing",Allergist,84
+drug reaction,"shortness of breath , throat swelling , vomiting , nausea , peripheral edema , itching of skin , headache , allergic reaction , skin rash , dizziness , abnormal appearing skin",General Practitioner,47
+adrenal cancer,"dizziness , diminished hearing",Oncologist,54
+myopia,"pain in eye , eye moves abnormally , foreign body sensation in eye , blindness , symptoms of eye , eye redness , eye deviation , diminished vision , spots or clouds in vision",General Practitioner,85
+osteoarthritis,"leg pain , hip pain , back pain , knee weakness , elbow pain , knee swelling , hand or finger pain , knee pain , muscle pain , ankle pain , joint pain",General Practitioner,67
+thyroid disease,"lump in throat , throat feels tight , neck mass , difficulty in swallowing",Endocrinologist,87
+pharyngitis,"hoarse voice , cough , wheezing , fever , sore throat",General Practitioner,75
+chronic rheumatic fever,"shortness of breath , chest tightness , throat feels tight , increased heart rate , dizziness , palpitations , sharp chest pain",General Practitioner,47
+hypocalcemia,"shortness of breath , sharp chest pain , constipation , leg weakness , abnormal involuntary movements",General Practitioner,80
+macular degeneration,"diminished vision , double vision , abnormal movement of eyelid , itchiness of eye , blindness , bleeding from eye , foreign body sensation in eye , spots or clouds in vision , symptoms of eye , pain in eye , lacrimation",General Practitioner,59
+pneumonia,"shortness of breath , sharp chest pain , sore throat , nasal congestion , vomiting , wheezing , weakness , cough , difficulty breathing , chills , coryza , fever",General Practitioner,62
+cold sore,"sore throat , skin swelling , vaginal itching , mouth ulcer , skin rash , lip sore , lip swelling",General Practitioner,37
+premature ventricular contractions (pvcs),"shortness of breath , sharp chest pain , chest tightness , palpitations , irregular heartbeat , impotence , sleepiness , fainting",General Practitioner,69
+testicular cancer,"anxiety and nervousness , diminished hearing , mass in scrotum",Oncologist,47
+hydrocephalus,"depressive or psychotic symptoms , abnormal involuntary movements , headache , problems with movement , lack of growth , seizures , vomiting",General Practitioner,44
+breast cancer,"pain or soreness of breast , lump or mass of breast , hot flashes , bleeding or discharge from nipple",Oncologist,69
+anemia due to malignancy,"shortness of breath , difficulty in swallowing , flatulence , fatigue",General Practitioner,46
+esophageal varices,"dizziness , nausea",General Practitioner,55
+endometrial cancer,"hot flashes , intermenstrual bleeding , absence of menstruation , vaginal bleeding after menopause , vaginal itching",Oncologist,69
+cystic fibrosis,"cough , feeling ill , intermenstrual bleeding , decreased appetite",General Practitioner,45
+intertrigo (skin condition),"skin swelling , skin lesion , acne or pimples , skin rash , abnormal appearing skin , skin dryness, peeling, scaliness, or roughness",General Practitioner,44
+parathyroid adenoma,"anxiety and nervousness , throat feels tight , disturbance of memory , shoulder pain",Endocrinologist,65
+glucocorticoid deficiency,"shortness of breath , lack of growth , diarrhea",General Practitioner,35
+temporomandibular joint disorder,"nasal congestion , diminished hearing , facial pain , pain in eye , neck pain , sore throat , ear pain , headache",Psychiatrist,74
+wilson disease,"insomnia , cough , sleepiness",General Practitioner,46
+vesicoureteral reflux,"suprapubic pain , involuntary urination , blood in urine , fever",General Practitioner,84
+vitamin a deficiency,"hand or finger pain , knee lump or mass",General Practitioner,77
+gonorrhea,"sharp abdominal pain , vaginal discharge , problems with movement , vaginal pain , penile discharge , vaginal itching",General Practitioner,67
+fracture of the rib,"hip pain , back pain , bones are painful , side pain , shoulder pain , ache all over , back mass or lump , sharp chest pain , rib pain , hurts to breath , shortness of breath",Orthopedic Surgeon,85
+ependymoma,"headache , pain in eye , emotional symptoms , diminished vision",General Practitioner,56
+hepatitis due to a toxin,"jaundice , vomiting , nausea , rectal bleeding , depression , sharp abdominal pain , feeling ill , itching of skin",General Practitioner,65
+vaginal cyst,"sharp abdominal pain , lower abdominal pain , vaginal discharge , pain during pregnancy , pelvic pain , vaginal pain , intermenstrual bleeding , problems during pregnancy , spotting or bleeding during pregnancy , blood clots during menstrual periods , heavy menstrual flow , cramps and spasms",General Practitioner,77
+open wound of the shoulder,"abusing alcohol , shoulder pain , arm pain",General Practitioner,40
+ectopic pregnancy,"sharp abdominal pain , vaginal discharge , pain during pregnancy , dizziness , lower abdominal pain , intermenstrual bleeding , pelvic pain , nausea",Obstetrician,49
+chronic knee pain,"leg pain , back pain , hip pain , knee weakness , knee stiffness or tightness , leg swelling , knee pain , knee swelling , joint pain",Pain Management Specialist,67
+pinguecula,"headache , itching of scrotum , symptoms of eye , lacrimation",General Practitioner,47
+hypergammaglobulinemia,"blood in stool , fatigue",General Practitioner,52
+alcohol abuse,"depression , hostile behavior , vomiting blood , smoking problems , abusing alcohol , low self-esteem , anxiety and nervousness , depressive or psychotic symptoms , drug abuse",General Practitioner,68
+carpal tunnel syndrome,"hand or finger pain , wrist pain , hand or finger stiffness or tightness , elbow pain , arm weakness , hand or finger swelling , arm pain , wrist swelling , paresthesia , loss of sensation , neck pain",Geneticist,80
+pituitary disorder,"lack of growth , hot flashes , pain in eye , headache",Psychiatrist,45
+kidney stone,"suprapubic pain , frequent urination , lower abdominal pain , blood in urine , back pain , side pain , retention of urine , sharp abdominal pain , vomiting , low back pain , painful urination",General Practitioner,46
+autism,"depressive or psychotic symptoms , difficulty speaking , hostile behavior , constipation , antisocial behavior , lack of growth , long menstrual periods , temper problems , seizures",General Practitioner,42
+cat scratch disease,"skin swelling , groin mass , itchy eyelid",General Practitioner,56
+chronic glaucoma,"white discharge from eye , diminished vision , symptoms of eye , lacrimation , itchiness of eye , mass on eyelid , pain in eye , spots or clouds in vision , eye burns or stings , foreign body sensation in eye",Ophthalmologist,75
+retinal detachment,"double vision , pain in eye , spots or clouds in vision , lacrimation , itchiness of eye , symptoms of eye , blindness , diminished vision",General Practitioner,59
+aplastic anemia,"lack of growth , weakness , slurring words , fatigue , nausea , fever",General Practitioner,46
+overflow incontinence,"retention of urine , hand or finger stiffness or tightness , impotence , symptoms of bladder , suprapubic pain , blood in urine , involuntary urination",General Practitioner,59
+hemolytic anemia,"nausea , skin growth , fatigue , cough",General Practitioner,56
+lateral epicondylitis (tennis elbow),"hand or finger pain , wrist pain , arm pain , elbow pain , joint pain , loss of sensation , shoulder pain , hand or finger stiffness or tightness",General Practitioner,76
+open wound of the eye,"white discharge from eye , symptoms of eye , pain in eye , spots or clouds in vision , diminished vision",General Practitioner,59
+syphilis,"headache , vaginal discharge , muscle pain , skin rash",General Practitioner,38
+diabetic kidney disease,"blood in stool , impotence",Endocrinologist,70
+nose disorder,"cough , ear pain , difficulty breathing , coryza , sinus congestion , painful sinuses , nasal congestion , headache , facial pain , fever , nosebleed , sore throat",Psychiatrist,45
+drug withdrawal,"anxiety and nervousness , depression , dizziness , vomiting , nausea , chills , sharp abdominal pain",General Practitioner,39
+dental caries,"toothache , facial pain , peripheral edema , jaw swelling , gum pain , skin irritation , pain in gums , skin swelling , restlessness , ear pain , mouth pain , neck swelling",General Practitioner,65
+hypercholesterolemia,"palpitations , hand or finger stiffness or tightness , weight gain , sharp chest pain , excessive urination at night",General Practitioner,52
+fracture of the patella,"leg pain , hip pain , bones are painful , leg weakness , knee pain , knee swelling",Orthopedic Surgeon,45
+kidney failure,"shortness of breath , sharp chest pain , nausea , arm swelling , leg swelling , swollen abdomen , symptoms of the kidneys , vomiting",General Practitioner,80
+fracture of the neck,"leg pain , hip pain , elbow pain , lower body pain , low back pain",Orthopedic Surgeon,81
+muscle spasm,"sharp chest pain , abnormal involuntary movements , leg pain , headache , neck pain , low back pain , back pain , muscle cramps, contractures, or spasms , arm pain , loss of sensation",General Practitioner,59
+hemophilia,"cough , bleeding gums , leg pain , frontal headache",General Practitioner,84
+hyperosmotic hyperketotic state,"cough , weakness , frequent urination",General Practitioner,82
+peritonsillar abscess,"throat swelling , throat feels tight , difficulty in swallowing , headache , ear pain , swollen lymph nodes , sore throat",General Practitioner,39
+gastroparesis,"sharp abdominal pain , nausea , burning abdominal pain , upper abdominal pain , sharp chest pain , regurgitation , regurgitation.1 , vomiting",General Practitioner,79
+itching of unknown cause,"vaginal itching , abnormal appearing skin , allergic reaction , fluid retention , skin dryness, peeling, scaliness, or roughness , itchy scalp , skin rash , problems during pregnancy , itching of skin",General Practitioner,80
+polycythemia vera,"dizziness , headache , symptoms of eye , weight gain , fatigue",General Practitioner,40
+thrombocytopenia,"irregular appearing scalp , fatigue , bleeding gums , sharp chest pain , blood in stool , blood in urine , nosebleed",General Practitioner,69
+head and neck cancer,"throat feels tight , difficulty in swallowing , neck mass , hemoptysis , sore throat , plugged feeling in ear , hoarse voice , mouth pain",Oncologist,86
+pseudohypoparathyroidism,"leg pain , elbow weakness , wrist pain , knee pain",Endocrinologist,61
+goiter,"lump in throat , difficulty in swallowing , hot flashes , weight gain , fatigue",General Practitioner,83
+urge incontinence,"retention of urine , vaginal itching , painful urination , involuntary urination , frequent urination , excessive urination at night , constipation , blood in urine , symptoms of bladder",General Practitioner,38
+edward syndrome,"suprapubic pain , cross-eyed",Geneticist,47
+open wound of the arm,"arm pain , knee weakness , elbow pain , redness in or around nose",General Practitioner,57
+muscular dystrophy,"cough , nasal congestion , hip pain , feeling cold , fatigue",General Practitioner,82
+mittelschmerz,"diarrhea , lower abdominal pain , pelvic pain , sharp abdominal pain , vomiting , painful menstruation",General Practitioner,45
+corneal abrasion,"diminished vision , pain in eye , foreign body sensation in eye , lacrimation , eyelid swelling , symptoms of eye , eye redness , itchiness of eye , white discharge from eye",General Practitioner,69
+anemia of chronic disease,"dizziness , emotional symptoms , feeling ill , weakness",General Practitioner,68
+dysthymic disorder,"anxiety and nervousness , insomnia , excessive anger , slurring words , disturbance of memory , temper problems , loss of sex drive , depression , depressive or psychotic symptoms",Psychiatrist,67
+scarlet fever,"sore throat , throat swelling , skin swelling , fever , cough , skin rash",General Practitioner,38
+hypertensive heart disease,"sharp chest pain , insomnia , chest tightness , leg swelling , heartburn , weakness , fatigue , shortness of breath , difficulty breathing , palpitations , recent pregnancy",General Practitioner,32
+drug abuse (barbiturates),"anxiety and nervousness , depression , hostile behavior , drug abuse , abnormal involuntary movements , delusions or hallucinations",General Practitioner,49
+polycystic ovarian syndrome (pcos),"hot flashes , intermenstrual bleeding , pelvic pain , absence of menstruation , unpredictable menstruation , weight gain , long menstrual periods , infertility",Geneticist,31
+encephalitis,"dizziness , insomnia , headache , loss of sensation , disturbance of memory",General Practitioner,70
+cyst of the eyelid,"skin growth , diminished vision , abnormal movement of eyelid , muscle swelling , mass on eyelid",General Practitioner,66
+balanitis,"suprapubic pain , painful urination , abnormal appearing skin , diaper rash , itching of skin , penis pain , penis redness , skin rash , cough",General Practitioner,46
+foreign body in the throat,"sore throat , throat swelling , difficulty in swallowing , vomiting , shortness of breath , cough , infant spitting up",General Practitioner,78
+drug abuse (cocaine),"sharp chest pain , drug abuse , excessive anger , delusions or hallucinations , fears and phobias , abusing alcohol , hostile behavior , depression , depressive or psychotic symptoms",General Practitioner,89
+optic neuritis,"retention of urine , headache , diminished vision , blindness",General Practitioner,85
+alcohol withdrawal,"depressive or psychotic symptoms , dizziness , abusing alcohol , fainting , seizures , sharp chest pain , abnormal involuntary movements , vomiting , delusions or hallucinations , antisocial behavior",General Practitioner,85
+premature atrial contractions (pacs),"dizziness , palpitations , fainting , muscle swelling , shortness of breath , irregular heartbeat , fatigue",General Practitioner,55
+hemiplegia,"abnormal involuntary movements , headache , problems with movement , weakness , arm stiffness or tightness , seizures , difficulty speaking , loss of sensation , slurring words",General Practitioner,84
+hammer toe,"skin growth , foot or toe pain , skin lesion , loss of sensation",General Practitioner,79
+open wound of the cheek,"wrist pain , facial pain",General Practitioner,63
+joint effusion,"wrist swelling , elbow pain , knee stiffness or tightness , ankle swelling , wrist pain , ankle pain , problems with movement , knee swelling , knee pain",General Practitioner,53
+open wound of the knee,"leg pain , leg swelling",General Practitioner,62
+meningioma,"depressive or psychotic symptoms , dizziness , weakness , headache , disturbance of memory",General Practitioner,64
+brain cancer,"difficulty speaking , headache , weakness , focal weakness , slurring words , seizures , decreased appetite , disturbance of memory",Oncologist,69
+placental abruption,"emotional symptoms , nausea , spotting or bleeding during pregnancy , uterine contractions",General Practitioner,77
+seasonal allergies (hay fever),"sore throat , headache , ear pain , frontal headache , lacrimation , coryza , sneezing , cough , allergic reaction , itchiness of eye , nasal congestion",General Practitioner,86
+lung cancer,"shortness of breath , cough , decreased appetite , fatigue , hemoptysis , leg weakness , smoking problems",Oncologist,52
+primary kidney disease,"lack of growth , peripheral edema , symptoms of the kidneys , blood in urine , impotence",General Practitioner,72
+uterine cancer,"groin mass , pelvic pain , vaginal bleeding after menopause",Oncologist,55
+dry eye of unknown cause,"diminished vision , double vision , symptoms of eye , pain in eye , abnormal movement of eyelid , spots or clouds in vision , eye redness , lacrimation , white discharge from eye , foreign body sensation in eye , itchiness of eye",General Practitioner,79
+fibrocystic breast disease,"intermenstrual bleeding , pain or soreness of breast , bleeding or discharge from nipple , lump or mass of breast",General Practitioner,54
+fungal infection of the hair,"skin swelling , abnormal appearing skin , skin lesion , skin growth , irregular appearing scalp , pelvic pain , skin dryness, peeling, scaliness, or roughness , skin irritation , acne or pimples , itching of skin , itchy scalp , skin rash",Infectious Disease Specialist,33
+tooth abscess,"skin swelling , lip swelling , toothache , facial pain , neck swelling , mouth pain , pain in gums , jaw swelling , peripheral edema , gum pain",General Practitioner,62
+envenomation from spider or animal bite,"hand or finger swelling , arm swelling , foot or toe swelling , itching of skin , skin swelling , abnormal appearing skin , paresthesia , allergic reaction , fluid retention",General Practitioner,67
+vacterl syndrome,"suprapubic pain , emotional symptoms",Geneticist,77
+vertebrobasilar insufficiency,"sharp chest pain , leg pain , back pain , dizziness",General Practitioner,69
+rectal disorder,"blood in stool , diarrhea , pain of the anus , burning abdominal pain , cramps and spasms , melena , itching of the anus , sharp abdominal pain , constipation , heartburn , rectal bleeding",Psychiatrist,71
+atonic bladder,"retention of urine , suprapubic pain , emotional symptoms , impotence , symptoms of bladder",General Practitioner,48
+benign paroxysmal positional vertical (bppv),"irregular heartbeat , vomiting , headache , weakness , dizziness , fainting , problems with movement , frontal headache , nausea",General Practitioner,68
+blepharospasm,"headache , abnormal movement of eyelid , low back weakness , diminished vision",General Practitioner,30
+sarcoidosis,"shortness of breath , sharp chest pain , chest tightness , cough , headache , pain in eye , peripheral edema , facial pain",General Practitioner,82
+metastatic cancer,"vaginal dryness , decreased appetite , fatigue , neck mass , focal weakness",Oncologist,43
+trigger finger (finger disorder),"hand or finger pain , hand or finger swelling , hand or finger stiffness or tightness , bones are painful , wrist pain , hand or finger cramps or spasms",Psychiatrist,57
+stye,"skin swelling , abnormal appearing skin , eye redness , mass on eyelid , eyelid swelling , eyelid lesion or rash , pain in eye , eye burns or stings , symptoms of eye , itchiness of eye , swollen eye",General Practitioner,68
+hemochromatosis,"difficulty speaking , ache all over , abnormal appearing skin",General Practitioner,55
+osteochondroma,"lower abdominal pain , skin lesion , knee pain , foot or toe pain , lip swelling , abnormal appearing skin , skin growth",General Practitioner,63
+cushing syndrome,"emotional symptoms , weight gain",Geneticist,43
+typhoid fever,"wrist pain , fever",General Practitioner,52
+vitreous degeneration,"double vision , pain in eye , foreign body sensation in eye , eye redness , lacrimation , diminished vision , symptoms of eye , spots or clouds in vision",General Practitioner,32
+atrophic skin condition,"lip swelling , skin lesion , acne or pimples , wrinkles on skin , skin swelling , skin moles , skin growth , skin irritation , abnormal appearing skin",General Practitioner,60
+aspergillosis,"shortness of breath , knee lump or mass",General Practitioner,71
+uterine atony,"sharp abdominal pain , blood in urine , pain during pregnancy , back cramps or spasms , intermenstrual bleeding , spotting or bleeding during pregnancy , uterine contractions , problems during pregnancy , lower abdominal pain",General Practitioner,47
+trichinosis,"nasal congestion , knee lump or mass",General Practitioner,82
+whooping cough,"sore throat , nasal congestion , vomiting , shortness of breath , cough",General Practitioner,59
+open wound of the lip,"lip swelling , dry lips , mouth ulcer , facial pain , mouth pain",General Practitioner,66
+subacute thyroiditis,"palpitations , blood in stool , problems during pregnancy , pain during pregnancy , uterine contractions",Endocrinologist,74
+oral mucosal lesion,"sore throat , cough , lip swelling , toothache , facial pain , fever , mouth pain , mouth ulcer , gum pain , tongue lesions",General Practitioner,85
+open wound due to trauma,"wrist swelling , skin on arm or hand looks infected",General Practitioner,85
+intracerebral hemorrhage,"depressive or psychotic symptoms , dizziness , vomiting , headache , diminished vision , blindness , seizures , nausea , weakness , focal weakness",General Practitioner,68
+alzheimer disease,"depressive or psychotic symptoms , irregular appearing scalp , eye burns or stings , disturbance of memory , delusions or hallucinations , hostile behavior , depression , difficulty speaking",General Practitioner,72
+vaginismus,"sharp abdominal pain , pain during intercourse , lower abdominal pain , pelvic pain , vaginal pain , suprapubic pain",General Practitioner,84
+systemic lupus erythematosis (sle),"bones are painful , leg swelling , ache all over , hand or finger stiffness or tightness , knee pain , sharp chest pain",General Practitioner,53
+premature ovarian failure,"lack of growth , weight gain , absence of menstruation , infertility , pelvic pain",General Practitioner,57
+thoracic outlet syndrome,"sharp chest pain , hand or finger pain , arm pain , decreased appetite , shoulder pain , loss of sensation",Geneticist,34
+ganglion cyst,"leg pain , skin growth , knee pain , foot or toe pain , knee swelling , knee lump or mass , hand or finger lump or mass , wrist lump or mass , wrist swelling , hand or finger pain",General Practitioner,87
+dislocation of the knee,"knee pain , knee stiffness or tightness , knee swelling",General Practitioner,65
+crohn disease,"blood in stool , nausea , pain of the anus , regurgitation , regurgitation.1 , sharp abdominal pain , vomiting , diarrhea , burning abdominal pain , rectal bleeding",General Practitioner,47
+postoperative infection,"abnormal appearing skin , jaw swelling , sharp abdominal pain , fever , skin on leg or foot looks infected , skin swelling",Infectious Disease Specialist,80
+folate deficiency,"sharp chest pain , vomiting blood , difficulty breathing , shortness of breath , sharp abdominal pain",General Practitioner,49
+fluid overload,"vomiting , nausea , hand or finger swelling , peripheral edema , fluid retention , shortness of breath , sharp chest pain , sharp abdominal pain",General Practitioner,75
+atrial flutter,"sharp chest pain , palpitations , irregular heartbeat , frequent urination , swollen lymph nodes , shortness of breath , chest tightness , increased heart rate",General Practitioner,41
+skin disorder,"abnormal appearing skin , skin moles , itching of skin , skin irritation , skin swelling , acne or pimples , irregular appearing scalp , skin lesion , skin growth , skin dryness, peeling, scaliness, or roughness",Psychiatrist,30
+floaters,"diminished vision , lacrimation , symptoms of eye , foreign body sensation in eye , spots or clouds in vision",General Practitioner,45
+tooth disorder,"toothache , mouth ulcer , peripheral edema , jaw swelling , headache , ear pain , bleeding gums , pain in gums , facial pain , gum pain",Psychiatrist,44
+heart attack,"shortness of breath , chest tightness , irregular heartbeat , nausea , arm pain , increased heart rate , burning chest pain , sweating , fainting , sharp chest pain , heartburn",Cardiologist,92
+open wound of the abdomen,"sharp abdominal pain , irregular belly button , blindness",General Practitioner,73
+fracture of the leg,"leg pain , hip pain , problems with movement , leg swelling , leg stiffness or tightness , knee weakness , knee swelling , ankle swelling , knee pain , ankle pain",Orthopedic Surgeon,89
+oral thrush (yeast infection),"sore throat , cough , nasal congestion , fever , tongue lesions , constipation , irritable infant , skin rash , mouth pain , mouth ulcer",Infectious Disease Specialist,35
+pityriasis rosea,"skin swelling , vaginal itching , abnormal appearing skin , itching of skin , warts , skin rash",General Practitioner,72
+allergy to animals,"sore throat , cough , nasal congestion , cross-eyed , allergic reaction",Allergist,73
+orthostatic hypotension,"sharp chest pain , abnormal involuntary movements , irregular heartbeat , fainting , feeling ill , headache , weakness , dizziness",General Practitioner,62
+obstructive sleep apnea (osa),"shortness of breath , abnormal involuntary movements , difficulty in swallowing , mouth dryness , fatigue , insomnia , difficulty breathing , sleepiness , apnea , abnormal breathing sounds , weight gain , sweating",General Practitioner,67
+hypokalemia,"shortness of breath , sharp chest pain , sharp abdominal pain , diarrhea , loss of sensation , fever , vomiting , headache , nausea , fainting",General Practitioner,82
+psoriasis,"abnormal appearing skin , skin lesion , skin growth , skin moles , joint pain , skin dryness, peeling, scaliness, or roughness , skin rash , skin swelling , itchy scalp , irregular appearing scalp , itching of skin",General Practitioner,72
+dislocation of the shoulder,"wrist pain , arm pain , arm stiffness or tightness , neck mass , shoulder pain , arm swelling",General Practitioner,36
+intussusception,"blood in stool , emotional symptoms , sharp abdominal pain",General Practitioner,64
+cervicitis,"sharp abdominal pain , nausea , vaginal itching , painful urination , vaginal discharge , pelvic pain , pain during pregnancy , suprapubic pain",General Practitioner,47
+abscess of the pharynx,"sharp chest pain , difficulty in swallowing , fever , sore throat , cough , throat swelling , headache , nasal congestion",General Practitioner,32
+primary thrombocythemia,"dizziness , flatulence , fatigue",General Practitioner,43
+arthritis of the hip,"hip pain , groin pain , hip stiffness or tightness , back pain , low back pain , ache all over , lower body pain , joint pain , leg pain , pelvic pain , problems with movement , knee pain",General Practitioner,50
+decubitus ulcer,"difficulty speaking , skin lesion , incontinence of stool , skin on leg or foot looks infected",General Practitioner,43
+hypernatremia,"shortness of breath , fainting , weakness , fever , difficulty breathing",General Practitioner,54
+sensorineural hearing loss,"hoarse voice , diminished hearing , throat feels tight , ear pain , fluid in ear , plugged feeling in ear , itchy ear(s) , dizziness , nasal congestion , ringing in ear",General Practitioner,45
+chronic ulcer,"skin lesion , skin pain",General Practitioner,50
+osteoporosis,"hip pain , bones are painful , disturbance of memory , leg cramps or spasms , joint pain , early or late onset of menopause , back pain , stomach bloating , muscle cramps, contractures, or spasms",General Practitioner,69
+ileus,"headache , diarrhea , lower abdominal pain , pain of the anus , sharp abdominal pain , nausea , burning abdominal pain , constipation , vomiting",General Practitioner,89
+sickle cell crisis,"sharp chest pain , leg pain , hip pain , sharp abdominal pain , vomiting , back pain , ache all over , low back pain , knee pain , arm pain , burning abdominal pain",General Practitioner,60
+urethritis,"retention of urine , suprapubic pain , sharp abdominal pain , vaginal itching , frequent urination , blood in urine , painful urination , penis pain , penile discharge",General Practitioner,64
+prostatitis,"retention of urine , sharp abdominal pain , frequent urination , blood in urine , back pain , impotence , fever , lower abdominal pain , chills , painful urination",General Practitioner,55
+otitis externa (swimmer's ear),"cough , diminished hearing , ringing in ear , itchy ear(s) , sore throat , facial pain , plugged feeling in ear , fever , ear pain , fluid in ear , redness in ear",General Practitioner,34
+poisoning due to anticonvulsants,"dizziness , difficulty speaking , problems with movement , depression",General Practitioner,96
+testicular torsion,"emotional symptoms , symptoms of the scrotum and testes , back pain , swelling of scrotum , pain in testicles , sharp abdominal pain",General Practitioner,37
+tricuspid valve disease,"anxiety and nervousness , emotional symptoms",General Practitioner,36
+urethral stricture,"suprapubic pain , painful urination , involuntary urination , blood in urine , symptoms of bladder , symptoms of the scrotum and testes , retention of urine , symptoms of prostate",General Practitioner,63
+vitamin d deficiency,"hot flashes , arm stiffness or tightness , fatigue",General Practitioner,41
+hydatidiform mole,"dizziness , sharp abdominal pain , diminished vision , pain during pregnancy , spotting or bleeding during pregnancy",General Practitioner,84
+pain disorder affecting the neck,"headache , arm pain , back pain , low back pain , insomnia , neck pain , neck stiffness or tightness , disturbance of memory , dizziness",Psychiatrist,53
+tuberculosis,"cough , vaginal itching , shortness of breath , congestion in chest",General Practitioner,81
+pelvic fistula,"dizziness , elbow weakness , vaginal discharge",General Practitioner,33
+acute bronchiolitis,"cough , nasal congestion , irritable infant , vomiting , wheezing , decreased appetite , fever , difficulty breathing , pulling at ears , hurts to breath , coryza , shortness of breath",General Practitioner,46
+presbyopia,"difficulty speaking , symptoms of eye , pain in eye , abnormal movement of eyelid , foreign body sensation in eye , spots or clouds in vision , diminished vision",General Practitioner,30
+dementia,"depressive or psychotic symptoms , insomnia , abnormal involuntary movements , hostile behavior , problems with movement , disturbance of memory , focal weakness , delusions or hallucinations",General Practitioner,59
+insect bite,"skin swelling , hand or finger swelling , lip swelling , leg swelling , fluid retention , itching of skin , skin lesion , abnormal appearing skin , peripheral edema , skin rash",General Practitioner,69
+paroxysmal ventricular tachycardia,"shortness of breath , dizziness , chest tightness , irregular heartbeat , weight gain , increased heart rate , fatigue , sharp chest pain , fainting , decreased heart rate",General Practitioner,85
+congenital heart defect,"sharp chest pain , lack of growth , arm swelling , hand or finger stiffness or tightness",General Practitioner,59
+connective tissue disorder,"difficulty in swallowing , feeling ill , joint pain",Psychiatrist,63
+foreign body in the eye,"symptoms of eye , eye burns or stings , white discharge from eye , eye redness , lacrimation , itchiness of eye , foreign body sensation in eye , pain in eye",General Practitioner,79
+poisoning due to gas,"shortness of breath , sharp chest pain , dizziness , wheezing , headache , drainage in throat , cough",General Practitioner,92
+pyogenic skin infection,"skin swelling , hand or finger swelling , abnormal appearing skin , skin lesion , foot or toe pain , leg swelling , leg pain , foot or toe swelling , hand or finger pain , skin rash , peripheral edema",Infectious Disease Specialist,30
+endometrial hyperplasia,"back weakness , involuntary urination , heavy menstrual flow , vaginal bleeding after menopause , unpredictable menstruation",General Practitioner,42
+acanthosis nigricans,"skin lesion , acne or pimples , weight gain , skin growth",General Practitioner,89
+central atherosclerosis,"shortness of breath , blood in urine , fatigue , irregular heartbeat",General Practitioner,39
+viral exanthem,"cough , nasal congestion , skin swelling , vomiting , abnormal appearing skin , itching of skin , skin rash , decreased appetite , fever , pulling at ears",General Practitioner,73
+noninfectious gastroenteritis,"sharp abdominal pain , headache , decreased appetite , chills , rectal bleeding , blood in stool , burning abdominal pain , fever , fluid retention , nausea , vomiting , diarrhea",General Practitioner,44
+benign prostatic hyperplasia (bph),"retention of urine , swelling of scrotum , impotence , excessive urination at night , hesitancy , low urine output , pain in testicles , involuntary urination , blood in urine , symptoms of bladder , symptoms of prostate , frequent urination",General Practitioner,89
+menopause,"vaginal itching , involuntary urination , hot flashes , sweating , absence of menstruation , unpredictable menstruation",General Practitioner,75
+primary immunodeficiency,"cough , arm stiffness or tightness , frontal headache , decreased appetite , fatigue",General Practitioner,51
+ovarian cancer,"groin mass , stomach bloating , sharp abdominal pain , decreased appetite",Oncologist,45
+cataract,"diminished vision , double vision , symptoms of eye , pain in eye , abnormal movement of eyelid , lacrimation , blindness , cloudy eye , itchiness of eye , spots or clouds in vision",General Practitioner,67
+dislocation of the hip,"hip pain , abusing alcohol , leg pain",General Practitioner,54
+spinal stenosis,"arm pain , neck pain , paresthesia , shoulder pain , lower body pain , leg pain , hip pain , headache , problems with movement , loss of sensation , back pain , low back pain",Gastroenterologist,69
+intestinal obstruction,"sharp abdominal pain , vomiting , stomach bloating , retention of urine , vaginal itching , burning abdominal pain , pain of the anus , nausea , constipation",General Practitioner,43
+heart contusion,"depression , elbow weakness",General Practitioner,82
+congenital malformation syndrome,"diminished hearing , lack of growth , seizures , gum pain",Geneticist,74
+sporotrichosis,"wrist pain , knee pain",General Practitioner,74
+lymphangitis,"arm pain , neck swelling",General Practitioner,37
+wernicke korsakoff syndrome,"anxiety and nervousness , depressive or psychotic symptoms , abusing alcohol",Geneticist,30
+intestinal disease,"fainting , sharp abdominal pain , nausea , vomiting , diarrhea , burning abdominal pain , sharp chest pain , regurgitation , regurgitation.1",General Practitioner,30
+acute bronchitis,"shortness of breath , sharp chest pain , sore throat , nasal congestion , headache , wheezing , fever , coughing up sputum , congestion in chest , cough , difficulty breathing , coryza",General Practitioner,70
+persistent vomiting of unknown cause,"dizziness , abnormal involuntary movements , vomiting , fever , diarrhea , sharp abdominal pain , nausea",General Practitioner,40
+open wound of the foot,"foot or toe pain , foot or toe swelling , irregular appearing nails , foot or toe lump or mass , skin lesion , skin on leg or foot looks infected",General Practitioner,51
+myocarditis,"sharp chest pain , dizziness , palpitations",General Practitioner,58
+preeclampsia,"sharp abdominal pain , headache , lower abdominal pain , vaginal redness , uterine contractions , spots or clouds in vision , problems during pregnancy , recent pregnancy , pain during pregnancy",General Practitioner,76
+ischemic heart disease,"shortness of breath , dizziness , chest tightness , palpitations , throat feels tight , peripheral edema , muscle pain , difficulty breathing , fatigue , sharp chest pain , lymphedema",General Practitioner,76
+neurofibromatosis,"abnormal involuntary movements , groin mass , abnormal appearing skin , headache",General Practitioner,52
+chickenpox,"cough , pain in testicles , abnormal appearing skin , fever , itching of skin , skin rash",General Practitioner,48
+pancreatic cancer,"jaundice , nausea , ache all over , stomach bloating , diarrhea , sharp abdominal pain , arm swelling",Oncologist,59
+neuropathy due to drugs,"cough , vomiting , foot or toe pain , problems with movement , loss of sensation",General Practitioner,34
+croup,"hoarse voice , nasal congestion , coryza , abnormal breathing sounds , shortness of breath , wheezing , fever , sore throat , vomiting , cough , pulling at ears",General Practitioner,38
+idiopathic excessive menstruation,"sharp abdominal pain , cramps and spasms , blood clots during menstrual periods , long menstrual periods , unpredictable menstruation , painful menstruation , frequent menstruation , vaginal discharge , intermenstrual bleeding , heavy menstrual flow , involuntary urination",General Practitioner,49
+amblyopia,"pus draining from ear , eye deviation , diminished vision , cross-eyed , pain in eye",General Practitioner,38
+meckel diverticulum,"lower abdominal pain , knee lump or mass",General Practitioner,71
+dislocation of the wrist,"depression , elbow weakness , hand or finger pain , arm pain",General Practitioner,64
+ear drum damage,"cough , diminished hearing , pus draining from ear , ear pain , pulling at ears , redness in ear , bleeding from ear , ringing in ear , fluid in ear , nasal congestion , plugged feeling in ear",General Practitioner,61
+erectile dysfunction,"retention of urine , pain in testicles , involuntary urination , pain during intercourse , frequent urination , excessive urination at night , loss of sex drive , blood in urine , impotence , symptoms of prostate",General Practitioner,84
+temporary or benign blood in urine,"suprapubic pain , painful urination , involuntary urination , frequent urination , lower abdominal pain , regurgitation , regurgitation.1 , retention of urine , sharp abdominal pain , back pain , blood in urine , symptoms of bladder",General Practitioner,51
+kidney disease due to longstanding hypertension,"difficulty speaking , feeling cold , symptoms of the kidneys , shortness of breath",General Practitioner,68
+chondromalacia of the patella,"bones are painful , knee weakness , leg pain , knee swelling , problems with movement , knee pain",General Practitioner,64
+onychomycosis,"skin swelling , abnormal appearing skin , foot or toe pain , skin on leg or foot looks infected , skin dryness, peeling, scaliness, or roughness , skin growth , irregular appearing nails , too little hair , skin rash",General Practitioner,69
+urethral disorder,"retention of urine , suprapubic pain , sharp abdominal pain , vomiting , involuntary urination , side pain , abusing alcohol , painful urination",Psychiatrist,45
+lyme disease,"depressive or psychotic symptoms , hip pain , abnormal appearing skin , symptoms of the face , fever , fatigue , headache",General Practitioner,73
+iron deficiency anemia,"dizziness , blood in stool , intermenstrual bleeding , heartburn , weakness , heavy menstrual flow , regurgitation , regurgitation.1 , fatigue , weight gain , rectal bleeding",General Practitioner,64
+acute respiratory distress syndrome (ards),"shortness of breath , depressive or psychotic symptoms , sharp chest pain , difficulty breathing , cough , fever , chills , chest tightness , wheezing",Geneticist,90
+toxic multinodular goiter,"abnormal involuntary movements , irregular heartbeat , fatigue , involuntary urination , double vision",General Practitioner,70
+open wound of the finger,"hand or finger pain , hand or finger stiffness or tightness , skin on arm or hand looks infected , hand or finger swelling",General Practitioner,35
+autonomic nervous system disorder,"dizziness , difficulty in swallowing , leg pain , headache , decreased appetite",Psychiatrist,54
+psychosexual disorder,"involuntary urination , pain during intercourse , impotence , premature ejaculation , depression , fatigue , loss of sex drive",Psychiatrist,84
+anemia,"shortness of breath , dizziness , vomiting blood , weakness , changes in stool appearance , melena , nosebleed , fatigue",General Practitioner,68
+tendinitis,"leg pain , hip pain , hand or finger pain , knee pain , ankle pain , hand or finger swelling , arm pain , foot or toe pain , wrist pain , shoulder pain",General Practitioner,35
+common cold,"cough , nasal congestion , wheezing , ear pain , chills , coryza , sore throat , vomiting , fever , flu-like syndrome , headache",General Practitioner,18
+amyotrophic lateral sclerosis (als),"abnormal involuntary movements , difficulty speaking , difficulty in swallowing , weakness , leg cramps or spasms",General Practitioner,35
+central retinal artery or vein occlusion,"irregular heartbeat , diminished vision , foreign body sensation in eye , blindness , pain in eye , symptoms of eye",General Practitioner,60
+paroxysmal supraventricular tachycardia,"shortness of breath , chest tightness , involuntary urination , weakness , increased heart rate , sharp chest pain , dizziness , palpitations , irregular heartbeat",General Practitioner,69
+venous insufficiency,"leg pain , abnormal appearing skin , skin lesion , leg cramps or spasms , lymphedema , skin on leg or foot looks infected , fluid retention , burning chest pain",General Practitioner,41
+trichomonas infection,"vomiting , vaginal itching , lower abdominal pain , unpredictable menstruation , sharp abdominal pain , nausea , pain during pregnancy , vaginal discharge",Infectious Disease Specialist,76
+acne,"skin swelling , abnormal appearing skin , acne or pimples , skin growth , irregular appearing scalp , long menstrual periods , skin dryness, peeling, scaliness, or roughness , skin rash , skin moles",General Practitioner,69
+depression,"depression , abusing alcohol , anxiety and nervousness , disturbance of memory , delusions or hallucinations , depressive or psychotic symptoms , excessive anger , temper problems , insomnia , hostile behavior , drug abuse",General Practitioner,42
+drug abuse,"anxiety and nervousness , depression , depressive or psychotic symptoms , abusing alcohol , drug abuse , smoking problems , sweating , antisocial behavior , hostile behavior , delusions or hallucinations",General Practitioner,79
+urinary tract obstruction,"retention of urine , suprapubic pain , sharp abdominal pain , blood in urine , back pain , symptoms of prostate , frequent urination , excessive urination at night , painful urination , side pain",General Practitioner,67
+diabetes insipidus,"dizziness , emotional symptoms",General Practitioner,54
+iridocyclitis,"headache , diminished vision , symptoms of eye , pain in eye , foreign body sensation in eye , eye redness , eye burns or stings , cloudy eye , lacrimation",General Practitioner,60
+varicocele of the testicles,"symptoms of the scrotum and testes , swelling of scrotum , pain in testicles , lower abdominal pain , skin growth , pain of the anus , involuntary urination , infertility , groin pain , mass in scrotum",General Practitioner,42
+irritable bowel syndrome,"insomnia , flatulence , upper abdominal pain , diarrhea , lower abdominal pain , burning abdominal pain , anxiety and nervousness , nausea , sharp abdominal pain",Geneticist,85
+fracture of the foot,"foot or toe pain , foot or toe stiffness or tightness , foot or toe swelling , foot or toe weakness , ankle pain , ankle swelling",Orthopedic Surgeon,31
+ovarian cyst,"sharp abdominal pain , nausea , vaginal discharge , intermenstrual bleeding , pelvic pain , burning abdominal pain , painful menstruation , lower abdominal pain , vomiting",General Practitioner,73
+chlamydia,"sharp abdominal pain , lower abdominal pain , pelvic pain , vaginal pain , vaginal discharge , vaginal itching",General Practitioner,34
+parasitic disease,"cough , sharp abdominal pain , abnormal appearing skin , retention of urine , hand or finger swelling , skin rash",General Practitioner,49
+fracture of the jaw,"facial pain , jaw swelling , pain in eye , peripheral edema , mouth pain , bones are painful",Orthopedic Surgeon,74
+lipoma,"groin mass , abnormal appearing skin , skin lesion , bones are painful , shoulder lump or mass , skin swelling , back mass or lump , arm lump or mass , neck mass , skin growth",General Practitioner,77
+female genitalia infection,"skin swelling , vaginal discharge , skin lesion , vulvar irritation , groin pain , vulvar sore , vaginal pain",Infectious Disease Specialist,38
+pulmonary hypertension,"shortness of breath , palpitations , difficulty breathing , apnea , feeling ill , sharp chest pain , cough , fatigue , hemoptysis",General Practitioner,51
+thyroid nodule,"hoarse voice , diminished hearing , difficulty in swallowing , neck mass , fatigue , throat feels tight , back weakness",Endocrinologist,30
+broken tooth,"lip swelling , dry lips , bleeding gums , facial pain , toothache , difficulty eating , gum pain",General Practitioner,40
+dumping syndrome,"vomiting , nausea , knee lump or mass",Geneticist,61
+lymphadenitis,"sore throat , cough , sharp abdominal pain , neck pain , neck swelling , fever , skin swelling , ear pain , neck mass",General Practitioner,81
+injury to the face,"diminished hearing , ear pain , neck stiffness or tightness , bleeding from ear , neck pain , nosebleed , facial pain , headache , mouth pain",Traumatologist,84
+aortic valve disease,"shortness of breath , sharp chest pain , palpitations , irregular heartbeat , lymphedema , groin mass , fainting , peripheral edema , difficulty breathing",General Practitioner,37
+rheumatoid arthritis,"hand or finger pain , wrist pain , ache all over , elbow swelling , wrist swelling , joint pain , joint swelling , hand or finger swelling , peripheral edema , knee pain",General Practitioner,64
+spermatocele,"retention of urine , pain in testicles , frequent urination , elbow weakness , mass in scrotum",General Practitioner,30
+impetigo,"cough , nasal congestion , skin swelling , skin lesion , mouth ulcer , itching of skin , sore in nose , skin rash , fever , abnormal appearing skin",General Practitioner,44
+anal fistula,"blood in stool , mass in scrotum , rectal bleeding , pain of the anus",General Practitioner,32
+hypothermia,"depressive or psychotic symptoms , emotional symptoms , fainting , weakness",General Practitioner,32
+oppositional disorder,"hostile behavior , restlessness , excessive anger , low self-esteem , obsessions and compulsions , antisocial behavior , low urine output , fainting , temper problems , depressive or psychotic symptoms",Psychiatrist,30
+migraine,"headache , nausea , diminished vision , spots or clouds in vision , blindness , symptoms of the face , disturbance of memory , dizziness , vomiting",General Practitioner,33
+diabetic peripheral neuropathy,"leg pain , skin lesion , foot or toe swelling , loss of sensation , lymphedema , foot or toe stiffness or tightness , foot or toe pain , paresthesia , problems with movement",Endocrinologist,58
+testicular disorder,"hoarse voice , symptoms of the scrotum and testes , impotence , loss of sex drive , fatigue",Psychiatrist,47
+gestational diabetes,"vaginal redness , problems during pregnancy , pelvic pressure , pain during pregnancy , uterine contractions",General Practitioner,62
+hidradenitis suppurativa,"skin swelling , groin mass , arm pain , skin lesion , skin growth , skin rash",General Practitioner,36
+valley fever,"hand or finger pain , fever , shortness of breath , shoulder swelling",General Practitioner,71
+conjunctivitis due to bacteria,"sore throat , nasal congestion , abnormal appearing skin , cough , eye redness , fever",General Practitioner,34
+lewy body dementia,"depressive or psychotic symptoms , hostile behavior , delusions or hallucinations , disturbance of memory , abnormal involuntary movements",General Practitioner,86
+multiple myeloma,"lip swelling , problems with movement , weakness , fatigue , disturbance of memory",General Practitioner,78
+head injury,"fainting , lip swelling , facial pain , double vision , back pain , neck pain , headache , dizziness",Traumatologist,84
+ascending cholangitis,"shortness of breath , retention of urine , jaundice , sharp abdominal pain , fever",General Practitioner,88
+idiopathic irregular menstrual cycle,"sharp abdominal pain , intermenstrual bleeding , pelvic pain , cramps and spasms , unpredictable menstruation , painful menstruation , infertility , frequent menstruation , long menstrual periods , lower abdominal pain , heavy menstrual flow",General Practitioner,72
+interstitial lung disease,"sore throat , nasal congestion , wheezing , fever , abnormal breathing sounds , shortness of breath , cough , headache , sleepiness",General Practitioner,88
+mononeuritis,"hand or finger pain , arm pain , foot or toe pain , elbow pain , loss of sensation , shoulder pain , leg pain , wrist pain , hand or finger weakness , ankle pain",General Practitioner,79
+malaria,"fainting , headache , knee lump or mass , fever",General Practitioner,75
+somatization disorder,"anxiety and nervousness , dizziness , fainting , ache all over , depression",Psychiatrist,35
+hypovolemia,"dizziness , sharp abdominal pain , feeling ill , vomiting , nausea , diarrhea , decreased appetite , fever , fainting",General Practitioner,40
+schizophrenia,"anxiety and nervousness , insomnia , temper problems , fears and phobias , low self-esteem , hostile behavior , excessive anger , hysterical behavior , depression , depressive or psychotic symptoms , delusions or hallucinations",General Practitioner,38
+knee ligament or meniscus tear,"knee swelling , leg weakness , knee pain , knee weakness , knee lump or mass , knee stiffness or tightness , leg stiffness or tightness",General Practitioner,59
+endocarditis,"sharp chest pain , dizziness , palpitations , increased heart rate , shortness of breath , irregular heartbeat",General Practitioner,83
+sepsis,"shortness of breath , sharp abdominal pain , decreased appetite , difficulty breathing , suprapubic pain , feeling ill , vomiting , cough , fever , chills , weakness",General Practitioner,99
+heat stroke,"dizziness , feeling hot",General Practitioner,96
+cholecystitis,"sharp abdominal pain , vomiting , nausea , back pain , burning abdominal pain , side pain , lower body pain , upper abdominal pain , stomach bloating , symptoms of the kidneys , sharp chest pain , regurgitation.1",General Practitioner,68
+cardiac arrest,"shortness of breath , sharp chest pain , palpitations , arm swelling , weakness , decreased heart rate , difficulty breathing , irregular heartbeat",General Practitioner,34
+cardiomyopathy,"shortness of breath , chest tightness , peripheral edema , decreased heart rate , fatigue , irregular heartbeat , heartburn , sharp chest pain",General Practitioner,87
+social phobia,"depressive or psychotic symptoms , insomnia , excessive anger , delusions or hallucinations , anxiety and nervousness , excessive appetite , fears and phobias , abusing alcohol , depression",General Practitioner,69
+meningitis,"vomiting , neck pain , neck stiffness or tightness , fever , ache all over , cough , headache , nausea",General Practitioner,84
+spherocytosis,"cough , elbow weakness , skin rash",General Practitioner,35
+hormone disorder,"lack of growth , headache , hot flashes , acne or pimples , excessive growth",Psychiatrist,45
+raynaud disease,"hand or finger pain , hand or finger swelling , loss of sensation",General Practitioner,49
+reactive arthritis,"hip pain , knee lump or mass",General Practitioner,41
+scabies,"abnormal appearing skin , foot or toe swelling , problems during pregnancy , itching of skin , unpredictable menstruation , skin rash , skin swelling",General Practitioner,47
+ear wax impaction,"cough , nasal congestion , diminished hearing , fluid in ear , fever , pulling at ears , ringing in ear , plugged feeling in ear , sinus congestion , ear pain",General Practitioner,72
+hypertension of pregnancy,"headache , pain during pregnancy , heartburn , problems during pregnancy , spotting or bleeding during pregnancy , uterine contractions",Obstetrician,46
+peripheral arterial embolism,"leg pain , abnormal appearing skin , knee swelling , loss of sensation , paresthesia , leg swelling",General Practitioner,73
+rosacea,"skin swelling , abnormal appearing skin , skin lesion , symptoms of eye , lymphedema , skin dryness, peeling, scaliness, or roughness , acne or pimples , skin growth , itching of skin , skin moles",General Practitioner,67
+fracture of the skull,"depressive or psychotic symptoms , diminished hearing , vomiting , headache , drug abuse",Orthopedic Surgeon,73
+uveitis,"elbow weakness , diminished vision , symptoms of eye",General Practitioner,62
+fracture of the facial bones,"lip swelling , double vision , pain in eye , peripheral edema , redness in or around nose , abusing alcohol , facial pain , headache , swollen eye",Orthopedic Surgeon,74
+tracheitis,"shortness of breath , hoarse voice , cough , nasal congestion , fever , sneezing , sore throat",General Practitioner,56
+jaw disorder,"difficulty in swallowing , headache , toothache , peripheral edema , jaw swelling , mouth pain , facial pain , neck mass",Psychiatrist,89
+perirectal infection,"skin swelling , swelling of scrotum , abnormal appearing skin , skin lesion , pain of the anus , pain in testicles",Infectious Disease Specialist,47
+breast cyst,"vaginal dryness , pain or soreness of breast , skin growth , lump or mass of breast",General Practitioner,89
+post-traumatic stress disorder (ptsd),"anxiety and nervousness , depression , depressive or psychotic symptoms , insomnia , hostile behavior , drug abuse , abusing alcohol , temper problems , excessive anger , delusions or hallucinations",Psychiatrist,68
+kidney cancer,"involuntary urination , blood in urine , kidney mass , retention of urine , groin mass",Oncologist,37
+vulvar cancer,"insomnia , back pain , emotional symptoms",Oncologist,59
+blepharitis,"diminished vision , pain in eye , spots or clouds in vision , eye redness , lacrimation , swollen eye , eyelid swelling , white discharge from eye , itchiness of eye , eye burns or stings , symptoms of eye",General Practitioner,54
+celiac disease,"sharp abdominal pain , vomiting , nausea , peripheral edema , sharp chest pain , regurgitation.1",General Practitioner,59
+cystitis,"retention of urine , sharp abdominal pain , painful urination , pelvic pain , side pain , lower abdominal pain , blood in urine , back pain , suprapubic pain , frequent urination , symptoms of bladder , involuntary urination",General Practitioner,57
+sickle cell anemia,"dry lips , back pain , fever , temper problems , pulling at ears , leg pain , joint pain , ache all over",General Practitioner,68
+subconjunctival hemorrhage,"headache , facial pain , diminished vision , pain in eye , foreign body sensation in eye , eye redness , bleeding from eye , symptoms of eye",General Practitioner,59
+hemorrhoids,"blood in stool , pain of the anus , heartburn , rectal bleeding , constipation , mass or swelling around the anus , itching of the anus , lower body pain , changes in stool appearance , sharp abdominal pain , melena",General Practitioner,70
+contact dermatitis,"skin swelling , skin lesion , acne or pimples , skin moles , skin dryness, peeling, scaliness, or roughness , skin irritation , allergic reaction , itching of skin , abnormal appearing skin , swollen eye , skin rash",General Practitioner,35
+sinus bradycardia,"shortness of breath , dizziness , chest tightness , palpitations , weakness , decreased heart rate , fainting , feeling ill , increased heart rate , sharp chest pain , irregular heartbeat",General Practitioner,55
+high blood pressure,"sharp chest pain , headache",General Practitioner,44
+pelvic inflammatory disease,"vomiting , pelvic pain , burning abdominal pain , suprapubic pain , nausea , painful urination , lower abdominal pain , vaginal discharge , intermenstrual bleeding , back pain , sharp abdominal pain",General Practitioner,76
+liver disease,"sharp abdominal pain , diarrhea , peripheral edema , heartburn , weakness , upper abdominal pain , nausea , unusual color or odor to urine , shortness of breath , blood in stool , jaundice , side pain",General Practitioner,73
+chronic constipation,"retention of urine , blood in stool , sharp abdominal pain , vomiting , nausea , pain of the anus , constipation , rectal bleeding , lower abdominal pain , burning abdominal pain , changes in stool appearance",General Practitioner,43
+thyroid cancer,"swollen lymph nodes , neck mass , difficulty in swallowing , fatigue",Oncologist,83
+flu,"sore throat , cough , diarrhea , ache all over , chills , vomiting , headache , nausea , fever , coryza",General Practitioner,61
+friedrich ataxia,"cough , knee lump or mass , ear pain",General Practitioner,88
+tic (movement) disorder,"depressive or psychotic symptoms , abnormal involuntary movements , abnormal movement of eyelid , problems with movement , headache , symptoms of eye",Psychiatrist,80
+skin polyp,"skin swelling , irregular appearing scalp , skin moles , skin irritation , abnormal appearing skin , skin lesion , acne or pimples , skin growth , skin dryness, peeling, scaliness, or roughness , warts , itching of skin",ENT Specialist,69
+brachial neuritis,"headache , arm pain , back pain , low back pain , elbow pain , paresthesia , shoulder pain , hand or finger pain , loss of sensation , hand or finger weakness , neck pain",General Practitioner,39
+cervical cancer,"jaundice , vaginal itching , pelvic pain , heavy menstrual flow , vulvar irritation , vaginal discharge",Oncologist,70
+adrenal adenoma,"anxiety and nervousness , shortness of breath , back weakness , sharp abdominal pain",General Practitioner,78
+esophagitis,"shortness of breath , sharp chest pain , chest tightness , cough , difficulty in swallowing , sharp abdominal pain , vomiting , sore throat , burning abdominal pain , heartburn , upper abdominal pain , nausea",General Practitioner,51
+gas gangrene,"sharp abdominal pain , wrist pain",General Practitioner,33
+yeast infection,"suprapubic pain , frequent urination , vaginal discharge , vaginal pain , sharp abdominal pain , diaper rash , vaginal itching , skin rash , pelvic pain",Infectious Disease Specialist,34
+spina bifida,"skin lesion , eye moves abnormally , back pain , disturbance of memory , headache , involuntary urination",General Practitioner,76
+drug poisoning due to medication,"depression , depressive or psychotic symptoms , abusing alcohol , drug abuse , lip swelling , slurring words , sleepiness",General Practitioner,94
+alcoholic liver disease,"abnormal involuntary movements , peripheral edema , weight gain , stomach bloating , sharp abdominal pain , diarrhea , abusing alcohol",General Practitioner,85
+malignant hypertension,"sharp chest pain , insomnia , headache , depressive or psychotic symptoms , lower body pain , shortness of breath , vomiting",General Practitioner,51
+diverticulitis,"blood in stool , sharp abdominal pain , vomiting , diarrhea , lower abdominal pain , burning abdominal pain , side pain , fever , nausea , constipation , upper abdominal pain , chills",General Practitioner,85
+moyamoya disease,"depressive or psychotic symptoms , elbow weakness",General Practitioner,59
+heat exhaustion,"shortness of breath , dizziness , vomiting , headache , weakness , sharp chest pain , fluid retention , fainting",General Practitioner,42
+psychotic disorder,"depression , depressive or psychotic symptoms , insomnia , abusing alcohol , excessive anger , temper problems , fears and phobias , hysterical behavior , anxiety and nervousness , hostile behavior , delusions or hallucinations",Psychiatrist,39
+frostbite,"sharp chest pain , elbow weakness , foot or toe pain",General Practitioner,36
+atrophy of the corpus cavernosum,"frequent urination , skin growth , bumps on penis , abnormal appearing skin , impotence",General Practitioner,37
+smoking or tobacco addiction,"shortness of breath , abusing alcohol , coughing up sputum , drug abuse , smoking problems , hemoptysis , hurts to breath , sharp chest pain , cough , headache , excessive anger",General Practitioner,72
+sprain or strain,"leg pain , headache , hand or finger pain , arm pain , back pain , neck pain , low back pain , knee pain , wrist pain , foot or toe pain , ankle pain , shoulder pain",General Practitioner,59
+essential tremor,"dizziness , abnormal involuntary movements , hoarse voice , problems with movement , disturbance of memory , muscle pain , loss of sensation",General Practitioner,81
+open wound of the ear,"dry lips , facial pain , ear pain , fluid in ear , bleeding from ear",General Practitioner,77
+foreign body in the nose,"nasal congestion , regurgitation.1",General Practitioner,71
+idiopathic painful menstruation,"lower abdominal pain , vaginal discharge , cramps and spasms , blood clots during menstrual periods , long menstrual periods , heavy menstrual flow , unpredictable menstruation , pelvic pain , sharp abdominal pain , vaginal itching , painful menstruation",Pain Management Specialist,73
+down syndrome,"difficulty speaking , nasal congestion , lack of growth , seizures , cough , decreased appetite",Geneticist,49
+idiopathic infrequent menstruation,"retention of urine , sharp abdominal pain , nausea , unpredictable menstruation",General Practitioner,82
+pneumothorax,"shortness of breath , drug abuse , shoulder pain , sharp chest pain , cough , side pain , back pain , hurts to breath",General Practitioner,76
+de quervain disease,"abnormal involuntary movements , wrist pain , hand or finger swelling , wrist swelling , hand or finger pain , arm pain , shoulder pain",General Practitioner,75
+fracture of the vertebra,"hip pain , hand or finger stiffness or tightness , back pain , neck pain , leg stiffness or tightness , pelvic pain , bones are painful , low back pain",Orthopedic Surgeon,41
+human immunodeficiency virus infection (hiv),"drug abuse , fears and phobias , nightmares",Infectious Disease Specialist,40
+mumps,"sore throat , swollen lymph nodes , ear pain , shoulder swelling",General Practitioner,82
+subarachnoid hemorrhage,"dizziness , fainting , vomiting , headache , symptoms of eye , loss of sensation",General Practitioner,45
+acute fatty liver of pregnancy (aflp),"emotional symptoms , sharp abdominal pain",Obstetrician,70
+ectropion,"white discharge from eye , symptoms of eye , pain in eye , eye redness , lacrimation",General Practitioner,57
+scar,"skin swelling , lip swelling , skin lesion , skin growth , skin moles , itching of skin , abnormal appearing skin",General Practitioner,37
+lactose intolerance,"shortness of breath , nasal congestion , flatulence , diarrhea , impotence , burning abdominal pain",General Practitioner,36
+eustachian tube dysfunction (ear disorder),"dizziness , sore throat , ear pain , allergic reaction , redness in ear , swollen or red tonsils , ringing in ear , abnormal breathing sounds , nasal congestion , diminished hearing , plugged feeling in ear",Psychiatrist,87
+appendicitis,"sharp abdominal pain , diarrhea , burning abdominal pain , decreased appetite , side pain , upper abdominal pain , lower abdominal pain , fever , stomach bloating , vomiting , nausea",General Practitioner,34
+graves disease,"dizziness , abnormal involuntary movements , palpitations , irregular heartbeat , hemoptysis , sweating , involuntary urination",General Practitioner,49
+dissociative disorder,"anxiety and nervousness , back weakness , excessive anger , disturbance of memory , depressive or psychotic symptoms",Psychiatrist,71
+open wound of the face,"wrist swelling , facial pain",General Practitioner,69
+dislocation of the vertebra,"leg pain , elbow weakness , back pain , neck pain , low back pain",General Practitioner,73
+phimosis,"retention of urine , symptoms of the scrotum and testes , blood in urine , penis pain , penis redness , painful urination",General Practitioner,80
+hyperemesis gravidarum,"sharp abdominal pain , nausea , diarrhea , pain during pregnancy , vomiting blood , burning abdominal pain , problems during pregnancy , dizziness , weakness , vomiting , headache",General Practitioner,79
+pregnancy,"pain during pregnancy , spotting or bleeding during pregnancy , cramps and spasms , uterine contractions , problems during pregnancy , pelvic pressure",Obstetrician,55
+thalassemia,"insomnia , elbow weakness",General Practitioner,74
+placenta previa,"involuntary urination , spotting or bleeding during pregnancy , pain during pregnancy , cramps and spasms",General Practitioner,40
+epidural hemorrhage,"depressive or psychotic symptoms , dizziness , emotional symptoms",General Practitioner,43
+septic arthritis,"leg pain , hip pain , knee pain , knee swelling , fever",General Practitioner,42
+athlete's foot,"abnormal appearing skin , skin lesion , foot or toe pain , irregular appearing nails , skin dryness, peeling, scaliness, or roughness , skin rash , skin swelling , foot or toe swelling",General Practitioner,40
+pleural effusion,"shortness of breath , sharp chest pain , cough , sharp abdominal pain , back pain , hurts to breath , side pain , difficulty breathing , rib pain , weakness",General Practitioner,70
+aphakia,"symptoms of eye , spots or clouds in vision , eye burns or stings , diminished vision",General Practitioner,79
+vulvar disorder,"vaginal itching , pain during intercourse , vaginal pain , skin dryness, peeling, scaliness, or roughness , vaginal discharge , vulvar irritation",Psychiatrist,63
+sialoadenitis,"sore throat , cough , facial pain , swollen lymph nodes , peripheral edema , neck mass , jaw swelling , neck swelling , nasal congestion",General Practitioner,62
+gynecomastia,"back pain , neck pain , bones are painful , lump or mass of breast , skin swelling , problems with shape or size of breast , pain or soreness of breast",General Practitioner,80
+urinary tract infection,"retention of urine , vomiting , painful urination , frequent urination , back pain , suprapubic pain , nausea , blood in urine , side pain , lower abdominal pain , fever",Infectious Disease Specialist,38
+histoplasmosis,"cough , elbow weakness , lacrimation",General Practitioner,37
+erythema multiforme,"vomiting , mouth ulcer , skin rash , difficulty in swallowing , fever",General Practitioner,78
+scoliosis,"back pain , leg pain , knee swelling , knee stiffness or tightness , low back pain , problems with movement , lower body pain",General Practitioner,45
+bunion,"skin growth , knee pain , foot or toe pain , skin moles , foot or toe lump or mass",General Practitioner,34
+arrhythmia,"shortness of breath , sharp chest pain , chest tightness , palpitations , leg cramps or spasms , dizziness , fainting , fatigue",General Practitioner,82
+trigeminal neuralgia,"dizziness , abnormal involuntary movements , headache , facial pain , toothache , symptoms of the face , pain in eye",General Practitioner,56
+ankylosing spondylitis,"leg pain , hip pain , back pain , low back pain , elbow pain , paresthesia , stiffness all over , knee pain , ache all over , lower body pain",General Practitioner,39
+peripheral nerve disorder,"dizziness , abnormal involuntary movements , leg pain , back pain , foot or toe pain , problems with movement , loss of sensation , disturbance of memory , arm pain , paresthesia , arm weakness , leg weakness",Psychiatrist,36
+sebaceous cyst,"skin swelling , abnormal appearing skin , skin lesion , acne or pimples , skin growth , back mass or lump , arm lump or mass , hand or finger lump or mass , irregular appearing scalp , neck mass , skin moles",General Practitioner,58
+poisoning due to antipsychotics,"anxiety and nervousness , sharp chest pain , delusions or hallucinations",General Practitioner,97
+neurosis,"insomnia , smoking problems , delusions or hallucinations , obsessions and compulsions , anxiety and nervousness , depressive or psychotic symptoms , hostile behavior , drug abuse , headache , depression , excessive anger",General Practitioner,47
+prostate cancer,"retention of urine , involuntary urination , pain during intercourse , symptoms of prostate , flushing , blood in urine , impotence , excessive urination at night",Oncologist,76
+cerebral edema,"dizziness , vomiting , neck pain , focal weakness , arm pain , headache",General Practitioner,36
+dislocation of the finger,"wrist pain , hand or finger swelling , difficulty speaking , hand or finger pain , hand or finger stiffness or tightness",General Practitioner,58
+birth trauma,"depressive or psychotic symptoms , emotional symptoms , arm stiffness or tightness",General Practitioner,73
+chronic pancreatitis,"vomiting , nausea , skin growth , ache all over , abusing alcohol , sharp abdominal pain , diarrhea , back pain",General Practitioner,85
+hematoma,"swelling of scrotum , arm swelling , skin swelling , sharp abdominal pain , ache all over",General Practitioner,86
+carcinoid syndrome,"involuntary urination , knee lump or mass",Geneticist,45
+open wound of the head,"abusing alcohol , headache",General Practitioner,30
+seborrheic keratosis,"skin growth , irregular appearing scalp , skin moles , skin swelling , skin lesion , acne or pimples , itching of skin , skin irritation , warts , skin rash , abnormal appearing skin",General Practitioner,38
+burn,"wrist pain , wrist swelling , knee pain , headache , hand or finger pain , skin irritation",General Practitioner,67
+spontaneous abortion,"sharp abdominal pain , lower abdominal pain , intermenstrual bleeding , pelvic pain , burning abdominal pain , problems during pregnancy , pain during pregnancy , spotting or bleeding during pregnancy , blood clots during menstrual periods , heavy menstrual flow , cramps and spasms , uterine contractions",General Practitioner,59
+genital herpes,"vaginal itching , skin lesion , recent pregnancy , skin rash , painful urination , vaginal discharge , suprapubic pain",General Practitioner,54
+adjustment reaction,"hostile behavior , restlessness , excessive anger , delusions or hallucinations , depression , insomnia , fears and phobias , anxiety and nervousness , nightmares",General Practitioner,67
+gallstone,"sharp abdominal pain , burning abdominal pain , heartburn , regurgitation.1 , sharp chest pain , upper abdominal pain , vomiting , lower body pain , nausea , back pain , side pain",General Practitioner,48
+multiple sclerosis,"dizziness , headache , weakness , loss of sensation , paresthesia , abnormal involuntary movements , problems with movement , fatigue , disturbance of memory , leg weakness , focal weakness",General Practitioner,35
+zenker diverticulum,"sharp chest pain , sore throat , elbow weakness",General Practitioner,89
+fracture of the pelvis,"difficulty speaking , hip pain , back pain , knee pain , leg pain , ache all over , groin pain",Orthopedic Surgeon,73
+pneumoconiosis,"shortness of breath , dizziness , cough , fever",General Practitioner,56
+hyperlipidemia,"sharp chest pain , smoking problems , weight gain",General Practitioner,35
+ulcerative colitis,"nausea , diarrhea , swollen lymph nodes , rectal bleeding , sharp abdominal pain , vomiting , lower abdominal pain , burning abdominal pain , blood in stool",General Practitioner,85
+male genitalia infection,"swelling of scrotum , pain in testicles , irritable infant , abnormal appearing skin , mass in scrotum , bumps on penis",Infectious Disease Specialist,87
+hpv,"vaginal itching , involuntary urination , warts",General Practitioner,38
+angina,"dizziness , chest tightness , irregular heartbeat , hot flashes , palpitations , increased heart rate , lower body pain , shortness of breath , sharp chest pain , sweating , arm pain",General Practitioner,34
+injury to the spinal cord,"retention of urine , back pain , headache , neck pain",Traumatologist,34
+nasal polyp,"hoarse voice , cough , headache , frontal headache , allergic reaction , painful sinuses , nasal congestion , facial pain",ENT Specialist,34
+lichen simplex,"difficulty speaking , vaginal itching , skin lesion , itching of skin , skin rash",General Practitioner,56
+trichiasis,"emotional symptoms , diminished vision , foreign body sensation in eye , eye redness , eyelid lesion or rash",General Practitioner,34
+acariasis,"emotional symptoms , swelling of scrotum , itching of skin , skin rash",General Practitioner,51
+colorectal cancer,"blood in stool , sharp abdominal pain , rectal bleeding , pain of the anus , drainage in throat , mass or swelling around the anus",Oncologist,81
+skin pigmentation disorder,"skin swelling , skin lesion , acne or pimples , irregular appearing scalp , skin moles , skin dryness, peeling, scaliness, or roughness , warts , skin rash , skin growth , itching of skin , abnormal appearing skin",Psychiatrist,86
+factitious disorder,"depression , depressive or psychotic symptoms , elbow weakness , disturbance of memory",Psychiatrist,49
+lymphogranuloma venereum,"sore throat , ear pain , knee lump or mass",General Practitioner,43
+galactorrhea of unknown cause,"anxiety and nervousness , emotional symptoms , pain or soreness of breast , bleeding or discharge from nipple",General Practitioner,70
+g6pd enzyme deficiency,"cough , emotional symptoms",General Practitioner,84
+nerve impingement near the shoulder,"hand or finger stiffness or tightness , elbow pain , problems with movement , shoulder weakness , neck pain , shoulder pain , arm pain , shoulder stiffness or tightness",General Practitioner,61
+toxoplasmosis,"emotional symptoms , diminished vision",General Practitioner,88
+fibroadenoma,"vaginal dryness , hot flashes , pain or soreness of breast , lump or mass of breast , bones are painful , bleeding or discharge from nipple",General Practitioner,39
+open wound of the hand,"hand or finger pain , hand or finger stiffness or tightness , skin on arm or hand looks infected , hand or finger swelling",General Practitioner,73
+missed abortion,"blood in stool , lower abdominal pain , intermenstrual bleeding , pain during pregnancy , problems during pregnancy , spotting or bleeding during pregnancy , sharp abdominal pain , cramps and spasms , blood clots during menstrual periods",General Practitioner,68
+diabetic ketoacidosis,"depressive or psychotic symptoms , vomiting , diarrhea , decreased appetite , fluid retention , sharp chest pain , sharp abdominal pain , frequent urination , weakness , nausea",Endocrinologist,73
+granuloma inguinale,"sharp chest pain , knee lump or mass",General Practitioner,38
+obsessive compulsive disorder (ocd),"depression , depressive or psychotic symptoms , hostile behavior , temper problems , lack of growth , feeling ill , low self-esteem , obsessions and compulsions , anxiety and nervousness",Psychiatrist,32
+injury of the ankle,"wrist swelling , foot or toe pain , ankle pain , foot or toe swelling , joint pain , foot or toe weakness , ankle swelling , leg pain",Traumatologist,68
+hyponatremia,"shortness of breath , sharp chest pain , fainting , sharp abdominal pain , vomiting , back pain , nausea , weakness , seizures",General Practitioner,71
+stricture of the esophagus,"difficulty in swallowing , problems with movement , heartburn , sharp chest pain , vomiting , regurgitation.1",General Practitioner,78
+fracture of the ankle,"leg pain , foot or toe pain , ankle pain , knee weakness , ankle swelling , ankle weakness , foot or toe swelling",Orthopedic Surgeon,63
+soft tissue sarcoma,"groin mass , skin lesion , skin growth , skin dryness, peeling, scaliness, or roughness , skin moles , abnormal appearing skin , itching of skin",General Practitioner,79
+bone disorder,"difficulty speaking , leg pain , back pain , bones are painful , leg cramps or spasms , knee pain , muscle stiffness or tightness",Psychiatrist,50
+epilepsy,"abnormal involuntary movements , difficulty speaking , lack of growth , disturbance of memory , seizures , headache , muscle weakness",General Practitioner,81
+personality disorder,"anxiety and nervousness , insomnia , hostile behavior , drug abuse , excessive anger , fears and phobias , low self-esteem , depression , temper problems , depressive or psychotic symptoms , delusions or hallucinations",Psychiatrist,32
+shingles (herpes zoster),"headache , abnormal appearing skin , facial pain , itching of skin , skin rash , sharp chest pain , skin lesion , pain in eye , back pain",General Practitioner,84
+tourette syndrome,"abnormal involuntary movements , drug abuse , headache , allergic reaction , depressive or psychotic symptoms",Geneticist,46
+avascular necrosis,"hip pain , drug abuse , knee pain , shoulder pain",General Practitioner,49
+strep throat,"nasal congestion , difficulty in swallowing , vomiting , headache , decreased appetite , ache all over , chills , sore throat , cough , fever , ear pain , skin rash",General Practitioner,68
+spinocerebellar ataxia,"anxiety and nervousness , abnormal involuntary movements , problems with movement , dizziness",General Practitioner,58
+osteomyelitis,"difficulty speaking , skin lesion , bones are painful , skin on leg or foot looks infected , hand or finger swelling , arm swelling , hand or finger pain",General Practitioner,32
+sjogren syndrome,"difficulty in swallowing , symptoms of eye , pain in eye , diminished vision , ache all over , joint pain",Geneticist,53
+adhesive capsulitis of the shoulder,"arm pain , neck pain , shoulder stiffness or tightness , ache all over , muscle pain , shoulder pain",General Practitioner,57
+viral hepatitis,"abusing alcohol , hand or finger stiffness or tightness , stomach bloating , sharp abdominal pain , melena",General Practitioner,46
+tonsillar hypertrophy,"cough , fever , abnormal breathing sounds , redness in ear , sore throat , difficulty in swallowing , nasal congestion , apnea",General Practitioner,85
+gastritis,"sharp chest pain , sharp abdominal pain , vomiting , diarrhea , burning abdominal pain , regurgitation.1 , headache , nausea , fever , vomiting blood",General Practitioner,45
+skin cancer,"skin swelling , lip swelling , abnormal appearing skin , skin moles , skin irritation , warts , skin lesion , skin growth , irregular appearing scalp , skin dryness, peeling, scaliness, or roughness",Oncologist,66
+rheumatic fever,"knee lump or mass , itchiness of eye",General Practitioner,42
+aphthous ulcer,"headache , toothache , fever , cough , tongue lesions , mouth pain , mouth ulcer , sore throat",General Practitioner,64
+tonsillitis,"sore throat , lump in throat , throat redness , nasal congestion , diminished hearing , throat feels tight , abnormal breathing sounds , redness in ear , swollen or red tonsils",General Practitioner,73
+intestinal cancer,"throat feels tight , sharp abdominal pain , foot or toe swelling , diarrhea , neck mass",Oncologist,67
+rocky mountain spotted fever,"headache , wrist pain",General Practitioner,86
+stomach cancer,"difficulty in swallowing , sharp abdominal pain , diarrhea , vomiting , nausea , heartburn , burning abdominal pain",Oncologist,69
+developmental disability,"depressive or psychotic symptoms , hostile behavior , restlessness , seizures , temper problems , obsessions and compulsions , difficulty speaking , fears and phobias , lack of growth , delusions or hallucinations , antisocial behavior",General Practitioner,38
+acute stress reaction,"anxiety and nervousness , depressive or psychotic symptoms , sharp chest pain , dizziness , insomnia , burning abdominal pain , fatigue , depression , headache , abnormal involuntary movements , shortness of breath",General Practitioner,68
+delirium,"depression , depressive or psychotic symptoms , abnormal involuntary movements , difficulty speaking , problems with movement , slurring words , disturbance of memory , focal weakness , hostile behavior , delusions or hallucinations",General Practitioner,40
+callus,"abnormal appearing skin , skin growth , foot or toe pain , irregular appearing nails , skin rash , skin swelling , acne or pimples , foot or toe swelling , skin lesion",General Practitioner,57
+guillain barre syndrome,"dizziness , difficulty speaking , leg pain , hand or finger pain , loss of sensation",Geneticist,58
+lumbago,"hip pain , low back pain , side pain , low back cramps or spasms , leg pain , back pain , muscle pain",General Practitioner,53
+deviated nasal septum,"sore throat , nasal congestion , headache , facial pain , difficulty breathing , apnea , painful sinuses , nosebleed , abnormal breathing sounds , allergic reaction",General Practitioner,59
+hemangioma,"lip swelling , skin moles , skin swelling , skin lesion , irregular appearing scalp , lymphedema , abnormal appearing skin , irregular appearing nails , skin dryness, peeling, scaliness, or roughness , skin growth",General Practitioner,86
+peripheral arterial disease,"leg pain , leg cramps or spasms , lymphedema , skin lesion , foot or toe pain , feeling cold , symptoms of the kidneys , poor circulation",General Practitioner,66
+chronic back pain,"low back pain , loss of sensation , side pain , back cramps or spasms , back stiffness or tightness , leg pain , back pain , lower body pain , hip pain , neck pain , groin pain",Pain Management Specialist,46
+heart failure,"sharp chest pain , cough , leg swelling , difficulty breathing , shortness of breath , chest tightness , weight gain , weakness , palpitations , hurts to breath , fluid retention",General Practitioner,78
+conjunctivitis,"sore throat , cough , itchiness of eye , coryza , swollen eye , white discharge from eye , pain in eye , lacrimation , nasal congestion , eye redness , fever",General Practitioner,80
+herniated disk,"leg pain , arm pain , back pain , neck pain , shoulder pain , arm weakness , leg weakness , low back pain , paresthesia , hip pain , loss of sensation",General Practitioner,72
+rhabdomyolysis,"depressive or psychotic symptoms , leg pain , arm pain , hoarse voice , sharp chest pain",General Practitioner,44
+breast infection (mastitis),"bleeding or discharge from nipple , fever , lump or mass of breast , skin growth , mouth dryness , pain or soreness of breast , abnormal appearing skin , chills , postpartum problems of the breast",Infectious Disease Specialist,77
+abdominal aortic aneurysm,"shortness of breath , palpitations , back pain , sharp abdominal pain , arm swelling , burning abdominal pain",General Practitioner,88
+pulmonary embolism,"chest tightness , leg pain , leg swelling , difficulty breathing , shortness of breath , weakness , side pain , sharp chest pain , cough , hemoptysis , sweating",General Practitioner,81
+conduct disorder,"depression , depressive or psychotic symptoms , lack of growth , hostile behavior , hysterical behavior , abusing alcohol , fainting , seizures , excessive anger , temper problems",Psychiatrist,42
+mastectomy,"arm stiffness or tightness , pain or soreness of breast , skin swelling",General Practitioner,66
+epididymitis,"swelling of scrotum , sharp abdominal pain , painful urination , side pain , retention of urine , pain in testicles , lower body pain , groin pain , mass in scrotum",General Practitioner,38
+premature rupture of amniotic membrane,"elbow weakness , sharp abdominal pain , uterine contractions",General Practitioner,65
+molluscum contagiosum,"abnormal appearing skin , knee lump or mass , warts , skin swelling , skin dryness, peeling, scaliness, or roughness , itching of skin , skin lesion , acne or pimples , skin rash",General Practitioner,35
+necrotizing fasciitis,"leg pain , hip pain , elbow weakness",General Practitioner,63
+benign vaginal discharge (leukorrhea),"suprapubic pain , sharp abdominal pain , vaginal itching , painful urination , vaginal discharge , vaginal redness , pain during pregnancy , burning abdominal pain , problems during pregnancy , frequent urination",General Practitioner,83
+bladder obstruction,"impotence , symptoms of bladder , hesitancy , involuntary urination , frequent urination , retention of urine , suprapubic pain , bedwetting",General Practitioner,60
+melanoma,"skin swelling , abnormal appearing skin , skin lesion , swollen lymph nodes , skin growth , skin moles , itchy eyelid , irregular appearing scalp",General Practitioner,82
+cervical disorder,"sharp abdominal pain , vaginal itching , pain during intercourse , pelvic pain",Psychiatrist,87
+laryngitis,"hoarse voice , sore throat , throat feels tight , fever , coryza , difficulty speaking , cough , nasal congestion , ear pain , difficulty in swallowing",General Practitioner,56
+dyshidrosis,"frequent urination , skin lesion , skin rash , abnormal appearing skin , acne or pimples",General Practitioner,61
+poisoning due to opioids,"dizziness , difficulty speaking , drug abuse , depressive or psychotic symptoms",General Practitioner,91
+diaper rash,"vomiting , diarrhea , fever , temper problems , skin rash , diaper rash , cough , nasal congestion , blood in stool , irritable infant , pulling at ears",General Practitioner,44
+lichen planus,"difficulty speaking , abnormal appearing skin , skin growth",General Practitioner,34
+gastroduodenal ulcer,"sharp chest pain , blood in stool , sharp abdominal pain , vomiting blood , burning abdominal pain , upper abdominal pain , changes in stool appearance , nausea , heartburn , vomiting",General Practitioner,30
+inguinal hernia,"symptoms of the scrotum and testes , swelling of scrotum , mass in scrotum , lower abdominal pain , ache all over , swollen abdomen , groin pain , sharp abdominal pain , groin mass , pain in testicles",General Practitioner,51
+eczema,"skin lesion , irregular appearing scalp , skin irritation , skin rash , cough , skin swelling , abnormal appearing skin , itching of skin , skin dryness, peeling, scaliness, or roughness , acne or pimples , allergic reaction , warts",General Practitioner,76
+asperger syndrome,"hostile behavior , excessive anger , lack of growth , fainting , anxiety and nervousness , depressive or psychotic symptoms , antisocial behavior , depression",Geneticist,30
+mucositis,"difficulty in swallowing , irritable infant , fever , mouth pain , sore throat , tongue lesions , mouth ulcer , decreased appetite",General Practitioner,78
+paronychia,"hand or finger swelling , foot or toe pain , hand or finger lump or mass , skin on leg or foot looks infected , sinus congestion , skin on arm or hand looks infected , hand or finger pain , foot or toe swelling , abnormal appearing skin",General Practitioner,79
+open wound of the jaw,"wrist swelling , lip swelling",General Practitioner,71
+white blood cell disease,"cough , sharp abdominal pain , vomiting , chills , fatigue , nausea , heartburn , fever , diarrhea",General Practitioner,75
+kaposi sarcoma,"depression , elbow weakness",General Practitioner,46
+spondylolisthesis,"leg pain , neck pain , low back pain , problems with movement , loss of sensation , paresthesia , leg weakness , hip pain , back pain , leg cramps or spasms",General Practitioner,78
+pseudotumor cerebri,"dizziness , abnormal involuntary movements , headache , diminished vision , pain in eye",General Practitioner,52
+conjunctivitis due to virus,"cough , nasal congestion , white discharge from eye , eye redness , lacrimation , fever , pain in eye , itchiness of eye , swollen eye , diminished vision",General Practitioner,75
+open wound of the nose,"diminished hearing , facial pain , nosebleed , headache",General Practitioner,81
+AIDS,"muscle wasting, patches in throat, high fever, extra marital contacts",General Practitioner,33
