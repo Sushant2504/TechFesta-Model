@@ -1,12 +1,12 @@
 Diseases,Symptoms,Specialist,Weight
 panic disorder,"anxiety and nervousness , shortness of breath , depressive or psychotic symptoms , chest tightness , palpitations , irregular heartbeat , breathing fast , dizziness , insomnia , depression , abnormal involuntary movements",Psychiatrist,14
 vocal cord polyp,"difficulty speaking , throat swelling , throat feels tight , hoarse voice , sore throat",ENT Specialist,20
-turner syndrome,"depression , emotional symptoms",Endocrinologist/Geneticist,70
+turner syndrome,"depression , emotional symptoms",Endocrinologist,70
 cryptorchidism,"lack of growth , symptoms of the scrotum and testes , swelling of scrotum",Urologist,16
 poisoning due to ethylene glycol,"depression , depressive or psychotic symptoms , abusing alcohol , fainting",Toxicologist,100
 atrophic vaginitis,"suprapubic pain , vaginal itching , painful urination , involuntary urination , frequent urination , vaginal discharge , blood in urine , pain during intercourse",Gynecologist,45
 fracture of the hand,"arm pain , arm stiffness or tightness , hand or finger swelling , hand or finger stiffness or tightness , wrist stiffness or tightness , hand or finger pain , wrist pain , wrist swelling",Orthopedic Surgeon,48
-cellulitis or abscess of mouth,"sore throat , throat swelling , difficulty in swallowing , abnormal appearing skin , skin growth , lip swelling , toothache",Dentist/Oral Surgeon,81
+cellulitis or abscess of mouth,"sore throat , throat swelling , difficulty in swallowing , abnormal appearing skin , skin growth , lip swelling , toothache",Dentist,81
 eye alignment disorder,"lack of growth , eye deviation , double vision , cross-eyed , symptoms of eye , pain in eye , irregular appearing scalp , diminished vision , eye moves abnormally",Ophthalmologist,31
 headache after lumbar puncture,"dizziness , nausea , neck pain , headache , painful urination , vomiting , low back pain",Neurologist,35
 pyloric stenosis,"cough , arm stiffness or tightness , vomiting",Pediatric Surgeon,74
@@ -58,7 +58,7 @@ uterine fibroids,"sharp abdominal pain , involuntary urination , lower abdominal
 idiopathic nonmenstrual bleeding,"sharp abdominal pain , painful urination , long menstrual periods , vaginal discharge , unpredictable menstruation , intermenstrual bleeding",Gynecologist,67
 chalazion,"skin growth , diminished vision , symptoms of eye , pain in eye , lacrimation , swollen eye , eyelid swelling , foreign body sensation in eye , mass on eyelid , eye redness",Ophthalmologist,36
 ovarian torsion,"skin swelling , sharp abdominal pain , lower abdominal pain , ache all over , pelvic pain , groin mass",Gynecologist,86
-retinopathy due to high blood pressure,"pus draining from ear , diminished vision , symptoms of eye , foreign body sensation in eye , pain in eye , spots or clouds in vision","	Ophthalmologist",56
+retinopathy due to high blood pressure,"pus draining from ear , diminished vision , symptoms of eye , foreign body sensation in eye , pain in eye , spots or clouds in vision",Ophthalmologist,56
 vaginal yeast infection,"suprapubic pain , sharp abdominal pain , vaginal itching , painful urination , lower abdominal pain , vaginal pain , itching of skin , vulvar irritation , vaginal redness , vaginal discharge",Gynecologist,46
 mastoiditis,"nasal congestion , diminished hearing , dizziness , facial pain , cough , ear pain",ENT Specialist,43
 lung contusion,"shortness of breath , sharp chest pain , ache all over , back pain",Pulmonologist,69
@@ -182,27 +182,27 @@ pemphigus,"hand or finger pain , skin lesion , abnormal appearing skin",Dermatol
 peyronie disease,"mass in scrotum , impotence , penis pain , emotional symptoms , symptoms of prostate",Urologist,37
 hiatal hernia,"dizziness , difficulty in swallowing , nausea , regurgitation , burning abdominal pain , heartburn , regurgitation.1 , sharp chest pain , back pain , vomiting blood , upper abdominal pain , sharp abdominal pain",Gastroenterologist,45
 extrapyramidal effect of drugs,"abnormal involuntary movements , headache , restlessness , seizures , anxiety and nervousness , arm stiffness or tightness",Neurologist,79
-meniere disease,"headache , ringing in ear , nausea , facial pain , ear pain , dizziness , diminished hearing , allergic reaction",ENT Specialist (Otorhinolaryngologist),89
+meniere disease,"headache , ringing in ear , nausea , facial pain , ear pain , dizziness , diminished hearing , allergic reaction",ENT Specialist,89
 anal fissure,"blood in stool , sharp abdominal pain , vaginal dryness , lower body pain , changes in stool appearance , constipation , pain of the anus , rectal bleeding",General Practitioner,47
 allergy,"skin swelling , lip swelling , itchiness of eye , fluid retention , swollen eye , itching of skin , skin rash , cough , abnormal appearing skin , allergic reaction , peripheral edema",Allergist,79
-chronic otitis media,"cough , nasal congestion , ear pain , allergic reaction , pulling at ears , painful sinuses , plugged feeling in ear , fever , fluid in ear , redness in ear",ENT Specialist (Otorhinolaryngologist),55
+chronic otitis media,"cough , nasal congestion , ear pain , allergic reaction , pulling at ears , painful sinuses , plugged feeling in ear , fever , fluid in ear , redness in ear",ENT Specialist,55
 fracture of the finger,"hand or finger swelling , hand or finger stiffness or tightness , foot or toe pain , hand or finger pain , foot or toe swelling",Orthopedic Surgeon,30
-hirschsprung disease,"emotional symptoms , sharp abdominal pain , constipation",Pediatric Surgeon / General Surgeon,46
+hirschsprung disease,"emotional symptoms , sharp abdominal pain , constipation",Pediatric Surgeon,46
 polymyalgia rheumatica,"irregular heartbeat , difficulty in swallowing , leg pain , sharp chest pain , shoulder pain , fatigue",Rheumatologist,78
 lymphedema,"throat swelling , abnormal appearing skin , skin lesion , peripheral edema , lymphedema , leg swelling , fluid retention , leg pain , foot or toe swelling",General Practitioner,60
 bladder cancer,"groin mass , mass in scrotum , blood in urine , excessive urination at night , symptoms of bladder , bladder mass , retention of urine",Oncologist,57
-acute bronchospasm,"sharp chest pain , chest tightness , nasal congestion , vomiting , wheezing , difficulty breathing , shortness of breath , fever , sore throat , coryza , cough",Pulmonologist / General Practitioner,66
+acute bronchospasm,"sharp chest pain , chest tightness , nasal congestion , vomiting , wheezing , difficulty breathing , shortness of breath , fever , sore throat , coryza , cough",Pulmonologist,66
 acute glaucoma,"diminished vision , blindness , double vision , symptoms of eye , spots or clouds in vision , eye redness , foreign body sensation in eye , pain in eye",Ophthalmologist,68
-open wound of the chest,"sharp chest pain , drug abuse",General Practitioner / Trauma Surgeon,76
+open wound of the chest,"sharp chest pain , drug abuse",General Practitioner,76
 dislocation of the patella,"knee pain , knee stiffness or tightness , knee swelling",Orthopedic Surgeon,65
-sciatica,"leg pain , hip pain , low back pain , leg cramps or spasms , unusual color or odor to urine , leg weakness , problems with movement , back cramps or spasms , loss of sensation , lower body pain",Neurologist / Orthopedic Surgeon,87
+sciatica,"leg pain , hip pain , low back pain , leg cramps or spasms , unusual color or odor to urine , leg weakness , problems with movement , back cramps or spasms , loss of sensation , lower body pain",Neurologist,87
 hypercalcemia,"dizziness , retention of urine , weakness , loss of sensation",Endocrinologist,83
 stress incontinence,"retention of urine , painful urination , frequent urination , blood in urine , hot flashes , intermenstrual bleeding , involuntary urination",Urologist,69
-varicose veins,"leg pain , leg swelling , lymphedema , leg lump or mass , leg cramps or spasms , ache all over , skin lesion , peripheral edema",Vascular Surgeon / General Practitioner,78
+varicose veins,"leg pain , leg swelling , lymphedema , leg lump or mass , leg cramps or spasms , ache all over , skin lesion , peripheral edema",Vascular Surgeon,78
 benign kidney cyst,"sharp abdominal pain , vomiting , involuntary urination , blood in urine , low back pain , impotence , side pain",Nephrologist,48
 hydrocele of the testicle,"retention of urine , groin mass , symptoms of the scrotum and testes , pain in testicles , mass in scrotum , lower abdominal pain , groin pain , swelling of scrotum",Urologist,59
-degenerative disc disease,"leg pain , arm pain , back pain , low back pain , loss of sensation , shoulder pain , lower body pain , joint pain , neck pain , paresthesia , hip pain",Orthopedic Surgeon / Neurologist,37
-hirsutism,"abnormal appearing skin , acne or pimples , unwanted hair , apnea",Endocrinologist / Dermatologist,48
+degenerative disc disease,"leg pain , arm pain , back pain , low back pain , loss of sensation , shoulder pain , lower body pain , joint pain , neck pain , paresthesia , hip pain",Orthopedic Surgeon,37
+hirsutism,"abnormal appearing skin , acne or pimples , unwanted hair , apnea",Endocrinologist,48
 dislocation of the foot,"elbow weakness , vomiting , foot or toe pain",Orthopedic Surgeon,58
 hydronephrosis,"pain in testicles , sharp abdominal pain , nausea , lower abdominal pain , back pain , side pain , suprapubic pain , vomiting",Urologist,38
 diverticulosis,"blood in stool , nausea , lower abdominal pain , heartburn , melena , rectal bleeding , sharp abdominal pain , vomiting , diarrhea , upper abdominal pain",Gastroenterologist,73
@@ -210,34 +210,34 @@ pain after an operation,"sharp chest pain , leg pain , headache , back pain , lo
 huntington disease,"anxiety and nervousness , elbow weakness",Neurologist,89
 lymphoma,"hoarse voice , groin mass , neck mass , itchy ear(s) , regurgitation , fatigue , regurgitation.1",Oncologist,39
 dermatitis due to sun exposure,"skin swelling , lack of growth , skin dryness, peeling, scaliness, or roughness , skin rash , irregular appearing scalp , skin moles , abnormal appearing skin , skin lesion , acne or pimples",Dermatologist,56
-anemia due to chronic kidney disease,"shortness of breath , peripheral edema , recent weight loss , weakness , ankle swelling , fatigue",Nephrologist / Hematologist,44
+anemia due to chronic kidney disease,"shortness of breath , peripheral edema , recent weight loss , weakness , ankle swelling , fatigue",Nephrologist,44
 injury to internal organ,"sharp chest pain , retention of urine , frequent urination , back pain , side pain , sharp abdominal pain",Traumatologist,67
 scleritis,"abnormal involuntary movements , pain in eye , spots or clouds in vision , headache , eye redness",Ophthalmologist,79
 pterygium,"diminished vision , foreign body sensation in eye , spots or clouds in vision , eye redness , acne or pimples , symptoms of eye , lacrimation",Ophthalmologist,68
 fungal infection of the skin,"acne or pimples , irregular appearing scalp , itching of skin , itchy scalp , too little hair , skin rash , skin swelling , skin lesion , skin dryness, peeling, scaliness, or roughness , abnormal appearing skin",Infectious Disease Specialist,45
-insulin overdose,"depressive or psychotic symptoms , emotional symptoms",General Practitioner / Endocrinologist,81
-syndrome of inappropriate secretion of adh (siadh),"dizziness , feeling ill , cross-eyed",Endocrinologist / Geneticist,69
-foreign body in the ear,"throat feels tight , ear pain , bleeding from ear , diminished hearing , fluid in ear",ENT Specialist (Otorhinolaryngologist),56
+insulin overdose,"depressive or psychotic symptoms , emotional symptoms",General Practitioner,81
+syndrome of inappropriate secretion of adh (siadh),"dizziness , feeling ill , cross-eyed",Endocrinologist,69
+foreign body in the ear,"throat feels tight , ear pain , bleeding from ear , diminished hearing , fluid in ear",ENT Specialist,56
 premenstrual tension syndrome,"depressive or psychotic symptoms , lower abdominal pain , back pain , unpredictable menstruation , premenstrual tension or irritability , headache",Gynecologist,46
 orbital cellulitis,"diminished hearing , peripheral edema , eye redness , fever , pain in eye , swollen eye , symptoms of eye",Ophthalmologist,67
-injury to the leg,"knee pain , ankle pain , knee stiffness or tightness , leg swelling , infant feeding problem , irregular appearing nails , ankle swelling , leg pain , foot or toe swelling , knee swelling , foot or toe pain , problems with movement",Orthopedic Surgeon / Traumatologist,47
-hepatic encephalopathy,"depressive or psychotic symptoms , abusing alcohol , fainting , sharp abdominal pain , fluid retention , shortness of breath",Gastroenterologist / Hepatologist,70
+injury to the leg,"knee pain , ankle pain , knee stiffness or tightness , leg swelling , infant feeding problem , irregular appearing nails , ankle swelling , leg pain , foot or toe swelling , knee swelling , foot or toe pain , problems with movement",Orthopedic Surgeon,47
+hepatic encephalopathy,"depressive or psychotic symptoms , abusing alcohol , fainting , sharp abdominal pain , fluid retention , shortness of breath",Gastroenterologist,70
 bone cancer,"leg pain , peripheral edema , fatigue , low back pain , problems with movement",Oncologist,48
 syringomyelia,"fainting , headache , shoulder pain , back pain",Neurologist,67
 pulmonary fibrosis,"chest tightness , cough , fainting , difficulty breathing , sharp chest pain , fever , shortness of breath",Pulmonologist,46
 mitral valve disease,"shortness of breath , sharp chest pain , dizziness , fatigue , nightmares , increased heart rate , sweating , chest tightness , irregular heartbeat",Cardiologist,56
 parkinson disease,"difficulty speaking , problems with movement , leg stiffness or tightness , stiffness all over , dizziness , abnormal involuntary movements , focal weakness , disturbance of memory , weakness",Neurologist,71
 gout,"hand or finger pain , knee pain , foot or toe pain , knee swelling , foot or toe swelling , joint pain , wrist pain , ankle pain , leg swelling , ankle swelling , hand or finger swelling , wrist swelling",Rheumatologist,36
-otitis media,"sore throat , diminished hearing , vomiting , ear pain , plugged feeling in ear , fever , cough , coryza , pulling at ears , nasal congestion , fluid in ear",ENT Specialist (Otorhinolaryngologist),70
-drug abuse (opioids),"anxiety and nervousness , depression , depressive or psychotic symptoms , insomnia , drug abuse , restlessness , excessive anger , temper problems , delusions or hallucinations , abusing alcohol",Addiction Specialist / General Practitioner,86
+otitis media,"sore throat , diminished hearing , vomiting , ear pain , plugged feeling in ear , fever , cough , coryza , pulling at ears , nasal congestion , fluid in ear",ENT Specialist,70
+drug abuse (opioids),"anxiety and nervousness , depression , depressive or psychotic symptoms , insomnia , drug abuse , restlessness , excessive anger , temper problems , delusions or hallucinations , abusing alcohol",Addiction Specialist,86
 myelodysplastic syndrome,"difficulty speaking , fatigue , chills",Hematologist,85
 fracture of the shoulder,"arm pain , arm stiffness or tightness , neck swelling , shoulder swelling , shoulder stiffness or tightness , shoulder pain , bones are painful",Orthopedic Surgeon,38
-acute kidney injury,"shortness of breath , dizziness , retention of urine , sharp abdominal pain , peripheral edema , weakness , symptoms of the kidneys , vomiting , nausea , kidney mass , sharp chest pain",Nephrologist / Traumatologist,53
+acute kidney injury,"shortness of breath , dizziness , retention of urine , sharp abdominal pain , peripheral edema , weakness , symptoms of the kidneys , vomiting , nausea , kidney mass , sharp chest pain",Nephrologist,53
 threatened pregnancy,"sharp abdominal pain , back pain , problems during pregnancy , uterine contractions , vaginal discharge , pelvic pain , spotting or bleeding during pregnancy , cramps and spasms , blood clots during menstrual periods , intermenstrual bleeding , lower abdominal pain",Obstetrician,34
 intracranial abscess,"depressive or psychotic symptoms , headache , seizures",Neurologist,79
-gum disease,"toothache , facial pain , mouth ulcer , ear pain , jaw swelling , lip swelling , fever , peripheral edema , bleeding gums , pain in gums , gum pain",Dentist / General Practitioner,72
-open wound from surgical incision,"skin swelling , flatulence , skin lesion",General Practitioner / Surgeon,89
-gastrointestinal hemorrhage,"dizziness , blood in stool , fainting , vomiting , nausea , diarrhea , vomiting blood , changes in stool appearance , rectal bleeding , sharp abdominal pain , melena , weakness",Gastroenterologist / General Practitioner,86
+gum disease,"toothache , facial pain , mouth ulcer , ear pain , jaw swelling , lip swelling , fever , peripheral edema , bleeding gums , pain in gums , gum pain",Dentist,72
+open wound from surgical incision,"skin swelling , flatulence , skin lesion",General Practitioner,89
+gastrointestinal hemorrhage,"dizziness , blood in stool , fainting , vomiting , nausea , diarrhea , vomiting blood , changes in stool appearance , rectal bleeding , sharp abdominal pain , melena , weakness",Gastroenterologist,86
 seborrheic dermatitis,"acne or pimples , irregular appearing scalp , symptoms of the face , itching of skin , skin dryness, peeling, scaliness, or roughness , skin rash , abnormal appearing skin , skin lesion , skin growth , too little hair , dry or flaky scalp",Dermatologist,49
 drug abuse (methamphetamine),"anxiety and nervousness , shortness of breath , palpitations , abusing alcohol , hostile behavior , feeling ill , depressive or psychotic symptoms , drug abuse",Addiction Specialist,42
 torticollis,"throat swelling , arm pain , neck pain , neck stiffness or tightness , shoulder pain , headache , abnormal involuntary movements , neck cramps or spasms",Neurologist,81
@@ -247,13 +247,13 @@ alcohol intoxication,"sharp chest pain , abnormal involuntary movements , abusin
 scurvy,"sharp abdominal pain , knee lump or mass",Nutritionist,71
 narcolepsy,"shortness of breath , insomnia , headache , disturbance of memory , fatigue , apnea , sleepiness",Neurologist,53
 food allergy,"cough , lip swelling , abnormal appearing skin , allergic reaction , itching of skin , skin rash , nasal congestion , hand or finger swelling , vomiting",Allergist,73
-labyrinthitis,"vomiting , headache , ear pain , plugged feeling in ear , spots or clouds in vision , sweating , dizziness , nausea , diminished hearing , loss of sensation",ENT Specialist (Otorhinolaryngologist),77
+labyrinthitis,"vomiting , headache , ear pain , plugged feeling in ear , spots or clouds in vision , sweating , dizziness , nausea , diminished hearing , loss of sensation",ENT Specialist,77
 anxiety,"anxiety and nervousness , depression , shortness of breath , abnormal involuntary movements , increased heart rate , sharp chest pain , insomnia , palpitations , irregular heartbeat , fears and phobias , headache , depressive or psychotic symptoms",Psychologist,78
 impulse control disorder,"depressive or psychotic symptoms , excessive appetite , delusions or hallucinations , temper problems , depression , insomnia , anxiety and nervousness , excessive anger",Psychiatrist,88
 stenosis of the tear duct,"white discharge from eye , symptoms of eye , abnormal movement of eyelid , cough , lacrimation",Ophthalmologist,84
-abscess of nose,"sore throat , vomiting , fever , sinus congestion , cough , nasal congestion , irritable infant , coryza",ENT Specialist (Otorhinolaryngologist),43
+abscess of nose,"sore throat , vomiting , fever , sinus congestion , cough , nasal congestion , irritable infant , coryza",ENT Specialist,43
 omphalitis,"emotional symptoms , flatulence , irregular belly button",Pediatrician,52
-leukemia,"fever , muscle stiffness or tightness , fatigue , mouth pain",Hematologist / Oncologist,45
+leukemia,"fever , muscle stiffness or tightness , fatigue , mouth pain",Hematologist,45
 bell palsy,"abnormal involuntary movements , diminished vision , symptoms of eye , loss of sensation , focal weakness , symptoms of the face , headache , facial pain , weakness , peripheral edema",Neurologist,58
 conjunctivitis due to allergy,"cough , nasal congestion , diminished vision , pain in eye , eye redness , lacrimation , itchiness of eye , eye burns or stings , symptoms of eye , allergic reaction , swollen eye , sneezing",Allergist,84
 drug reaction,"shortness of breath , throat swelling , vomiting , nausea , peripheral edema , itching of skin , headache , allergic reaction , skin rash , dizziness , abnormal appearing skin",Allergist,47
@@ -261,8 +261,8 @@ adrenal cancer,"dizziness , diminished hearing",Oncologist,54
 myopia,"pain in eye , eye moves abnormally , foreign body sensation in eye , blindness , symptoms of eye , eye redness , eye deviation , diminished vision , spots or clouds in vision",Ophthalmologist,85
 osteoarthritis,"leg pain , hip pain , back pain , knee weakness , elbow pain , knee swelling , hand or finger pain , knee pain , muscle pain , ankle pain , joint pain",Rheumatologist,67
 thyroid disease,"lump in throat , throat feels tight , neck mass , difficulty in swallowing",Endocrinologist,87
-pharyngitis,"hoarse voice , cough , wheezing , fever , sore throat",ENT Specialist (Otorhinolaryngologist),75
-chronic rheumatic fever,"shortness of breath , chest tightness , throat feels tight , increased heart rate , dizziness , palpitations , sharp chest pain",Cardiologist / Rheumatologist,47
+pharyngitis,"hoarse voice , cough , wheezing , fever , sore throat",ENT Specialist,75
+chronic rheumatic fever,"shortness of breath , chest tightness , throat feels tight , increased heart rate , dizziness , palpitations , sharp chest pain",Cardiologist,47
 hypocalcemia,"shortness of breath , sharp chest pain , constipation , leg weakness , abnormal involuntary movements",Endocrinologist,80
 macular degeneration,"diminished vision , double vision , abnormal movement of eyelid , itchiness of eye , blindness , bleeding from eye , foreign body sensation in eye , spots or clouds in vision , symptoms of eye , pain in eye , lacrimation",Ophthalmologist,59
 pneumonia,"shortness of breath , sharp chest pain , sore throat , nasal congestion , vomiting , wheezing , weakness , cough , difficulty breathing , chills , coryza , fever",Pulmonologist,62
@@ -278,10 +278,10 @@ cystic fibrosis,"cough , feeling ill , intermenstrual bleeding , decreased appet
 intertrigo (skin condition),"skin swelling , skin lesion , acne or pimples , skin rash , abnormal appearing skin , skin dryness, peeling, scaliness, or roughness",Dermatologist,44
 parathyroid adenoma,"anxiety and nervousness , throat feels tight , disturbance of memory , shoulder pain",Endocrinologist,65
 glucocorticoid deficiency,"shortness of breath , lack of growth , diarrhea",Endocrinologist,35
-temporomandibular joint disorder,"nasal congestion , diminished hearing , facial pain , pain in eye , neck pain , sore throat , ear pain , headache",Dentist / Oral Surgeon,74
+temporomandibular joint disorder,"nasal congestion , diminished hearing , facial pain , pain in eye , neck pain , sore throat , ear pain , headache",Dentist,74
 wilson disease,"insomnia , cough , sleepiness",Hepatologist,46
 vesicoureteral reflux,"suprapubic pain , involuntary urination , blood in urine , fever",Urologist,84
-vitamin a deficiency,"hand or finger pain , knee lump or mass",Nutritionist / Ophthalmologist,77
+vitamin a deficiency,"hand or finger pain , knee lump or mass",Nutritionist,77
 gonorrhea,"sharp abdominal pain , vaginal discharge , problems with movement , vaginal pain , penile discharge , vaginal itching",Infectious Disease Specialist,67
 fracture of the rib,"hip pain , back pain , bones are painful , side pain , shoulder pain , ache all over , back mass or lump , sharp chest pain , rib pain , hurts to breath , shortness of breath",Orthopedic Surgeon,85
 ependymoma,"headache , pain in eye , emotional symptoms , diminished vision",Neurologist,56
@@ -293,8 +293,8 @@ chronic knee pain,"leg pain , back pain , hip pain , knee weakness , knee stiffn
 pinguecula,"headache , itching of scrotum , symptoms of eye , lacrimation",Ophthalmologist,47
 hypergammaglobulinemia,"blood in stool , fatigue",Hematologist,52
 alcohol abuse,"depression , hostile behavior , vomiting blood , smoking problems , abusing alcohol , low self-esteem , anxiety and nervousness , depressive or psychotic symptoms , drug abuse",Addiction Specialist,68
-carpal tunnel syndrome,"hand or finger pain , wrist pain , hand or finger stiffness or tightness , elbow pain , arm weakness , hand or finger swelling , arm pain , wrist swelling , paresthesia , loss of sensation , neck pain",Neurologist / Orthopedic Surgeon,80
-pituitary disorder,"lack of growth , hot flashes , pain in eye , headache",Endocrinologist / Neurologist,45
+carpal tunnel syndrome,"hand or finger pain , wrist pain , hand or finger stiffness or tightness , elbow pain , arm weakness , hand or finger swelling , arm pain , wrist swelling , paresthesia , loss of sensation , neck pain",Neurologist,80
+pituitary disorder,"lack of growth , hot flashes , pain in eye , headache",Endocrinologist,45
 kidney stone,"suprapubic pain , frequent urination , lower abdominal pain , blood in urine , back pain , side pain , retention of urine , sharp abdominal pain , vomiting , low back pain , painful urination",Urologist,46
 autism,"depressive or psychotic symptoms , difficulty speaking , hostile behavior , constipation , antisocial behavior , lack of growth , long menstrual periods , temper problems , seizures",Developmental Pediatrician,42
 cat scratch disease,"skin swelling , groin mass , itchy eyelid",Infectious Disease Specialist,56
@@ -307,7 +307,7 @@ lateral epicondylitis (tennis elbow),"hand or finger pain , wrist pain , arm pai
 open wound of the eye,"white discharge from eye , symptoms of eye , pain in eye , spots or clouds in vision , diminished vision",Ophthalmologist,59
 syphilis,"headache , vaginal discharge , muscle pain , skin rash",Infectious Disease Specialist,38
 diabetic kidney disease,"blood in stool , impotence",Endocrinologist,70
-nose disorder,"cough , ear pain , difficulty breathing , coryza , sinus congestion , painful sinuses , nasal congestion , headache , facial pain , fever , nosebleed , sore throat",ENT Specialist (Otorhinolaryngologist),45
+nose disorder,"cough , ear pain , difficulty breathing , coryza , sinus congestion , painful sinuses , nasal congestion , headache , facial pain , fever , nosebleed , sore throat",ENT Specialist,45
 drug withdrawal,"anxiety and nervousness , depression , dizziness , vomiting , nausea , chills , sharp abdominal pain",Addiction Specialist,39
 dental caries,"toothache , facial pain , peripheral edema , jaw swelling , gum pain , skin irritation , pain in gums , skin swelling , restlessness , ear pain , mouth pain , neck swelling",Dentist,65
 hypercholesterolemia,"palpitations , hand or finger stiffness or tightness , weight gain , sharp chest pain , excessive urination at night",Cardiologist,52
@@ -317,7 +317,7 @@ fracture of the neck,"leg pain , hip pain , elbow pain , lower body pain , low b
 muscle spasm,"sharp chest pain , abnormal involuntary movements , leg pain , headache , neck pain , low back pain , back pain , muscle cramps, contractures, or spasms , arm pain , loss of sensation",Neurologist,59
 hemophilia,"cough , bleeding gums , leg pain , frontal headache",Hematologist,84
 hyperosmotic hyperketotic state,"cough , weakness , frequent urination",Endocrinologist,82
-peritonsillar abscess,"throat swelling , throat feels tight , difficulty in swallowing , headache , ear pain , swollen lymph nodes , sore throat",ENT Specialist ,39
+peritonsillar abscess,"throat swelling , throat feels tight , difficulty in swallowing , headache , ear pain , swollen lymph nodes , sore throat",ENT Specialist,39
 gastroparesis,"sharp abdominal pain , nausea , burning abdominal pain , upper abdominal pain , sharp chest pain , regurgitation , regurgitation.1 , vomiting",Gastroenterologist,79
 itching of unknown cause,"vaginal itching , abnormal appearing skin , allergic reaction , fluid retention , skin dryness, peeling, scaliness, or roughness , itchy scalp , skin rash , problems during pregnancy , itching of skin",Dermatologist,80
 polycythemia vera,"dizziness , headache , symptoms of eye , weight gain , fatigue",Hematologist,40
@@ -340,14 +340,14 @@ polycystic ovarian syndrome (pcos),"hot flashes , intermenstrual bleeding , pelv
 encephalitis,"dizziness , insomnia , headache , loss of sensation , disturbance of memory",Neurologist,70
 cyst of the eyelid,"skin growth , diminished vision , abnormal movement of eyelid , muscle swelling , mass on eyelid",Ophthalmologist,66
 balanitis,"suprapubic pain , painful urination , abnormal appearing skin , diaper rash , itching of skin , penis pain , penis redness , skin rash , cough",Urologist,46
-foreign body in the throat,"sore throat , throat swelling , difficulty in swallowing , vomiting , shortness of breath , cough , infant spitting up",ENT Specialist (Otorhinolaryngologist),78
+foreign body in the throat,"sore throat , throat swelling , difficulty in swallowing , vomiting , shortness of breath , cough , infant spitting up",ENT Specialist,78
 drug abuse (cocaine),"sharp chest pain , drug abuse , excessive anger , delusions or hallucinations , fears and phobias , abusing alcohol , hostile behavior , depression , depressive or psychotic symptoms",Addiction Specialist,89
 optic neuritis,"retention of urine , headache , diminished vision , blindness",Ophthalmologist,85
 alcohol withdrawal,"depressive or psychotic symptoms , dizziness , abusing alcohol , fainting , seizures , sharp chest pain , abnormal involuntary movements , vomiting , delusions or hallucinations , antisocial behavior",Addiction Specialist,85
 premature atrial contractions (pacs),"dizziness , palpitations , fainting , muscle swelling , shortness of breath , irregular heartbeat , fatigue",Cardiologist,55
 hemiplegia,"abnormal involuntary movements , headache , problems with movement , weakness , arm stiffness or tightness , seizures , difficulty speaking , loss of sensation , slurring words",Neurologist,84
 hammer toe,"skin growth , foot or toe pain , skin lesion , loss of sensation",Podiatrist,79
-open wound of the cheek,"wrist pain , facial pain",Oral Surgeon / General Surgeon,63
+open wound of the cheek,"wrist pain , facial pain",Oral Surgeon,63
 joint effusion,"wrist swelling , elbow pain , knee stiffness or tightness , ankle swelling , wrist pain , ankle pain , problems with movement , knee swelling , knee pain",Orthopedic Surgeon,53
 open wound of the knee,"leg pain , leg swelling",Orthopedic Surgeon,62
 meningioma,"depressive or psychotic symptoms , dizziness , weakness , headache , disturbance of memory",Neurologist,64
@@ -361,14 +361,14 @@ dry eye of unknown cause,"diminished vision , double vision , symptoms of eye , 
 fibrocystic breast disease,"intermenstrual bleeding , pain or soreness of breast , bleeding or discharge from nipple , lump or mass of breast",Gynecologist,54
 fungal infection of the hair,"skin swelling , abnormal appearing skin , skin lesion , skin growth , irregular appearing scalp , pelvic pain , skin dryness, peeling, scaliness, or roughness , skin irritation , acne or pimples , itching of skin , itchy scalp , skin rash",Infectious Disease Specialist,33
 tooth abscess,"skin swelling , lip swelling , toothache , facial pain , neck swelling , mouth pain , pain in gums , jaw swelling , peripheral edema , gum pain",Dentist,62
-envenomation from spider or animal bite,"hand or finger swelling , arm swelling , foot or toe swelling , itching of skin , skin swelling , abnormal appearing skin , paresthesia , allergic reaction , fluid retention",Emergency Medicine Specialist / Toxicologist,67
+envenomation from spider or animal bite,"hand or finger swelling , arm swelling , foot or toe swelling , itching of skin , skin swelling , abnormal appearing skin , paresthesia , allergic reaction , fluid retention",Emergency Medicine Specialist,67
 vacterl syndrome,"suprapubic pain , emotional symptoms",Geneticist,77
 vertebrobasilar insufficiency,"sharp chest pain , leg pain , back pain , dizziness",Neurologist,69
 rectal disorder,"blood in stool , diarrhea , pain of the anus , burning abdominal pain , cramps and spasms , melena , itching of the anus , sharp abdominal pain , constipation , heartburn , rectal bleeding",Gastroenterologist,71
 atonic bladder,"retention of urine , suprapubic pain , emotional symptoms , impotence , symptoms of bladder",Urologist,48
-benign paroxysmal positional vertical (bppv),"irregular heartbeat , vomiting , headache , weakness , dizziness , fainting , problems with movement , frontal headache , nausea",Neurologist / ENT Specialist,68
+benign paroxysmal positional vertical (bppv),"irregular heartbeat , vomiting , headache , weakness , dizziness , fainting , problems with movement , frontal headache , nausea",Neurologist,68
 blepharospasm,"headache , abnormal movement of eyelid , low back weakness , diminished vision",Ophthalmologist,30
-sarcoidosis,"shortness of breath , sharp chest pain , chest tightness , cough , headache , pain in eye , peripheral edema , facial pain",Pulmonologist / Rheumatologist,82
+sarcoidosis,"shortness of breath , sharp chest pain , chest tightness , cough , headache , pain in eye , peripheral edema , facial pain",Pulmonologist,82
 metastatic cancer,"vaginal dryness , decreased appetite , fatigue , neck mass , focal weakness",Oncologist,43
 trigger finger (finger disorder),"hand or finger pain , hand or finger swelling , hand or finger stiffness or tightness , bones are painful , wrist pain , hand or finger cramps or spasms",Orthopedic Surgeon,57
 stye,"skin swelling , abnormal appearing skin , eye redness , mass on eyelid , eyelid swelling , eyelid lesion or rash , pain in eye , eye burns or stings , symptoms of eye , itchiness of eye , swollen eye",Ophthalmologist,68
@@ -382,24 +382,24 @@ aspergillosis,"shortness of breath , knee lump or mass",Pulmonologist,71
 uterine atony,"sharp abdominal pain , blood in urine , pain during pregnancy , back cramps or spasms , intermenstrual bleeding , spotting or bleeding during pregnancy , uterine contractions , problems during pregnancy , lower abdominal pain",Obstetrician,47
 trichinosis,"nasal congestion , knee lump or mass",Infectious Disease Specialist,82
 whooping cough,"sore throat , nasal congestion , vomiting , shortness of breath , cough",Infectious Disease Specialist,59
-open wound of the lip,"lip swelling , dry lips , mouth ulcer , facial pain , mouth pain",Oral Surgeon / Dentist,66
+open wound of the lip,"lip swelling , dry lips , mouth ulcer , facial pain , mouth pain",Oral Surgeon,66
 subacute thyroiditis,"palpitations , blood in stool , problems during pregnancy , pain during pregnancy , uterine contractions",Endocrinologist,74
-oral mucosal lesion,"sore throat , cough , lip swelling , toothache , facial pain , fever , mouth pain , mouth ulcer , gum pain , tongue lesions",Dentist / Oral Surgeon,85
+oral mucosal lesion,"sore throat , cough , lip swelling , toothache , facial pain , fever , mouth pain , mouth ulcer , gum pain , tongue lesions",Dentist,85
 open wound due to trauma,"wrist swelling , skin on arm or hand looks infected",Trauma Surgeon,85
-intracerebral hemorrhage,"depressive or psychotic symptoms , dizziness , vomiting , headache , diminished vision , blindness , seizures , nausea , weakness , focal weakness",Neurologist / Emergency Medicine,68
-alzheimer disease,"depressive or psychotic symptoms , irregular appearing scalp , eye burns or stings , disturbance of memory , delusions or hallucinations , hostile behavior , depression , difficulty speaking",Neurologist / Geriatric Specialist,72
+intracerebral hemorrhage,"depressive or psychotic symptoms , dizziness , vomiting , headache , diminished vision , blindness , seizures , nausea , weakness , focal weakness",Neurologist,68
+alzheimer disease,"depressive or psychotic symptoms , irregular appearing scalp , eye burns or stings , disturbance of memory , delusions or hallucinations , hostile behavior , depression , difficulty speaking",Neurologist,72
 vaginismus,"sharp abdominal pain , pain during intercourse , lower abdominal pain , pelvic pain , vaginal pain , suprapubic pain",Gynecologist,84
 systemic lupus erythematosis (sle),"bones are painful , leg swelling , ache all over , hand or finger stiffness or tightness , knee pain , sharp chest pain",Rheumatologist,53
 premature ovarian failure,"lack of growth , weight gain , absence of menstruation , infertility , pelvic pain",Gynecologist,57
-thoracic outlet syndrome,"sharp chest pain , hand or finger pain , arm pain , decreased appetite , shoulder pain , loss of sensation",Neurologist / Orthopedic Surgeon,34
-ganglion cyst,"leg pain , skin growth , knee pain , foot or toe pain , knee swelling , knee lump or mass , hand or finger lump or mass , wrist lump or mass , wrist swelling , hand or finger pain",Orthopedic Surgeon / Hand Surgeon,87
+thoracic outlet syndrome,"sharp chest pain , hand or finger pain , arm pain , decreased appetite , shoulder pain , loss of sensation",Neurologist,34
+ganglion cyst,"leg pain , skin growth , knee pain , foot or toe pain , knee swelling , knee lump or mass , hand or finger lump or mass , wrist lump or mass , wrist swelling , hand or finger pain",Orthopedic Surgeon,87
 dislocation of the knee,"knee pain , knee stiffness or tightness , knee swelling",Orthopedic Surgeon,65
 crohn disease,"blood in stool , nausea , pain of the anus , regurgitation , regurgitation.1 , sharp abdominal pain , vomiting , diarrhea , burning abdominal pain , rectal bleeding",Gastroenterologist,47
 postoperative infection,"abnormal appearing skin , jaw swelling , sharp abdominal pain , fever , skin on leg or foot looks infected , skin swelling",Infectious Disease Specialist,80
 folate deficiency,"sharp chest pain , vomiting blood , difficulty breathing , shortness of breath , sharp abdominal pain",Hematologist,49
-fluid overload,"vomiting , nausea , hand or finger swelling , peripheral edema , fluid retention , shortness of breath , sharp chest pain , sharp abdominal pain",Cardiologist / Nephrologist,75
+fluid overload,"vomiting , nausea , hand or finger swelling , peripheral edema , fluid retention , shortness of breath , sharp chest pain , sharp abdominal pain",Cardiologist,75
 atrial flutter,"sharp chest pain , palpitations , irregular heartbeat , frequent urination , swollen lymph nodes , shortness of breath , chest tightness , increased heart rate",Cardiologist,41
-skin disorder,"abnormal appearing skin , skin moles , itching of skin , skin irritation , skin swelling , acne or pimples , irregular appearing scalp , skin lesion , skin growth , skin dryness, peeling, scaliness, or roughness",Dermatologist / Psychiatrist,30
+skin disorder,"abnormal appearing skin , skin moles , itching of skin , skin irritation , skin swelling , acne or pimples , irregular appearing scalp , skin lesion , skin growth , skin dryness, peeling, scaliness, or roughness",Dermatologist,30
 floaters,"diminished vision , lacrimation , symptoms of eye , foreign body sensation in eye , spots or clouds in vision",Ophthalmologist,45
 tooth disorder,"toothache , mouth ulcer , peripheral edema , jaw swelling , headache , ear pain , bleeding gums , pain in gums , facial pain , gum pain",Dentist,44
 heart attack,"shortness of breath , chest tightness , irregular heartbeat , nausea , arm pain , increased heart rate , burning chest pain , sweating , fainting , sharp chest pain , heartburn",Cardiologist,92
@@ -408,27 +408,27 @@ fracture of the leg,"leg pain , hip pain , problems with movement , leg swelling
 oral thrush (yeast infection),"sore throat , cough , nasal congestion , fever , tongue lesions , constipation , irritable infant , skin rash , mouth pain , mouth ulcer",Infectious Disease Specialist,35
 pityriasis rosea,"skin swelling , vaginal itching , abnormal appearing skin , itching of skin , warts , skin rash",Dermatologist,72
 allergy to animals,"sore throat , cough , nasal congestion , cross-eyed , allergic reaction",Allergist,73
-orthostatic hypotension,"sharp chest pain , abnormal involuntary movements , irregular heartbeat , fainting , feeling ill , headache , weakness , dizziness",Cardiologist / Neurologist,62
+orthostatic hypotension,"sharp chest pain , abnormal involuntary movements , irregular heartbeat , fainting , feeling ill , headache , weakness , dizziness",Cardiologist,62
 obstructive sleep apnea (osa),"shortness of breath , abnormal involuntary movements , difficulty in swallowing , mouth dryness , fatigue , insomnia , difficulty breathing , sleepiness , apnea , abnormal breathing sounds , weight gain , sweating",Pulmonologist,67
-hypokalemia,"shortness of breath , sharp chest pain , sharp abdominal pain , diarrhea , loss of sensation , fever , vomiting , headache , nausea , fainting",Endocrinologist / Cardiologist,82
+hypokalemia,"shortness of breath , sharp chest pain , sharp abdominal pain , diarrhea , loss of sensation , fever , vomiting , headache , nausea , fainting",Endocrinologist,82
 psoriasis,"abnormal appearing skin , skin lesion , skin growth , skin moles , joint pain , skin dryness, peeling, scaliness, or roughness , skin rash , skin swelling , itchy scalp , irregular appearing scalp , itching of skin",Dermatologist,72
 dislocation of the shoulder,"wrist pain , arm pain , arm stiffness or tightness , neck mass , shoulder pain , arm swelling",Orthopedic Surgeon,36
-intussusception,"blood in stool , emotional symptoms , sharp abdominal pain",Pediatric Surgeon / Gastroenterologist,64
+intussusception,"blood in stool , emotional symptoms , sharp abdominal pain",Pediatric Surgeon,64
 cervicitis,"sharp abdominal pain , nausea , vaginal itching , painful urination , vaginal discharge , pelvic pain , pain during pregnancy , suprapubic pain",Gynecologist,47
-abscess of the pharynx,"sharp chest pain , difficulty in swallowing , fever , sore throat , cough , throat swelling , headache , nasal congestion",ENT Specialist (Otorhinolaryngologist),32
+abscess of the pharynx,"sharp chest pain , difficulty in swallowing , fever , sore throat , cough , throat swelling , headache , nasal congestion",ENT Specialist,32
 primary thrombocythemia,"dizziness , flatulence , fatigue",Hematologist,43
 arthritis of the hip,"hip pain , groin pain , hip stiffness or tightness , back pain , low back pain , ache all over , lower body pain , joint pain , leg pain , pelvic pain , problems with movement , knee pain",Orthopedic Surgeon,50
-decubitus ulcer,"difficulty speaking , skin lesion , incontinence of stool , skin on leg or foot looks infected",Wound Care Specialist / Dermatologist,43
-hypernatremia,"shortness of breath , fainting , weakness , fever , difficulty breathing",Endocrinologist / Nephrologist,54
-sensorineural hearing loss,"hoarse voice , diminished hearing , throat feels tight , ear pain , fluid in ear , plugged feeling in ear , itchy ear(s) , dizziness , nasal congestion , ringing in ear",Otolaryngologist (ENT) / Audiologist,45
-chronic ulcer,"skin lesion , skin pain",Dermatologist / Wound Care Specialist,50
-osteoporosis,"hip pain , bones are painful , disturbance of memory , leg cramps or spasms , joint pain , early or late onset of menopause , back pain , stomach bloating , muscle cramps, contractures, or spasms",Rheumatologist / Endocrinologist,69
+decubitus ulcer,"difficulty speaking , skin lesion , incontinence of stool , skin on leg or foot looks infected",Wound Care Specialist,43
+hypernatremia,"shortness of breath , fainting , weakness , fever , difficulty breathing",Endocrinologist,54
+sensorineural hearing loss,"hoarse voice , diminished hearing , throat feels tight , ear pain , fluid in ear , plugged feeling in ear , itchy ear(s) , dizziness , nasal congestion , ringing in ear",Otolaryngologist,45
+chronic ulcer,"skin lesion , skin pain",Dermatologist,50
+osteoporosis,"hip pain , bones are painful , disturbance of memory , leg cramps or spasms , joint pain , early or late onset of menopause , back pain , stomach bloating , muscle cramps, contractures, or spasms",Rheumatologist,69
 ileus,"headache , diarrhea , lower abdominal pain , pain of the anus , sharp abdominal pain , nausea , burning abdominal pain , constipation , vomiting",Gastroenterologist,89
 sickle cell crisis,"sharp chest pain , leg pain , hip pain , sharp abdominal pain , vomiting , back pain , ache all over , low back pain , knee pain , arm pain , burning abdominal pain",Hematologist,60
 urethritis,"retention of urine , suprapubic pain , sharp abdominal pain , vaginal itching , frequent urination , blood in urine , painful urination , penis pain , penile discharge",Urologist,64
 prostatitis,"retention of urine , sharp abdominal pain , frequent urination , blood in urine , back pain , impotence , fever , lower abdominal pain , chills , painful urination",Urologist,55
-otitis externa (swimmer's ear),"cough , diminished hearing , ringing in ear , itchy ear(s) , sore throat , facial pain , plugged feeling in ear , fever , ear pain , fluid in ear , redness in ear",Otolaryngologist (ENT),34
-poisoning due to anticonvulsants,"dizziness , difficulty speaking , problems with movement , depression",Toxicologist / Neurologist,96
+otitis externa (swimmer's ear),"cough , diminished hearing , ringing in ear , itchy ear(s) , sore throat , facial pain , plugged feeling in ear , fever , ear pain , fluid in ear , redness in ear",Otolaryngologist,34
+poisoning due to anticonvulsants,"dizziness , difficulty speaking , problems with movement , depression",Toxicologist,96
 testicular torsion,"emotional symptoms , symptoms of the scrotum and testes , back pain , swelling of scrotum , pain in testicles , sharp abdominal pain",Urologist,37
 tricuspid valve disease,"anxiety and nervousness , emotional symptoms",Cardiologist,36
 urethral stricture,"suprapubic pain , painful urination , involuntary urination , blood in urine , symptoms of bladder , symptoms of the scrotum and testes , retention of urine , symptoms of prostate",Urologist,63
@@ -436,16 +436,16 @@ vitamin d deficiency,"hot flashes , arm stiffness or tightness , fatigue",Endocr
 hydatidiform mole,"dizziness , sharp abdominal pain , diminished vision , pain during pregnancy , spotting or bleeding during pregnancy",Obstetrician,84
 pain disorder affecting the neck,"headache , arm pain , back pain , low back pain , insomnia , neck pain , neck stiffness or tightness , disturbance of memory , dizziness",Psychiatrist,53
 tuberculosis,"cough , vaginal itching , shortness of breath , congestion in chest",Pulmonologist,81
-pelvic fistula,"dizziness , elbow weakness , vaginal discharge",Obstetrician / Urologist,33
+pelvic fistula,"dizziness , elbow weakness , vaginal discharge",Obstetrician,33
 acute bronchiolitis,"cough , nasal congestion , irritable infant , vomiting , wheezing , decreased appetite , fever , difficulty breathing , pulling at ears , hurts to breath , coryza , shortness of breath",Pediatric Pulmonologist,46
 presbyopia,"difficulty speaking , symptoms of eye , pain in eye , abnormal movement of eyelid , foreign body sensation in eye , spots or clouds in vision , diminished vision",Ophthalmologist,30
-dementia,"depressive or psychotic symptoms , insomnia , abnormal involuntary movements , hostile behavior , problems with movement , disturbance of memory , focal weakness , delusions or hallucinations",Neurologist / Geriatric Specialist,59
-insect bite,"skin swelling , hand or finger swelling , lip swelling , leg swelling , fluid retention , itching of skin , skin lesion , abnormal appearing skin , peripheral edema , skin rash",Dermatologist / Infectious Disease Specialist,69
+dementia,"depressive or psychotic symptoms , insomnia , abnormal involuntary movements , hostile behavior , problems with movement , disturbance of memory , focal weakness , delusions or hallucinations",Neurologist,59
+insect bite,"skin swelling , hand or finger swelling , lip swelling , leg swelling , fluid retention , itching of skin , skin lesion , abnormal appearing skin , peripheral edema , skin rash",Dermatologist,69
 paroxysmal ventricular tachycardia,"shortness of breath , dizziness , chest tightness , irregular heartbeat , weight gain , increased heart rate , fatigue , sharp chest pain , fainting , decreased heart rate",Cardiologist,85
-congenital heart defect,"sharp chest pain , lack of growth , arm swelling , hand or finger stiffness or tightness",Cardiologist / Pediatric Cardiologist,59
+congenital heart defect,"sharp chest pain , lack of growth , arm swelling , hand or finger stiffness or tightness",Cardiologist,59
 connective tissue disorder,"difficulty in swallowing , feeling ill , joint pain",Rheumatologist,63
 foreign body in the eye,"symptoms of eye , eye burns or stings , white discharge from eye , eye redness , lacrimation , itchiness of eye , foreign body sensation in eye , pain in eye",Ophthalmologist,79
-poisoning due to gas,"shortness of breath , sharp chest pain , dizziness , wheezing , headache , drainage in throat , cough",Emergency Medicine Specialist / Toxicologist,92
+poisoning due to gas,"shortness of breath , sharp chest pain , dizziness , wheezing , headache , drainage in throat , cough",Emergency Medicine Specialist,92
 pyogenic skin infection,"skin swelling , hand or finger swelling , abnormal appearing skin , skin lesion , foot or toe pain , leg swelling , leg pain , foot or toe swelling , hand or finger pain , skin rash , peripheral edema",Infectious Disease Specialist,30
 endometrial hyperplasia,"back weakness , involuntary urination , heavy menstrual flow , vaginal bleeding after menopause , unpredictable menstruation",Gynecologist,42
 acanthosis nigricans,"skin lesion , acne or pimples , weight gain , skin growth",Dermatologist,89
@@ -458,30 +458,30 @@ primary immunodeficiency,"cough , arm stiffness or tightness , frontal headache 
 ovarian cancer,"groin mass , stomach bloating , sharp abdominal pain , decreased appetite",Oncologist,45
 cataract,"diminished vision , double vision , symptoms of eye , pain in eye , abnormal movement of eyelid , lacrimation , blindness , cloudy eye , itchiness of eye , spots or clouds in vision",Ophthalmologist,67
 dislocation of the hip,"hip pain , abusing alcohol , leg pain",Orthopedic Surgeon,54
-spinal stenosis,"arm pain , neck pain , paresthesia , shoulder pain , lower body pain , leg pain , hip pain , headache , problems with movement , loss of sensation , back pain , low back pain",Neurologist / Orthopedic Surgeon,69
+spinal stenosis,"arm pain , neck pain , paresthesia , shoulder pain , lower body pain , leg pain , hip pain , headache , problems with movement , loss of sensation , back pain , low back pain",Neurologist,69
 intestinal obstruction,"sharp abdominal pain , vomiting , stomach bloating , retention of urine , vaginal itching , burning abdominal pain , pain of the anus , nausea , constipation",Gastroenterologist,43
-heart contusion,"depression , elbow weakness",Cardiologist / Emergency Medicine Specialist,82
+heart contusion,"depression , elbow weakness",Cardiologist,82
 congenital malformation syndrome,"diminished hearing , lack of growth , seizures , gum pain",Geneticist,74
 sporotrichosis,"wrist pain , knee pain",Infectious Disease Specialist,74
 lymphangitis,"arm pain , neck swelling",Infectious Disease Specialist,37
-wernicke korsakoff syndrome,"anxiety and nervousness , depressive or psychotic symptoms , abusing alcohol",Neurologist / Psychiatrist,30
+wernicke korsakoff syndrome,"anxiety and nervousness , depressive or psychotic symptoms , abusing alcohol",Neurologist,30
 intestinal disease,"fainting , sharp abdominal pain , nausea , vomiting , diarrhea , burning abdominal pain , sharp chest pain , regurgitation , regurgitation.1",Gastroenterologist,30
 acute bronchitis,"shortness of breath , sharp chest pain , sore throat , nasal congestion , headache , wheezing , fever , coughing up sputum , congestion in chest , cough , difficulty breathing , coryza",Pulmonologist,70
-persistent vomiting of unknown cause,"dizziness , abnormal involuntary movements , vomiting , fever , diarrhea , sharp abdominal pain , nausea",Gastroenterologist / Neurologist,40
-open wound of the foot,"foot or toe pain , foot or toe swelling , irregular appearing nails , foot or toe lump or mass , skin lesion , skin on leg or foot looks infected",Podiatrist / Orthopedic Surgeon,51
+persistent vomiting of unknown cause,"dizziness , abnormal involuntary movements , vomiting , fever , diarrhea , sharp abdominal pain , nausea",Gastroenterologist,40
+open wound of the foot,"foot or toe pain , foot or toe swelling , irregular appearing nails , foot or toe lump or mass , skin lesion , skin on leg or foot looks infected",Podiatrist,51
 myocarditis,"sharp chest pain , dizziness , palpitations",Cardiologist,58
 preeclampsia,"sharp abdominal pain , headache , lower abdominal pain , vaginal redness , uterine contractions , spots or clouds in vision , problems during pregnancy , recent pregnancy , pain during pregnancy",Obstetrician,76
 ischemic heart disease,"shortness of breath , dizziness , chest tightness , palpitations , throat feels tight , peripheral edema , muscle pain , difficulty breathing , fatigue , sharp chest pain , lymphedema",Cardiologist,76
-neurofibromatosis,"abnormal involuntary movements , groin mass , abnormal appearing skin , headache",Neurologist / Geneticist,52
-chickenpox,"cough , pain in testicles , abnormal appearing skin , fever , itching of skin , skin rash",Pediatrician / Infectious Disease Specialist,48
+neurofibromatosis,"abnormal involuntary movements , groin mass , abnormal appearing skin , headache",Neurologist,52
+chickenpox,"cough , pain in testicles , abnormal appearing skin , fever , itching of skin , skin rash",Pediatrician,48
 pancreatic cancer,"jaundice , nausea , ache all over , stomach bloating , diarrhea , sharp abdominal pain , arm swelling",Oncologist,59
-neuropathy due to drugs,"cough , vomiting , foot or toe pain , problems with movement , loss of sensation",Neurologist / Toxicologist,34
-croup,"hoarse voice , nasal congestion , coryza , abnormal breathing sounds , shortness of breath , wheezing , fever , sore throat , vomiting , cough , pulling at ears",Pediatrician / Pulmonologist,38
+neuropathy due to drugs,"cough , vomiting , foot or toe pain , problems with movement , loss of sensation",Neurologist,34
+croup,"hoarse voice , nasal congestion , coryza , abnormal breathing sounds , shortness of breath , wheezing , fever , sore throat , vomiting , cough , pulling at ears",Pediatrician,38
 idiopathic excessive menstruation,"sharp abdominal pain , cramps and spasms , blood clots during menstrual periods , long menstrual periods , unpredictable menstruation , painful menstruation , frequent menstruation , vaginal discharge , intermenstrual bleeding , heavy menstrual flow , involuntary urination",Gynecologist,49
 amblyopia,"pus draining from ear , eye deviation , diminished vision , cross-eyed , pain in eye",Ophthalmologist,38
-meckel diverticulum,"lower abdominal pain , knee lump or mass",Pediatric Surgeon / Gastroenterologist,71
+meckel diverticulum,"lower abdominal pain , knee lump or mass",Pediatric Surgeon,71
 dislocation of the wrist,"depression , elbow weakness , hand or finger pain , arm pain",Orthopedic Surgeon,64
-ear drum damage,"cough , diminished hearing , pus draining from ear , ear pain , pulling at ears , redness in ear , bleeding from ear , ringing in ear , fluid in ear , nasal congestion , plugged feeling in ear",Otolaryngologist (ENT),61
+ear drum damage,"cough , diminished hearing , pus draining from ear , ear pain , pulling at ears , redness in ear , bleeding from ear , ringing in ear , fluid in ear , nasal congestion , plugged feeling in ear",Otolaryngologist,61
 erectile dysfunction,"retention of urine , pain in testicles , involuntary urination , pain during intercourse , frequent urination , excessive urination at night , loss of sex drive , blood in urine , impotence , symptoms of prostate",Urologist,84
 temporary or benign blood in urine,"suprapubic pain , painful urination , involuntary urination , frequent urination , lower abdominal pain , regurgitation , regurgitation.1 , retention of urine , sharp abdominal pain , back pain , blood in urine , symptoms of bladder",Urologist,51
 kidney disease due to longstanding hypertension,"difficulty speaking , feeling cold , symptoms of the kidneys , shortness of breath",Nephrologist,68
@@ -496,227 +496,227 @@ open wound of the finger,"hand or finger pain , hand or finger stiffness or tigh
 autonomic nervous system disorder,"dizziness , difficulty in swallowing , leg pain , headache , decreased appetite",Neurologist,54
 psychosexual disorder,"involuntary urination , pain during intercourse , impotence , premature ejaculation , depression , fatigue , loss of sex drive",Psychiatrist,84
 anemia,"shortness of breath , dizziness , vomiting blood , weakness , changes in stool appearance , melena , nosebleed , fatigue",Hematologist,68
-tendinitis,"leg pain , hip pain , hand or finger pain , knee pain , ankle pain , hand or finger swelling , arm pain , foot or toe pain , wrist pain , shoulder pain",Orthopedic Surgeon / Rheumatologist,35
+tendinitis,"leg pain , hip pain , hand or finger pain , knee pain , ankle pain , hand or finger swelling , arm pain , foot or toe pain , wrist pain , shoulder pain",Orthopedic Surgeon,35
 common cold,"cough , nasal congestion , wheezing , ear pain , chills , coryza , sore throat , vomiting , fever , flu-like syndrome , headache",Infectious Disease Specialist,18
 amyotrophic lateral sclerosis (als),"abnormal involuntary movements , difficulty speaking , difficulty in swallowing , weakness , leg cramps or spasms",Neurologist,35
-central retinal artery or vein occlusion,"irregular heartbeat , diminished vision , foreign body sensation in eye , blindness , pain in eye , symptoms of eye",Ophthalmologist or Retinal specialist,60
-paroxysmal supraventricular tachycardia,"shortness of breath , chest tightness , involuntary urination , weakness , increased heart rate , sharp chest pain , dizziness , palpitations , irregular heartbeat",Cardiologist or Electrophysiologist,69
-venous insufficiency,"leg pain , abnormal appearing skin , skin lesion , leg cramps or spasms , lymphedema , skin on leg or foot looks infected , fluid retention , burning chest pain",Vascular specialist or Cardiologist,41
-trichomonas infection,"vomiting , vaginal itching , lower abdominal pain , unpredictable menstruation , sharp abdominal pain , nausea , pain during pregnancy , vaginal discharge",Infectious disease specialist or Gynecologist,76
+central retinal artery or vein occlusion,"irregular heartbeat , diminished vision , foreign body sensation in eye , blindness , pain in eye , symptoms of eye",Ophthalmologist,60
+paroxysmal supraventricular tachycardia,"shortness of breath , chest tightness , involuntary urination , weakness , increased heart rate , sharp chest pain , dizziness , palpitations , irregular heartbeat",Cardiologist,69
+venous insufficiency,"leg pain , abnormal appearing skin , skin lesion , leg cramps or spasms , lymphedema , skin on leg or foot looks infected , fluid retention , burning chest pain",Vascular specialist,41
+trichomonas infection,"vomiting , vaginal itching , lower abdominal pain , unpredictable menstruation , sharp abdominal pain , nausea , pain during pregnancy , vaginal discharge",Infectious disease specialist,76
 acne,"skin swelling , abnormal appearing skin , acne or pimples , skin growth , irregular appearing scalp , long menstrual periods , skin dryness, peeling, scaliness, or roughness , skin rash , skin moles",Dermatologist,69
 depression,"depression , abusing alcohol , anxiety and nervousness , disturbance of memory , delusions or hallucinations , depressive or psychotic symptoms , excessive anger , temper problems , insomnia , hostile behavior , drug abuse",Psychiatrist,42
-drug abuse,"anxiety and nervousness , depression , depressive or psychotic symptoms , abusing alcohol , drug abuse , smoking problems , sweating , antisocial behavior , hostile behavior , delusions or hallucinations",Psychiatrist or Addiction specialist,79
-urinary tract obstruction,"retention of urine , suprapubic pain , sharp abdominal pain , blood in urine , back pain , symptoms of prostate , frequent urination , excessive urination at night , painful urination , side pain",Urologist or Nephrologist,67
-diabetes insipidus,"dizziness , emotional symptoms",Endocrinologist or Neurologist,54
-iridocyclitis,"headache , diminished vision , symptoms of eye , pain in eye , foreign body sensation in eye , eye redness , eye burns or stings , cloudy eye , lacrimation",Ophthalmologist or Rheumatologist,60
-varicocele of the testicles,"symptoms of the scrotum and testes , swelling of scrotum , pain in testicles , lower abdominal pain , skin growth , pain of the anus , involuntary urination , infertility , groin pain , mass in scrotum",Urologist or General surgeon,42
+drug abuse,"anxiety and nervousness , depression , depressive or psychotic symptoms , abusing alcohol , drug abuse , smoking problems , sweating , antisocial behavior , hostile behavior , delusions or hallucinations",Psychiatrist,79
+urinary tract obstruction,"retention of urine , suprapubic pain , sharp abdominal pain , blood in urine , back pain , symptoms of prostate , frequent urination , excessive urination at night , painful urination , side pain",Urologist,67
+diabetes insipidus,"dizziness , emotional symptoms",Endocrinologist,54
+iridocyclitis,"headache , diminished vision , symptoms of eye , pain in eye , foreign body sensation in eye , eye redness , eye burns or stings , cloudy eye , lacrimation",Ophthalmologist,60
+varicocele of the testicles,"symptoms of the scrotum and testes , swelling of scrotum , pain in testicles , lower abdominal pain , skin growth , pain of the anus , involuntary urination , infertility , groin pain , mass in scrotum",Urologist,42
 irritable bowel syndrome,"insomnia , flatulence , upper abdominal pain , diarrhea , lower abdominal pain , burning abdominal pain , anxiety and nervousness , nausea , sharp abdominal pain",Gastroenterologist,85
 fracture of the foot,"foot or toe pain , foot or toe stiffness or tightness , foot or toe swelling , foot or toe weakness , ankle pain , ankle swelling",Orthopedic specialist,31
 ovarian cyst,"sharp abdominal pain , nausea , vaginal discharge , intermenstrual bleeding , pelvic pain , burning abdominal pain , painful menstruation , lower abdominal pain , vomiting",Gynecologist,73
 chlamydia,"sharp abdominal pain , lower abdominal pain , pelvic pain , vaginal pain , vaginal discharge , vaginal itching",Infectious disease specialist,34
-parasitic disease,"cough , sharp abdominal pain , abnormal appearing skin , retention of urine , hand or finger swelling , skin rash",Infectious disease specialist or Gastroenterologist,49
-fracture of the jaw,"facial pain , jaw swelling , pain in eye , peripheral edema , mouth pain , bones are painful",Oral surgeon or General surgeon,74
-lipoma,"groin mass , abnormal appearing skin , skin lesion , bones are painful , shoulder lump or mass , skin swelling , back mass or lump , arm lump or mass , neck mass , skin growth",Dermatologist or General surgeon,77
-female genitalia infection,"skin swelling , vaginal discharge , skin lesion , vulvar irritation , groin pain , vulvar sore , vaginal pain",Gynecologist or Infectious disease specialist,38
-pulmonary hypertension,"shortness of breath , palpitations , difficulty breathing , apnea , feeling ill , sharp chest pain , cough , fatigue , hemoptysis",Cardiologist or Pulmonologist,51
+parasitic disease,"cough , sharp abdominal pain , abnormal appearing skin , retention of urine , hand or finger swelling , skin rash",Infectious disease specialist,49
+fracture of the jaw,"facial pain , jaw swelling , pain in eye , peripheral edema , mouth pain , bones are painful",Oral surgeon,74
+lipoma,"groin mass , abnormal appearing skin , skin lesion , bones are painful , shoulder lump or mass , skin swelling , back mass or lump , arm lump or mass , neck mass , skin growth",Dermatologist,77
+female genitalia infection,"skin swelling , vaginal discharge , skin lesion , vulvar irritation , groin pain , vulvar sore , vaginal pain",Gynecologist,38
+pulmonary hypertension,"shortness of breath , palpitations , difficulty breathing , apnea , feeling ill , sharp chest pain , cough , fatigue , hemoptysis",Cardiologist,51
 thyroid nodule,"hoarse voice , diminished hearing , difficulty in swallowing , neck mass , fatigue , throat feels tight , back weakness",Endocrinologist,30
-broken tooth,"lip swelling , dry lips , bleeding gums , facial pain , toothache , difficulty eating , gum pain",Dentist or Oral surgeon,40
+broken tooth,"lip swelling , dry lips , bleeding gums , facial pain , toothache , difficulty eating , gum pain",Dentist,40
 dumping syndrome,"vomiting , nausea , knee lump or mass",Gastroenterologist,61
-lymphadenitis,"sore throat , cough , sharp abdominal pain , neck pain , neck swelling , fever , skin swelling , ear pain , neck mass",Infectious disease specialist or Pediatrician,81
-injury to the face,"diminished hearing , ear pain , neck stiffness or tightness , bleeding from ear , neck pain , nosebleed , facial pain , headache , mouth pain",Plastic surgeon or Oral surgeon,84
+lymphadenitis,"sore throat , cough , sharp abdominal pain , neck pain , neck swelling , fever , skin swelling , ear pain , neck mass",Infectious disease specialist,81
+injury to the face,"diminished hearing , ear pain , neck stiffness or tightness , bleeding from ear , neck pain , nosebleed , facial pain , headache , mouth pain",Plastic surgeon,84
 aortic valve disease,"shortness of breath , sharp chest pain , palpitations , irregular heartbeat , lymphedema , groin mass , fainting , peripheral edema , difficulty breathing",Cardiologist,37
 rheumatoid arthritis,"hand or finger pain , wrist pain , ache all over , elbow swelling , wrist swelling , joint pain , joint swelling , hand or finger swelling , peripheral edema , knee pain",Rheumatologist,64
-spermatocele,"retention of urine , pain in testicles , frequent urination , elbow weakness , mass in scrotum",Urologist or General surgeon,30
+spermatocele,"retention of urine , pain in testicles , frequent urination , elbow weakness , mass in scrotum",Urologist,30
 impetigo,"cough , nasal congestion , skin swelling , skin lesion , mouth ulcer , itching of skin , sore in nose , skin rash , fever , abnormal appearing skin",Dermatologist,44
-anal fistula,"blood in stool , mass in scrotum , rectal bleeding , pain of the anus",General surgeon or Proctologist,32
+anal fistula,"blood in stool , mass in scrotum , rectal bleeding , pain of the anus",General surgeon,32
 hypothermia,"depressive or psychotic symptoms , emotional symptoms , fainting , weakness",Emergency medicine specialist,32
-oppositional disorder,"hostile behavior , restlessness , excessive anger , low self-esteem , obsessions and compulsions , antisocial behavior , low urine output , fainting , temper problems , depressive or psychotic symptoms",Psychiatrist or Pediatrician,30
+oppositional disorder,"hostile behavior , restlessness , excessive anger , low self-esteem , obsessions and compulsions , antisocial behavior , low urine output , fainting , temper problems , depressive or psychotic symptoms",Psychiatrist,30
 migraine,"headache , nausea , diminished vision , spots or clouds in vision , blindness , symptoms of the face , disturbance of memory , dizziness , vomiting",Neurologist,33
-diabetic peripheral neuropathy,"leg pain , skin lesion , foot or toe swelling , loss of sensation , lymphedema , foot or toe stiffness or tightness , foot or toe pain , paresthesia , problems with movement",Endocrinologist or Neurologist,58
+diabetic peripheral neuropathy,"leg pain , skin lesion , foot or toe swelling , loss of sensation , lymphedema , foot or toe stiffness or tightness , foot or toe pain , paresthesia , problems with movement",Endocrinologist,58
 testicular disorder,"hoarse voice , symptoms of the scrotum and testes , impotence , loss of sex drive , fatigue",Urologist,47
 gestational diabetes,"vaginal redness , problems during pregnancy , pelvic pressure , pain during pregnancy , uterine contractions",Obstetrician-Gynecologist,62
 hidradenitis suppurativa,"skin swelling , groin mass , arm pain , skin lesion , skin growth , skin rash",Dermatologist,36
 valley fever,"hand or finger pain , fever , shortness of breath , shoulder swelling",Infectious disease specialist,71
 conjunctivitis due to bacteria,"sore throat , nasal congestion , abnormal appearing skin , cough , eye redness , fever",Ophthalmologist,34
 lewy body dementia,"depressive or psychotic symptoms , hostile behavior , delusions or hallucinations , disturbance of memory , abnormal involuntary movements",Neurologist,86
-multiple myeloma,"lip swelling , problems with movement , weakness , fatigue , disturbance of memory",Hematologist or Oncologist,78
-head injury,"fainting , lip swelling , facial pain , double vision , back pain , neck pain , headache , dizziness",Neurologist or Neurosurgeon,84
+multiple myeloma,"lip swelling , problems with movement , weakness , fatigue , disturbance of memory",Hematologist,78
+head injury,"fainting , lip swelling , facial pain , double vision , back pain , neck pain , headache , dizziness",Neurologist,84
 ascending cholangitis,"shortness of breath , retention of urine , jaundice , sharp abdominal pain , fever",Gastroenterologist,88
-idiopathic irregular menstrual cycle,"sharp abdominal pain , intermenstrual bleeding , pelvic pain , cramps and spasms , unpredictable menstruation , painful menstruation , infertility , frequent menstruation , long menstrual periods , lower abdominal pain , heavy menstrual flow",Gynecologist or Endocrinologist,72
+idiopathic irregular menstrual cycle,"sharp abdominal pain , intermenstrual bleeding , pelvic pain , cramps and spasms , unpredictable menstruation , painful menstruation , infertility , frequent menstruation , long menstrual periods , lower abdominal pain , heavy menstrual flow",Gynecologist,72
 interstitial lung disease,"sore throat , nasal congestion , wheezing , fever , abnormal breathing sounds , shortness of breath , cough , headache , sleepiness",Pulmonologist,88
-mononeuritis,"hand or finger pain , arm pain , foot or toe pain , elbow pain , loss of sensation , shoulder pain , leg pain , wrist pain , hand or finger weakness , ankle pain",Neurologist or Rheumatologist,79
+mononeuritis,"hand or finger pain , arm pain , foot or toe pain , elbow pain , loss of sensation , shoulder pain , leg pain , wrist pain , hand or finger weakness , ankle pain",Neurologist,79
 malaria,"fainting , headache , knee lump or mass , fever",Infectious disease specialist,75
 somatization disorder,"anxiety and nervousness , dizziness , fainting , ache all over , depression",Psychiatrist,35
 hypovolemia,"dizziness , sharp abdominal pain , feeling ill , vomiting , nausea , diarrhea , decreased appetite , fever , fainting",Emergency medicine specialist,40
 schizophrenia,"anxiety and nervousness , insomnia , temper problems , fears and phobias , low self-esteem , hostile behavior , excessive anger , hysterical behavior , depression , depressive or psychotic symptoms , delusions or hallucinations",Psychiatrist,38
 knee ligament or meniscus tear,"knee swelling , leg weakness , knee pain , knee weakness , knee lump or mass , knee stiffness or tightness , leg stiffness or tightness",Orthopedic specialist,59
-endocarditis,"sharp chest pain , dizziness , palpitations , increased heart rate , shortness of breath , irregular heartbeat",Cardiologist or Infectious disease specialist,83
+endocarditis,"sharp chest pain , dizziness , palpitations , increased heart rate , shortness of breath , irregular heartbeat",Cardiologist,83
 sepsis,"shortness of breath , sharp abdominal pain , decreased appetite , difficulty breathing , suprapubic pain , feeling ill , vomiting , cough , fever , chills , weakness",Infectious disease specialist,99
 heat stroke,"dizziness , feeling hot",Emergency medicine specialist,96
 cholecystitis,"sharp abdominal pain , vomiting , nausea , back pain , burning abdominal pain , side pain , lower body pain , upper abdominal pain , stomach bloating , symptoms of the kidneys , sharp chest pain , regurgitation.1",Gastroenterologist,68
-cardiac arrest,"shortness of breath , sharp chest pain , palpitations , arm swelling , weakness , decreased heart rate , difficulty breathing , irregular heartbeat",Cardiologist or Emergency medicine specialist,34
+cardiac arrest,"shortness of breath , sharp chest pain , palpitations , arm swelling , weakness , decreased heart rate , difficulty breathing , irregular heartbeat",Cardiologist,34
 cardiomyopathy,"shortness of breath , chest tightness , peripheral edema , decreased heart rate , fatigue , irregular heartbeat , heartburn , sharp chest pain",Cardiologist,87
-social phobia,"depressive or psychotic symptoms , insomnia , excessive anger , delusions or hallucinations , anxiety and nervousness , excessive appetite , fears and phobias , abusing alcohol , depression",Psychiatrist or Therapist,69
-meningitis,"vomiting , neck pain , neck stiffness or tightness , fever , ache all over , cough , headache , nausea",Neurologist or Infectious disease specialist,84
+social phobia,"depressive or psychotic symptoms , insomnia , excessive anger , delusions or hallucinations , anxiety and nervousness , excessive appetite , fears and phobias , abusing alcohol , depression",Psychiatrist,69
+meningitis,"vomiting , neck pain , neck stiffness or tightness , fever , ache all over , cough , headache , nausea",Neurologist,84
 spherocytosis,"cough , elbow weakness , skin rash",Hematologist,35
 hormone disorder,"lack of growth , headache , hot flashes , acne or pimples , excessive growth",Endocrinologist,45
 raynaud disease,"hand or finger pain , hand or finger swelling , loss of sensation",Rheumatologist,49
-reactive arthritis,"hip pain , knee lump or mass",Rheumatologist or Infectious disease specialist,41
+reactive arthritis,"hip pain , knee lump or mass",Rheumatologist,41
 scabies,"abnormal appearing skin , foot or toe swelling , problems during pregnancy , itching of skin , unpredictable menstruation , skin rash , skin swelling",Dermatologist,47
 ear wax impaction,"cough , nasal congestion , diminished hearing , fluid in ear , fever , pulling at ears , ringing in ear , plugged feeling in ear , sinus congestion , ear pain",Otolaryngologist,72
-hypertension of pregnancy,"headache , pain during pregnancy , heartburn , problems during pregnancy , spotting or bleeding during pregnancy , uterine contractions",Obstetrician-Gynecologist or Cardiologist,46
-peripheral arterial embolism,"leg pain , abnormal appearing skin , knee swelling , loss of sensation , paresthesia , leg swelling",Vascular surgeon or Cardiologist,73
+hypertension of pregnancy,"headache , pain during pregnancy , heartburn , problems during pregnancy , spotting or bleeding during pregnancy , uterine contractions",Obstetrician-Gynecologist,46
+peripheral arterial embolism,"leg pain , abnormal appearing skin , knee swelling , loss of sensation , paresthesia , leg swelling",Vascular surgeon,73
 rosacea,"skin swelling , abnormal appearing skin , skin lesion , symptoms of eye , lymphedema , skin dryness, peeling, scaliness, or roughness , acne or pimples , skin growth , itching of skin , skin moles",Dermatologist,67
-fracture of the skull,"depressive or psychotic symptoms , diminished hearing , vomiting , headache , drug abuse",Neurosurgeon or General surgeon,73
+fracture of the skull,"depressive or psychotic symptoms , diminished hearing , vomiting , headache , drug abuse",Neurosurgeon,73
 uveitis,"elbow weakness , diminished vision , symptoms of eye",Ophthalmologist,62
-fracture of the facial bones,"lip swelling , double vision , pain in eye , peripheral edema , redness in or around nose , abusing alcohol , facial pain , headache , swollen eye",Plastic surgeon or Oral surgeon,74
+fracture of the facial bones,"lip swelling , double vision , pain in eye , peripheral edema , redness in or around nose , abusing alcohol , facial pain , headache , swollen eye",Plastic surgeon,74
 tracheitis,"shortness of breath , hoarse voice , cough , nasal congestion , fever , sneezing , sore throat",Pulmonologist,56
-jaw disorder,"difficulty in swallowing , headache , toothache , peripheral edema , jaw swelling , mouth pain , facial pain , neck mass",Oral surgeon or Maxillofacial surgeon,89
-perirectal infection,"skin swelling , swelling of scrotum , abnormal appearing skin , skin lesion , pain of the anus , pain in testicles",Infectious disease specialist or Proctologist,47
-breast cyst,"vaginal dryness , pain or soreness of breast , skin growth , lump or mass of breast",General surgeon or Gynecologist,89
+jaw disorder,"difficulty in swallowing , headache , toothache , peripheral edema , jaw swelling , mouth pain , facial pain , neck mass",Oral surgeon,89
+perirectal infection,"skin swelling , swelling of scrotum , abnormal appearing skin , skin lesion , pain of the anus , pain in testicles",Infectious disease specialist,47
+breast cyst,"vaginal dryness , pain or soreness of breast , skin growth , lump or mass of breast",General surgeon,89
 post-traumatic stress disorder (ptsd),"anxiety and nervousness , depression , depressive or psychotic symptoms , insomnia , hostile behavior , drug abuse , abusing alcohol , temper problems , excessive anger , delusions or hallucinations",Psychiatrist,68
-kidney cancer,"involuntary urination , blood in urine , kidney mass , retention of urine , groin mass",Oncologist or Urologist,37
-vulvar cancer,"insomnia , back pain , emotional symptoms",Gynecologist or Oncologist,59
+kidney cancer,"involuntary urination , blood in urine , kidney mass , retention of urine , groin mass",Oncologist,37
+vulvar cancer,"insomnia , back pain , emotional symptoms",Gynecologist,59
 blepharitis,"diminished vision , pain in eye , spots or clouds in vision , eye redness , lacrimation , swollen eye , eyelid swelling , white discharge from eye , itchiness of eye , eye burns or stings , symptoms of eye",Ophthalmologist,54
 celiac disease,"sharp abdominal pain , vomiting , nausea , peripheral edema , sharp chest pain , regurgitation.1",Gastroenterologist,59
 cystitis,"retention of urine , sharp abdominal pain , painful urination , pelvic pain , side pain , lower abdominal pain , blood in urine , back pain , suprapubic pain , frequent urination , symptoms of bladder , involuntary urination",Urologist,57
 sickle cell anemia,"dry lips , back pain , fever , temper problems , pulling at ears , leg pain , joint pain , ache all over",Hematologist,68
 subconjunctival hemorrhage,"headache , facial pain , diminished vision , pain in eye , foreign body sensation in eye , eye redness , bleeding from eye , symptoms of eye",Ophthalmologist,59
-hemorrhoids,"blood in stool , pain of the anus , heartburn , rectal bleeding , constipation , mass or swelling around the anus , itching of the anus , lower body pain , changes in stool appearance , sharp abdominal pain , melena",Proctologist or General surgeon,70
+hemorrhoids,"blood in stool , pain of the anus , heartburn , rectal bleeding , constipation , mass or swelling around the anus , itching of the anus , lower body pain , changes in stool appearance , sharp abdominal pain , melena",Proctologist,70
 contact dermatitis,"skin swelling , skin lesion , acne or pimples , skin moles , skin dryness, peeling, scaliness, or roughness , skin irritation , allergic reaction , itching of skin , abnormal appearing skin , swollen eye , skin rash",Dermatologist,35
 sinus bradycardia,"shortness of breath , dizziness , chest tightness , palpitations , weakness , decreased heart rate , fainting , feeling ill , increased heart rate , sharp chest pain , irregular heartbeat",Cardiologist,55
 high blood pressure,"sharp chest pain , headache",Cardiologist,44
 pelvic inflammatory disease,"vomiting , pelvic pain , burning abdominal pain , suprapubic pain , nausea , painful urination , lower abdominal pain , vaginal discharge , intermenstrual bleeding , back pain , sharp abdominal pain",Obstetrician-Gynecologist,76
-liver disease,"sharp abdominal pain , diarrhea , peripheral edema , heartburn , weakness , upper abdominal pain , nausea , unusual color or odor to urine , shortness of breath , blood in stool , jaundice , side pain",Hepatologist or Gastroenterologist,73
+liver disease,"sharp abdominal pain , diarrhea , peripheral edema , heartburn , weakness , upper abdominal pain , nausea , unusual color or odor to urine , shortness of breath , blood in stool , jaundice , side pain",Hepatologist,73
 chronic constipation,"retention of urine , blood in stool , sharp abdominal pain , vomiting , nausea , pain of the anus , constipation , rectal bleeding , lower abdominal pain , burning abdominal pain , changes in stool appearance",Gastroenterologist,43
-thyroid cancer,"swollen lymph nodes , neck mass , difficulty in swallowing , fatigue",Endocrinologist or Oncologist,83
+thyroid cancer,"swollen lymph nodes , neck mass , difficulty in swallowing , fatigue",Endocrinologist,83
 flu,"sore throat , cough , diarrhea , ache all over , chills , vomiting , headache , nausea , fever , coryza",Infectious disease specialist,61
 friedrich ataxia,"cough , knee lump or mass , ear pain",Neurologist,88
-tic (movement) disorder,"depressive or psychotic symptoms , abnormal involuntary movements , abnormal movement of eyelid , problems with movement , headache , symptoms of eye",Psychiatrist or Neurologist,80
+tic (movement) disorder,"depressive or psychotic symptoms , abnormal involuntary movements , abnormal movement of eyelid , problems with movement , headache , symptoms of eye",Psychiatrist,80
 skin polyp,"skin swelling , irregular appearing scalp , skin moles , skin irritation , abnormal appearing skin , skin lesion , acne or pimples , skin growth , skin dryness, peeling, scaliness, or roughness , warts , itching of skin",Dermatologist,69
 brachial neuritis,"headache , arm pain , back pain , low back pain , elbow pain , paresthesia , shoulder pain , hand or finger pain , loss of sensation , hand or finger weakness , neck pain",Neurologist,39
-cervical cancer,"jaundice , vaginal itching , pelvic pain , heavy menstrual flow , vulvar irritation , vaginal discharge",Oncologist or Gynecologist,70
+cervical cancer,"jaundice , vaginal itching , pelvic pain , heavy menstrual flow , vulvar irritation , vaginal discharge",Oncologist,70
 adrenal adenoma,"anxiety and nervousness , shortness of breath , back weakness , sharp abdominal pain",Endocrinologist,78
 esophagitis,"shortness of breath , sharp chest pain , chest tightness , cough , difficulty in swallowing , sharp abdominal pain , vomiting , sore throat , burning abdominal pain , heartburn , upper abdominal pain , nausea",Gastroenterologist,51
-gas gangrene,"sharp abdominal pain , wrist pain",General surgeon or Infectious disease specialist,33
-yeast infection,"suprapubic pain , frequent urination , vaginal discharge , vaginal pain , sharp abdominal pain , diaper rash , vaginal itching , skin rash , pelvic pain",Gynecologist or Infectious disease specialist,34
-spina bifida,"skin lesion , eye moves abnormally , back pain , disturbance of memory , headache , involuntary urination",Neurologist or Pediatrician,76
-drug poisoning due to medication,"depression , depressive or psychotic symptoms , abusing alcohol , drug abuse , lip swelling , slurring words , sleepiness",Toxicologist or Emergency medicine specialist,94
-alcoholic liver disease,"abnormal involuntary movements , peripheral edema , weight gain , stomach bloating , sharp abdominal pain , diarrhea , abusing alcohol",Gastroenterologist or Hepatologist,85
+gas gangrene,"sharp abdominal pain , wrist pain",General surgeon,33
+yeast infection,"suprapubic pain , frequent urination , vaginal discharge , vaginal pain , sharp abdominal pain , diaper rash , vaginal itching , skin rash , pelvic pain",Gynecologist,34
+spina bifida,"skin lesion , eye moves abnormally , back pain , disturbance of memory , headache , involuntary urination",Neurologist,76
+drug poisoning due to medication,"depression , depressive or psychotic symptoms , abusing alcohol , drug abuse , lip swelling , slurring words , sleepiness",Toxicologist,94
+alcoholic liver disease,"abnormal involuntary movements , peripheral edema , weight gain , stomach bloating , sharp abdominal pain , diarrhea , abusing alcohol",Gastroenterologist,85
 malignant hypertension,"sharp chest pain , insomnia , headache , depressive or psychotic symptoms , lower body pain , shortness of breath , vomiting",Cardiologist,51
-diverticulitis,"blood in stool , sharp abdominal pain , vomiting , diarrhea , lower abdominal pain , burning abdominal pain , side pain , fever , nausea , constipation , upper abdominal pain , chills",Gastroenterologist or General surgeon,85
-moyamoya disease,"depressive or psychotic symptoms , elbow weakness",Neurologist or Neurosurgeon,59
-heat exhaustion,"shortness of breath , dizziness , vomiting , headache , weakness , sharp chest pain , fluid retention , fainting",Emergency medicine specialist or Cardiologist,42
+diverticulitis,"blood in stool , sharp abdominal pain , vomiting , diarrhea , lower abdominal pain , burning abdominal pain , side pain , fever , nausea , constipation , upper abdominal pain , chills",Gastroenterologist,85
+moyamoya disease,"depressive or psychotic symptoms , elbow weakness",Neurologist,59
+heat exhaustion,"shortness of breath , dizziness , vomiting , headache , weakness , sharp chest pain , fluid retention , fainting",Emergency medicine specialist,42
 psychotic disorder,"depression , depressive or psychotic symptoms , insomnia , abusing alcohol , excessive anger , temper problems , fears and phobias , hysterical behavior , anxiety and nervousness , hostile behavior , delusions or hallucinations",Psychiatrist,39
-frostbite,"sharp chest pain , elbow weakness , foot or toe pain",Emergency medicine specialist or Dermatologist,36
+frostbite,"sharp chest pain , elbow weakness , foot or toe pain",Emergency medicine specialist,36
 atrophy of the corpus cavernosum,"frequent urination , skin growth , bumps on penis , abnormal appearing skin , impotence",Urologist,37
-smoking or tobacco addiction,"shortness of breath , abusing alcohol , coughing up sputum , drug abuse , smoking problems , hemoptysis , hurts to breath , sharp chest pain , cough , headache , excessive anger",Psychiatrist or Addiction specialist,72
+smoking or tobacco addiction,"shortness of breath , abusing alcohol , coughing up sputum , drug abuse , smoking problems , hemoptysis , hurts to breath , sharp chest pain , cough , headache , excessive anger",Psychiatrist,72
 sprain or strain,"leg pain , headache , hand or finger pain , arm pain , back pain , neck pain , low back pain , knee pain , wrist pain , foot or toe pain , ankle pain , shoulder pain",Orthopedic specialist,59
 essential tremor,"dizziness , abnormal involuntary movements , hoarse voice , problems with movement , disturbance of memory , muscle pain , loss of sensation",Neurologist,81
 open wound of the ear,"dry lips , facial pain , ear pain , fluid in ear , bleeding from ear",ENT specialist,77
 foreign body in the nose,"nasal congestion , regurgitation.1",Otolaryngologist,71
 idiopathic painful menstruation,"lower abdominal pain , vaginal discharge , cramps and spasms , blood clots during menstrual periods , long menstrual periods , heavy menstrual flow , unpredictable menstruation , pelvic pain , sharp abdominal pain , vaginal itching , painful menstruation",Gynecologist,73
-down syndrome,"difficulty speaking , nasal congestion , lack of growth , seizures , cough , decreased appetite",Pediatrician or Geneticist,49
-idiopathic infrequent menstruation,"retention of urine , sharp abdominal pain , nausea , unpredictable menstruation",Gynecologist or Endocrinologist,82
-pneumothorax,"shortness of breath , drug abuse , shoulder pain , sharp chest pain , cough , side pain , back pain , hurts to breath",Pulmonologist or Thoracic surgeon,76
-de quervain disease,"abnormal involuntary movements , wrist pain , hand or finger swelling , wrist swelling , hand or finger pain , arm pain , shoulder pain",Orthopedic specialist or Rheumatologist,75
-fracture of the vertebra,"hip pain , hand or finger stiffness or tightness , back pain , neck pain , leg stiffness or tightness , pelvic pain , bones are painful , low back pain",Orthopedic specialist or Neurosurgeon,41
-human immunodeficiency virus infection (hiv),"drug abuse , fears and phobias , nightmares",Infectious disease specialist or Immunologist,40
-mumps,"sore throat , swollen lymph nodes , ear pain , shoulder swelling",Pediatrician or Infectious disease specialist,82
-subarachnoid hemorrhage,"dizziness , fainting , vomiting , headache , symptoms of eye , loss of sensation",Neurologist or Neurosurgeon,45
+down syndrome,"difficulty speaking , nasal congestion , lack of growth , seizures , cough , decreased appetite",Pediatrician,49
+idiopathic infrequent menstruation,"retention of urine , sharp abdominal pain , nausea , unpredictable menstruation",Gynecologist,82
+pneumothorax,"shortness of breath , drug abuse , shoulder pain , sharp chest pain , cough , side pain , back pain , hurts to breath",Pulmonologist,76
+de quervain disease,"abnormal involuntary movements , wrist pain , hand or finger swelling , wrist swelling , hand or finger pain , arm pain , shoulder pain",Orthopedic specialist,75
+fracture of the vertebra,"hip pain , hand or finger stiffness or tightness , back pain , neck pain , leg stiffness or tightness , pelvic pain , bones are painful , low back pain",Orthopedic specialist,41
+human immunodeficiency virus infection (hiv),"drug abuse , fears and phobias , nightmares",Infectious disease specialist,40
+mumps,"sore throat , swollen lymph nodes , ear pain , shoulder swelling",Pediatrician,82
+subarachnoid hemorrhage,"dizziness , fainting , vomiting , headache , symptoms of eye , loss of sensation",Neurologist,45
 acute fatty liver of pregnancy (aflp),"emotional symptoms , sharp abdominal pain",Obstetrician-Gynecologist,70
 ectropion,"white discharge from eye , symptoms of eye , pain in eye , eye redness , lacrimation",Ophthalmologist,57
-scar,"skin swelling , lip swelling , skin lesion , skin growth , skin moles , itching of skin , abnormal appearing skin",Dermatologist or Plastic surgeon,37
+scar,"skin swelling , lip swelling , skin lesion , skin growth , skin moles , itching of skin , abnormal appearing skin",Dermatologist,37
 lactose intolerance,"shortness of breath , nasal congestion , flatulence , diarrhea , impotence , burning abdominal pain",Gastroenterologist,36
 eustachian tube dysfunction (ear disorder),"dizziness , sore throat , ear pain , allergic reaction , redness in ear , swollen or red tonsils , ringing in ear , abnormal breathing sounds , nasal congestion , diminished hearing , plugged feeling in ear",ENT specialist,87
 appendicitis,"sharp abdominal pain , diarrhea , burning abdominal pain , decreased appetite , side pain , upper abdominal pain , lower abdominal pain , fever , stomach bloating , vomiting , nausea",General surgeon,34
 graves disease,"dizziness , abnormal involuntary movements , palpitations , irregular heartbeat , hemoptysis , sweating , involuntary urination",Endocrinologist,49
-dissociative disorder,"anxiety and nervousness , back weakness , excessive anger , disturbance of memory , depressive or psychotic symptoms",Psychiatrist or Psychologist,71
-open wound of the face,"wrist swelling , facial pain",Plastic surgeon or Oral surgeon,69
-dislocation of the vertebra,"leg pain , elbow weakness , back pain , neck pain , low back pain",Orthopedic specialist or Neurosurgeon,73
+dissociative disorder,"anxiety and nervousness , back weakness , excessive anger , disturbance of memory , depressive or psychotic symptoms",Psychiatrist,71
+open wound of the face,"wrist swelling , facial pain",Plastic surgeon,69
+dislocation of the vertebra,"leg pain , elbow weakness , back pain , neck pain , low back pain",Orthopedic specialist,73
 phimosis,"retention of urine , symptoms of the scrotum and testes , blood in urine , penis pain , penis redness , painful urination",Urologist,80
 hyperemesis gravidarum,"sharp abdominal pain , nausea , diarrhea , pain during pregnancy , vomiting blood , burning abdominal pain , problems during pregnancy , dizziness , weakness , vomiting , headache",Obstetrician-Gynecologist,79
 pregnancy,"pain during pregnancy , spotting or bleeding during pregnancy , cramps and spasms , uterine contractions , problems during pregnancy , pelvic pressure",Obstetrician-Gynecologist,55
 thalassemia,"insomnia , elbow weakness",Hematologist,74
 placenta previa,"involuntary urination , spotting or bleeding during pregnancy , pain during pregnancy , cramps and spasms",Obstetrician-Gynecologist,40
-epidural hemorrhage,"depressive or psychotic symptoms , dizziness , emotional symptoms",Neurologist or Neurosurgeon,43
-septic arthritis,"leg pain , hip pain , knee pain , knee swelling , fever",Rheumatologist or Infectious disease specialist,42
-athlete's foot,"abnormal appearing skin , skin lesion , foot or toe pain , irregular appearing nails , skin dryness, peeling, scaliness, or roughness , skin rash , skin swelling , foot or toe swelling",Dermatologist or Podiatrist,40
+epidural hemorrhage,"depressive or psychotic symptoms , dizziness , emotional symptoms",Neurologist,43
+septic arthritis,"leg pain , hip pain , knee pain , knee swelling , fever",Rheumatologist,42
+athlete's foot,"abnormal appearing skin , skin lesion , foot or toe pain , irregular appearing nails , skin dryness, peeling, scaliness, or roughness , skin rash , skin swelling , foot or toe swelling",Dermatologist,40
 pleural effusion,"shortness of breath , sharp chest pain , cough , sharp abdominal pain , back pain , hurts to breath , side pain , difficulty breathing , rib pain , weakness",Pulmonologist,70
 aphakia,"symptoms of eye , spots or clouds in vision , eye burns or stings , diminished vision",Ophthalmologist,79
 vulvar disorder,"vaginal itching , pain during intercourse , vaginal pain , skin dryness, peeling, scaliness, or roughness , vaginal discharge , vulvar irritation",Gynecologist,63
-sialoadenitis,"sore throat , cough , facial pain , swollen lymph nodes , peripheral edema , neck mass , jaw swelling , neck swelling , nasal congestion",Otolaryngologist or Oral surgeon,62
-gynecomastia,"back pain , neck pain , bones are painful , lump or mass of breast , skin swelling , problems with shape or size of breast , pain or soreness of breast",Endocrinologist or Urologist,80
-urinary tract infection,"retention of urine , vomiting , painful urination , frequent urination , back pain , suprapubic pain , nausea , blood in urine , side pain , lower abdominal pain , fever",Urologist or Infectious disease specialist,38
-histoplasmosis,"cough , elbow weakness , lacrimation",Infectious disease specialist or Pulmonologist,37
+sialoadenitis,"sore throat , cough , facial pain , swollen lymph nodes , peripheral edema , neck mass , jaw swelling , neck swelling , nasal congestion",Otolaryngologist,62
+gynecomastia,"back pain , neck pain , bones are painful , lump or mass of breast , skin swelling , problems with shape or size of breast , pain or soreness of breast",Endocrinologist,80
+urinary tract infection,"retention of urine , vomiting , painful urination , frequent urination , back pain , suprapubic pain , nausea , blood in urine , side pain , lower abdominal pain , fever",Urologist,38
+histoplasmosis,"cough , elbow weakness , lacrimation",Infectious disease specialist,37
 erythema multiforme,"vomiting , mouth ulcer , skin rash , difficulty in swallowing , fever",Dermatologist,78
 scoliosis,"back pain , leg pain , knee swelling , knee stiffness or tightness , low back pain , problems with movement , lower body pain",Orthopedic specialist,45
-bunion,"skin growth , knee pain , foot or toe pain , skin moles , foot or toe lump or mass",Podiatrist or Orthopedic specialist,34
-arrhythmia,"shortness of breath , sharp chest pain , chest tightness , palpitations , leg cramps or spasms , dizziness , fainting , fatigue",Cardiologist or Electrophysiologist,82
+bunion,"skin growth , knee pain , foot or toe pain , skin moles , foot or toe lump or mass",Podiatrist,34
+arrhythmia,"shortness of breath , sharp chest pain , chest tightness , palpitations , leg cramps or spasms , dizziness , fainting , fatigue",Cardiologist,82
 trigeminal neuralgia,"dizziness , abnormal involuntary movements , headache , facial pain , toothache , symptoms of the face , pain in eye",Neurologist,56
-ankylosing spondylitis,"leg pain , hip pain , back pain , low back pain , elbow pain , paresthesia , stiffness all over , knee pain , ache all over , lower body pain",Rheumatologist or Orthopedic specialist,39
-peripheral nerve disorder,"dizziness , abnormal involuntary movements , leg pain , back pain , foot or toe pain , problems with movement , loss of sensation , disturbance of memory , arm pain , paresthesia , arm weakness , leg weakness",Neurologist or Neurosurgeon,36
-sebaceous cyst,"skin swelling , abnormal appearing skin , skin lesion , acne or pimples , skin growth , back mass or lump , arm lump or mass , hand or finger lump or mass , irregular appearing scalp , neck mass , skin moles",Dermatologist or General surgeon,58
-poisoning due to antipsychotics,"anxiety and nervousness , sharp chest pain , delusions or hallucinations",Toxicologist or Psychiatrist,97
+ankylosing spondylitis,"leg pain , hip pain , back pain , low back pain , elbow pain , paresthesia , stiffness all over , knee pain , ache all over , lower body pain",Rheumatologist,39
+peripheral nerve disorder,"dizziness , abnormal involuntary movements , leg pain , back pain , foot or toe pain , problems with movement , loss of sensation , disturbance of memory , arm pain , paresthesia , arm weakness , leg weakness",Neurologist,36
+sebaceous cyst,"skin swelling , abnormal appearing skin , skin lesion , acne or pimples , skin growth , back mass or lump , arm lump or mass , hand or finger lump or mass , irregular appearing scalp , neck mass , skin moles",Dermatologist,58
+poisoning due to antipsychotics,"anxiety and nervousness , sharp chest pain , delusions or hallucinations",Toxicologist,97
 neurosis,"insomnia , smoking problems , delusions or hallucinations , obsessions and compulsions , anxiety and nervousness , depressive or psychotic symptoms , hostile behavior , drug abuse , headache , depression , excessive anger",Psychiatrist,47
-prostate cancer,"retention of urine , involuntary urination , pain during intercourse , symptoms of prostate , flushing , blood in urine , impotence , excessive urination at night",Urologist or Oncologist,76
+prostate cancer,"retention of urine , involuntary urination , pain during intercourse , symptoms of prostate , flushing , blood in urine , impotence , excessive urination at night",Urologist,76
 cerebral edema,"dizziness , vomiting , neck pain , focal weakness , arm pain , headache",Neurologist,36
 dislocation of the finger,"wrist pain , hand or finger swelling , difficulty speaking , hand or finger pain , hand or finger stiffness or tightness",Orthopedic specialist,58
-birth trauma,"depressive or psychotic symptoms , emotional symptoms , arm stiffness or tightness",Pediatrician or Obstetrician-Gynecologist,73
+birth trauma,"depressive or psychotic symptoms , emotional symptoms , arm stiffness or tightness",Pediatrician,73
 chronic pancreatitis,"vomiting , nausea , skin growth , ache all over , abusing alcohol , sharp abdominal pain , diarrhea , back pain",Gastroenterologist,85
-hematoma,"swelling of scrotum , arm swelling , skin swelling , sharp abdominal pain , ache all over",Emergency medicine specialist or Surgeon,86
-carcinoid syndrome,"involuntary urination , knee lump or mass",Endocrinologist or Oncologist,45
-open wound of the head,"abusing alcohol , headache",Neurosurgeon or General surgeon,30
+hematoma,"swelling of scrotum , arm swelling , skin swelling , sharp abdominal pain , ache all over",Emergency medicine specialist,86
+carcinoid syndrome,"involuntary urination , knee lump or mass",Endocrinologist,45
+open wound of the head,"abusing alcohol , headache",Neurosurgeon,30
 seborrheic keratosis,"skin growth , irregular appearing scalp , skin moles , skin swelling , skin lesion , acne or pimples , itching of skin , skin irritation , warts , skin rash , abnormal appearing skin",Dermatologist,38
-burn,"wrist pain , wrist swelling , knee pain , headache , hand or finger pain , skin irritation",Burn specialist or Emergency medicine specialist,67
+burn,"wrist pain , wrist swelling , knee pain , headache , hand or finger pain , skin irritation",Burn specialist,67
 spontaneous abortion,"sharp abdominal pain , lower abdominal pain , intermenstrual bleeding , pelvic pain , burning abdominal pain , problems during pregnancy , pain during pregnancy , spotting or bleeding during pregnancy , blood clots during menstrual periods , heavy menstrual flow , cramps and spasms , uterine contractions",Obstetrician-Gynecologist,59
-genital herpes,"vaginal itching , skin lesion , recent pregnancy , skin rash , painful urination , vaginal discharge , suprapubic pain",Infectious disease specialist or Dermatologist,54
+genital herpes,"vaginal itching , skin lesion , recent pregnancy , skin rash , painful urination , vaginal discharge , suprapubic pain",Infectious disease specialist,54
 adjustment reaction,"hostile behavior , restlessness , excessive anger , delusions or hallucinations , depression , insomnia , fears and phobias , anxiety and nervousness , nightmares",Psychiatrist,67
 gallstone,"sharp abdominal pain , burning abdominal pain , heartburn , regurgitation.1 , sharp chest pain , upper abdominal pain , vomiting , lower body pain , nausea , back pain , side pain",Gastroenterologist,48
 multiple sclerosis,"dizziness , headache , weakness , loss of sensation , paresthesia , abnormal involuntary movements , problems with movement , fatigue , disturbance of memory , leg weakness , focal weakness",Neurologist,35
-zenker diverticulum,"sharp chest pain , sore throat , elbow weakness",Gastroenterologist or ENT specialist,89
-fracture of the pelvis,"difficulty speaking , hip pain , back pain , knee pain , leg pain , ache all over , groin pain",Orthopedic specialist or Trauma surgeon,73
-pneumoconiosis,"shortness of breath , dizziness , cough , fever",Pulmonologist or Occupational medicine specialist,56
+zenker diverticulum,"sharp chest pain , sore throat , elbow weakness",Gastroenterologist,89
+fracture of the pelvis,"difficulty speaking , hip pain , back pain , knee pain , leg pain , ache all over , groin pain",Orthopedic specialist,73
+pneumoconiosis,"shortness of breath , dizziness , cough , fever",Pulmonologist,56
 hyperlipidemia,"sharp chest pain , smoking problems , weight gain",Cardiologist,35
 ulcerative colitis,"nausea , diarrhea , swollen lymph nodes , rectal bleeding , sharp abdominal pain , vomiting , lower abdominal pain , burning abdominal pain , blood in stool",Gastroenterologist,85
 male genitalia infection,"swelling of scrotum , pain in testicles , irritable infant , abnormal appearing skin , mass in scrotum , bumps on penis",Urologist,87
 hpv,"vaginal itching , involuntary urination , warts",Infectious disease specialist,38
 angina,"dizziness , chest tightness , irregular heartbeat , hot flashes , palpitations , increased heart rate , lower body pain , shortness of breath , sharp chest pain , sweating , arm pain",Cardiologist,34
-injury to the spinal cord,"retention of urine , back pain , headache , neck pain",Neurologist or Spinal specialist,34
+injury to the spinal cord,"retention of urine , back pain , headache , neck pain",Neurologist,34
 nasal polyp,"hoarse voice , cough , headache , frontal headache , allergic reaction , painful sinuses , nasal congestion , facial pain",ENT specialist,34
 lichen simplex,"difficulty speaking , vaginal itching , skin lesion , itching of skin , skin rash",Dermatologist,56
 trichiasis,"emotional symptoms , diminished vision , foreign body sensation in eye , eye redness , eyelid lesion or rash",Ophthalmologist,34
-acariasis,"emotional symptoms , swelling of scrotum , itching of skin , skin rash",Dermatologist or Infectious disease specialist,51
-colorectal cancer,"blood in stool , sharp abdominal pain , rectal bleeding , pain of the anus , drainage in throat , mass or swelling around the anus",Gastroenterologist or Oncologist,81
+acariasis,"emotional symptoms , swelling of scrotum , itching of skin , skin rash",Dermatologist,51
+colorectal cancer,"blood in stool , sharp abdominal pain , rectal bleeding , pain of the anus , drainage in throat , mass or swelling around the anus",Gastroenterologist,81
 skin pigmentation disorder,"skin swelling , skin lesion , acne or pimples , irregular appearing scalp , skin moles , skin dryness, peeling, scaliness, or roughness , warts , skin rash , skin growth , itching of skin , abnormal appearing skin",Dermatologist,86
 factitious disorder,"depression , depressive or psychotic symptoms , elbow weakness , disturbance of memory",Psychiatrist,49
 lymphogranuloma venereum,"sore throat , ear pain , knee lump or mass",Infectious disease specialist,43
-galactorrhea of unknown cause,"anxiety and nervousness , emotional symptoms , pain or soreness of breast , bleeding or discharge from nipple",Endocrinologist or General practitioner,70
+galactorrhea of unknown cause,"anxiety and nervousness , emotional symptoms , pain or soreness of breast , bleeding or discharge from nipple",Endocrinologist,70
 g6pd enzyme deficiency,"cough , emotional symptoms",Hematologist,84
-nerve impingement near the shoulder,"hand or finger stiffness or tightness , elbow pain , problems with movement , shoulder weakness , neck pain , shoulder pain , arm pain , shoulder stiffness or tightness",Orthopedic specialist or Neurologist,61
+nerve impingement near the shoulder,"hand or finger stiffness or tightness , elbow pain , problems with movement , shoulder weakness , neck pain , shoulder pain , arm pain , shoulder stiffness or tightness",Orthopedic specialist,61
 toxoplasmosis,"emotional symptoms , diminished vision",Infectious disease specialist,88
 fibroadenoma,"vaginal dryness , hot flashes , pain or soreness of breast , lump or mass of breast , bones are painful , bleeding or discharge from nipple",Oncologist,39
-open wound of the hand,"hand or finger pain , hand or finger stiffness or tightness , skin on arm or hand looks infected , hand or finger swelling",Orthopedic specialist or General surgeon,73
-missed abortion,"blood in stool , lower abdominal pain , intermenstrual bleeding , pain during pregnancy , problems during pregnancy , spotting or bleeding during pregnancy , sharp abdominal pain , cramps and spasms , blood clots during menstrual periods",Obstetrician-Gynecologist (OB-GYN),68
-diabetic ketoacidosis,"depressive or psychotic symptoms , vomiting , diarrhea , decreased appetite , fluid retention , sharp chest pain , sharp abdominal pain , frequent urination , weakness , nausea",Endocrinologist or Emergency medicine specialist,73
-granuloma inguinale,"sharp chest pain , knee lump or mass",Infectious disease specialist or Dermatologist,38
+open wound of the hand,"hand or finger pain , hand or finger stiffness or tightness , skin on arm or hand looks infected , hand or finger swelling",Orthopedic specialist,73
+missed abortion,"blood in stool , lower abdominal pain , intermenstrual bleeding , pain during pregnancy , problems during pregnancy , spotting or bleeding during pregnancy , sharp abdominal pain , cramps and spasms , blood clots during menstrual periods",Obstetrician-Gynecologist,68
+diabetic ketoacidosis,"depressive or psychotic symptoms , vomiting , diarrhea , decreased appetite , fluid retention , sharp chest pain , sharp abdominal pain , frequent urination , weakness , nausea",Endocrinologist,73
+granuloma inguinale,"sharp chest pain , knee lump or mass",Infectious disease specialist,38
 obsessive compulsive disorder (ocd),"depression , depressive or psychotic symptoms , hostile behavior , temper problems , lack of growth , feeling ill , low self-esteem , obsessions and compulsions , anxiety and nervousness",Psychiatrist,32
-injury of the ankle,"wrist swelling , foot or toe pain , ankle pain , foot or toe swelling , joint pain , foot or toe weakness , ankle swelling , leg pain",Orthopedic specialist or Podiatrist,68
-hyponatremia,"shortness of breath , sharp chest pain , fainting , sharp abdominal pain , vomiting , back pain , nausea , weakness , seizures",Nephrologist or Internal medicine specialist,71
+injury of the ankle,"wrist swelling , foot or toe pain , ankle pain , foot or toe swelling , joint pain , foot or toe weakness , ankle swelling , leg pain",Orthopedic specialist,68
+hyponatremia,"shortness of breath , sharp chest pain , fainting , sharp abdominal pain , vomiting , back pain , nausea , weakness , seizures",Nephrologist,71
 stricture of the esophagus,"difficulty in swallowing , problems with movement , heartburn , sharp chest pain , vomiting , regurgitation.1",Gastroenterologist,78
 fracture of the ankle,"leg pain , foot or toe pain , ankle pain , knee weakness , ankle swelling , ankle weakness , foot or toe swelling",Orthopedic specialist,63
-soft tissue sarcoma,"groin mass , skin lesion , skin growth , skin dryness, peeling, scaliness, or roughness , skin moles , abnormal appearing skin , itching of skin",Oncologist or Orthopedic oncologist,79
-bone disorder,"difficulty speaking , leg pain , back pain , bones are painful , leg cramps or spasms , knee pain , muscle stiffness or tightness",Orthopedic specialist or Rheumatologist,50
+soft tissue sarcoma,"groin mass , skin lesion , skin growth , skin dryness, peeling, scaliness, or roughness , skin moles , abnormal appearing skin , itching of skin",Oncologist,79
+bone disorder,"difficulty speaking , leg pain , back pain , bones are painful , leg cramps or spasms , knee pain , muscle stiffness or tightness",Orthopedic specialist,50
 epilepsy,"abnormal involuntary movements , difficulty speaking , lack of growth , disturbance of memory , seizures , headache , muscle weakness",Neurologist,81
 personality disorder,"anxiety and nervousness , insomnia , hostile behavior , drug abuse , excessive anger , fears and phobias , low self-esteem , depression , temper problems , depressive or psychotic symptoms , delusions or hallucinations",Psychiatrist,32
-shingles (herpes zoster),"headache , abnormal appearing skin , facial pain , itching of skin , skin rash , sharp chest pain , skin lesion , pain in eye , back pain",Dermatologist or Infectious disease specialist,84
+shingles (herpes zoster),"headache , abnormal appearing skin , facial pain , itching of skin , skin rash , sharp chest pain , skin lesion , pain in eye , back pain",Dermatologist,84
 tourette syndrome,"abnormal involuntary movements , drug abuse , headache , allergic reaction , depressive or psychotic symptoms",Neurologist,46
 avascular necrosis,"hip pain , drug abuse , knee pain , shoulder pain",Orthopedic specialist,49
-strep throat,"nasal congestion , difficulty in swallowing , vomiting , headache , decreased appetite , ache all over , chills , sore throat , cough , fever , ear pain , skin rash",ENT specialist or Pediatrician,68
+strep throat,"nasal congestion , difficulty in swallowing , vomiting , headache , decreased appetite , ache all over , chills , sore throat , cough , fever , ear pain , skin rash",ENT specialist,68
 spinocerebellar ataxia,"anxiety and nervousness , abnormal involuntary movements , problems with movement , dizziness",Neurologist,58
-osteomyelitis,"difficulty speaking , skin lesion , bones are painful , skin on leg or foot looks infected , hand or finger swelling , arm swelling , hand or finger pain",Orthopedic specialist or Infectious disease specialist,32
+osteomyelitis,"difficulty speaking , skin lesion , bones are painful , skin on leg or foot looks infected , hand or finger swelling , arm swelling , hand or finger pain",Orthopedic specialist,32
 sjogren syndrome,"difficulty in swallowing , symptoms of eye , pain in eye , diminished vision , ache all over , joint pain",Rheumatologist,53
-adhesive capsulitis of the shoulder,"arm pain , neck pain , shoulder stiffness or tightness , ache all over , muscle pain , shoulder pain",Orthopedic specialist or Physical therapist,57
+adhesive capsulitis of the shoulder,"arm pain , neck pain , shoulder stiffness or tightness , ache all over , muscle pain , shoulder pain",Orthopedic specialist,57
 viral hepatitis,"abusing alcohol , hand or finger stiffness or tightness , stomach bloating , sharp abdominal pain , melena",Infectious disease specialist,46
 tonsillar hypertrophy,"cough , fever , abnormal breathing sounds , redness in ear , sore throat , difficulty in swallowing , nasal congestion , apnea",ENT specialist,85
 gastritis,"sharp chest pain , sharp abdominal pain , vomiting , diarrhea , burning abdominal pain , regurgitation.1 , headache , nausea , fever , vomiting blood",Gastroenterologist,45
@@ -756,12 +756,12 @@ melanoma,"skin swelling , abnormal appearing skin , skin lesion , swollen lymph 
 cervical disorder,"sharp abdominal pain , vaginal itching , pain during intercourse , pelvic pain",Neurologist,87
 laryngitis,"hoarse voice , sore throat , throat feels tight , fever , coryza , difficulty speaking , cough , nasal congestion , ear pain , difficulty in swallowing",ENT specialist,56
 dyshidrosis,"frequent urination , skin lesion , skin rash , abnormal appearing skin , acne or pimples",Dermatologist,61
-poisoning due to opioids,"dizziness , difficulty speaking , drug abuse , depressive or psychotic symptoms",Toxicologist or Emergency medicine specialist,91
+poisoning due to opioids,"dizziness , difficulty speaking , drug abuse , depressive or psychotic symptoms",Toxicologist,91
 diaper rash,"vomiting , diarrhea , fever , temper problems , skin rash , diaper rash , cough , nasal congestion , blood in stool , irritable infant , pulling at ears",Pediatrician,44
 lichen planus,"difficulty speaking , abnormal appearing skin , skin growth",Dermatologist,34
 gastroduodenal ulcer,"sharp chest pain , blood in stool , sharp abdominal pain , vomiting blood , burning abdominal pain , upper abdominal pain , changes in stool appearance , nausea , heartburn , vomiting",Gastroenterologist,30
 inguinal hernia,"symptoms of the scrotum and testes , swelling of scrotum , mass in scrotum , lower abdominal pain , ache all over , swollen abdomen , groin pain , sharp abdominal pain , groin mass , pain in testicles",General surgeon,51
-eczema,"skin lesion , irregular appearing scalp , skin irritation , skin rash , cough , skin swelling , abnormal appearing skin , itching of skin , skin dryness, peeling, scaliness, or roughness , acne or pimples , allergic reaction , warts",Neurologist or Psychiatrist,76
+eczema,"skin lesion , irregular appearing scalp , skin irritation , skin rash , cough , skin swelling , abnormal appearing skin , itching of skin , skin dryness, peeling, scaliness, or roughness , acne or pimples , allergic reaction , warts",Neurologist,76
 asperger syndrome,"hostile behavior , excessive anger , lack of growth , fainting , anxiety and nervousness , depressive or psychotic symptoms , antisocial behavior , depression",Geneticist,30
 mucositis,"difficulty in swallowing , irritable infant , fever , mouth pain , sore throat , tongue lesions , mouth ulcer , decreased appetite",Oncologist,78
 paronychia,"hand or finger swelling , foot or toe pain , hand or finger lump or mass , skin on leg or foot looks infected , sinus congestion , skin on arm or hand looks infected , hand or finger pain , foot or toe swelling , abnormal appearing skin",Dermatologist,79
@@ -773,3 +773,24 @@ pseudotumor cerebri,"dizziness , abnormal involuntary movements , headache , dim
 conjunctivitis due to virus,"cough , nasal congestion , white discharge from eye , eye redness , lacrimation , fever , pain in eye , itchiness of eye , swollen eye , diminished vision",Ophthalmologist,75
 open wound of the nose,"diminished hearing , facial pain , nosebleed , headache",ENT Specialist,81
 AIDS,"muscle wasting, patches in throat, high fever, extra marital contacts",infectious disease specialists.,33
+Primary Symptoms 1,Fever,General Physician,6
+Primary Symptoms 2,Cough,General Physician,5
+Primary Symptoms 3,Cold & Flu,General Physician,4
+Primary Symptoms 4,Breathing Issues,Pulmonologist,8
+Primary Symptoms 5,Asthma,Pulmonologist,8
+Primary Symptoms 6,Sore Throat,General Physician,4
+Primary Symptoms 7,Headache,General Physician,5
+Primary Symptoms 8,Migraine,Neurologist,7
+Primary Symptoms 9,Sinus Infection,ENT Specialist,6
+Primary Symptoms 10,Chest Pain,General Physician,9
+Primary Symptoms 11,High Blood Pressure,General Physician,8
+Primary Symptoms 12,Diabetes,General Physician,7
+Primary Symptoms 13,Stomach Pain,Gastroenterologist,6
+Primary Symptoms 14,Acidity & GERD,Gastroenterologist,5
+Primary Symptoms 15,Diarrhea,Gastroenterologist,6
+Primary Symptoms 16,Constipation,Gastroenterologist,4
+Primary Symptoms 17,Urinary Infection (UTI),Urologist,7
+Primary Symptoms 18,Joint Pain,Orthopedic Surgeon,6
+Primary Symptoms 19,"Skin Issues (Rashes, Allergies)",Dermatologist,3
+Primary Symptoms 20,Anxiety & Depression,Psychiatrist,7
+Primary Symptoms 21,Sleep Disorders,Neurologist,6

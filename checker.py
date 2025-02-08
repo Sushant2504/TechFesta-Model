@@ -11,12 +11,14 @@ import asyncio
 from cryptography.fernet import Fernet
 
 # MongoDB URI and database connection
-MONGO_URI = "mongodb+srv://kunal:kunal@cluster0.azapi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "mongodb+srv://rushikesh22320064:clntvsuLSF67UFTz@cluster0.hjilt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 client = AsyncIOMotorClient(MONGO_URI)
-db = client["temp"]
-doctors_collection = db["doctor"]
-patients_collection = db["patient"]
+db = client["test"]
+doctors_collection = db["doctors"]
+patients_collection = db["patients"]
 appointments_collection = db["appointments"]
+
+
 queries_collection = db["queries"]
 appointments_query = db["appointment_query"]
 appointment_booking = db["appointment_booking"]
@@ -33,157 +35,6 @@ speciality_mapping = {row["Diseases"]: row["Specialist"] for _, row in symptoms_
 key = b'PLBP6UzOYhzs7PiTBOrXsdKYM5d14IPx0TPWfawB81k='
 # print(key)
 cipher_suite = Fernet(key)
-
-async def update_doctor_availability(doctor_id, availability):
-    await doctors_collection.update_one(
-        {"_id": ObjectId(doctor_id)},
-        {"$set": {"availability": availability}}
-    )
-
-async def get_available_doctors(time_range, patient_timezone):
-    current_time_utc = datetime.now(pytz.utc)
-    patient_time = current_time_utc.astimezone(pytz.timezone(patient_timezone))
-    
-    available_doctors = await doctors_collection.find({
-        "availability": {"$elemMatch": {"time_range": time_range, "available": True}}
-    }).to_list(length=100)
-    
-    return available_doctors
-
-async def book_appointment(patient_id, doctor_id, time_slot):
-    appointment_data = {
-        "patient_id": ObjectId(patient_id),
-        "doctor_id": ObjectId(doctor_id),
-        "time_slot": time_slot,
-        "status": "pending"
-    }
-    result = await appointments_collection.insert_one(appointment_data)
-    return str(result.inserted_id)
-
-async def check_and_assign_appointments():
-    pending_appointments = await appointments_collection.find({"status": "pending"}).to_list(length=1000)
-    
-    for appointment in pending_appointments:
-        doctor = await doctors_collection.find_one({"_id": appointment["doctor_id"]})
-        if doctor and "availability" in doctor and any(slot["time_slot"] == appointment["time_slot"] and slot["available"] for slot in doctor["availability"]):
-            await appointments_collection.update_one(
-                {"_id": appointment["_id"]},
-                {"$set": {"status": "confirmed"}}
-            )
-            await doctors_collection.update_one(
-                {"_id": doctor["_id"], "availability.time_slot": appointment["time_slot"]},
-                {"$set": {"availability.$.available": False}}
-            )
-        else:
-            await appointments_collection.update_one(
-                {"_id": appointment["_id"]},
-                {"$set": {"status": "failed"}}
-            )
-
-async def cancel_appointment(appointment_id):
-    appointment = await appointments_collection.find_one({"_id": ObjectId(appointment_id)})
-    if appointment:
-        await appointments_collection.update_one(
-            {"_id": appointment["_id"]},
-            {"$set": {"status": "cancelled"}}
-        )
-        await doctors_collection.update_one(
-            {"_id": appointment["doctor_id"], "availability.time_slot": appointment["time_slot"]},
-            {"$set": {"availability.$.available": True}}
-        )
-
-async def recommend_doctor(symptoms, language="en"):
-    query_vector = encoder.encode([symptoms])
-    _, indices = faiss_index.search(query_vector, k=10)
-    
-    recommendations = []
-    seen_diseases = set()
-    for idx in indices[0]:
-        if idx < len(symptoms_df):
-            disease = symptoms_df.iloc[idx]["Diseases"]
-            if disease in seen_diseases:
-                continue
-            seen_diseases.add(disease)
-            specialist = speciality_mapping.get(disease, "Not Found")
-            if specialist != "Not Found":
-                doctor_docs = await doctors_collection.find({
-                    "specialist": specialist,
-                    "language": {"$in": [language]}
-                }).to_list(length=10)
-                doctor_info = []
-                for doc in doctor_docs:
-                    if await check_availability(doc["_id"], "time_slot"):  # Check availability
-                        doctor_info.append({
-                            "doctor_id": str(doc["_id"]),
-                            "doctor_name": doc["name"],
-                            "specialist": doc["specialist"],
-                            "language": doc["language"]
-                        })
-                recommendations.append({"disease": disease, "speciality": specialist, "doctors": doctor_info})
-            else:
-                recommendations.append({"disease": disease, "speciality": specialist, "doctors": []})
-    return recommendations
-
-async def schedule_appointment(patient_id, doctor_id, time_slot):
-    appointment_data = {
-        "patient_id": ObjectId(patient_id),
-        "doctor_id": ObjectId(doctor_id),
-        "time_slot": time_slot,
-        "status": "pending"
-    }
-    result = await appointments_collection.insert_one(appointment_data)
-    return str(result.inserted_id)
-
-async def check_availability(doctor_id, time_slot):
-    doctor = await doctors_collection.find_one({"_id": ObjectId(doctor_id)})
-    if doctor:
-        print(f"Checking availability for doctor: {doctor['name']}")
-        if "availability" in doctor:
-            for slot in doctor["availability"]:
-                print(f"Checking slot: {slot}")
-                if slot["time_slot"] == time_slot and slot["available"]:
-                    return True
-    return False
-
-async def process_queue():
-    pending_appointments = await appointments_collection.find({"status": "pending"}).to_list(length=1000)
-    for appointment in pending_appointments:
-        if await check_availability(appointment["doctor_id"], appointment["time_slot"]):
-            await appointments_collection.update_one(
-                {"_id": appointment["_id"]},
-                {"$set": {"status": "confirmed"}}
-            )
-            await doctors_collection.update_one(
-                {"_id": appointment["doctor_id"], "availability.time_slot": appointment["time_slot"]},
-                {"$set": {"availability.$.available": False}}
-            )
-        else:
-            await appointments_collection.update_one(
-                {"_id": appointment["_id"]},
-                {"$set": {"status": "failed"}}
-            )
-
-async def notify_user(appointment_id):
-    appointment = await appointments_collection.find_one({"_id": ObjectId(appointment_id)})
-    if appointment:
-        patient = await patients_collection.find_one({"_id": appointment["patient_id"]})
-        if patient:
-            if appointment["status"] == "confirmed":
-                message = f"Your appointment with doctor {appointment['doctor_id']} at {appointment['time_slot']} is confirmed."
-            else:
-                message = f"Your appointment with doctor {appointment['doctor_id']} at {appointment['time_slot']} could not be confirmed. Please choose another slot or doctor."
-            print(f"Notification sent to {patient['email']}: {message}")
-
-async def check_queue():
-    while True:
-        queue_length = await appointments_collection.count_documents({"status": "pending"})
-        print(f"Queue length: {queue_length}")
-        if queue_length > 0:
-            pending_appointments = await appointments_collection.find({"status": "pending"}).to_list(length=1000)
-            for appointment in pending_appointments:
-                print(f"Appointment ID: {appointment['_id']}, Patient ID: {appointment['patient_id']}, Doctor ID: {appointment['doctor_id']}, Time Slot: {appointment['time_slot']}")
-            await process_queue()
-        await asyncio.sleep(10)  # Sleep for 10 seconds
 
 
 def get_time_range(value: int, subvalue: int):
@@ -232,40 +83,37 @@ async def decrypt_priority_score(encrypted_score: str) -> int:
 async def calculate_priority_score(query):
     # Fetch the patient history
    
-    history_value = query['History']
+    # history_value = query['History']
 
     # Calculate Priority Score
     f1 = query["Age"]
     f2 = 1 if query["Gender"].lower() == "f" else 0
-    f3 = history_value
+    # f3 = history_value
     f4 = query["timeIn"]
     
     # print(f1," ",f2," ",f3," ")
-    return f1 * 0.1 + f2 * 0.1 + f3 * 0.25 + f4 * 0.15
+    return f1 * 0.1 + f2 * 0.1 + f4 * 0.15
 
 async def check_patients():
     while True:
-        appointment_count = await appointments_query.count_documents({})
+        
+        appointment_count = await appointments_collection.count_documents({ "isScheduled": False })
+
         # print(f"Patients count: {appointment_count}")
         
         if appointment_count > 0:
-            appointments = await appointments_query.find().sort("createdAt", -1).to_list(length=6)
+            
+            appointments = await appointments_collection.find({ "isScheduled" : False }).sort("createdAt", -1).to_list(None)
+
             count = 1
             appointment_list = []
 
             # Set the priority
             for appointent in appointments:
 
-                #delete the all queries from the collection
-                # await appointments_query.delete_one({"_id": appointent["_id"]})
-                
                 patientId = appointent["patientId"]
                 doctorId = appointent["doctorId"]
 
-                # print(patientId)
-                # print(doctorId)
-
-                # doctorData = await doctors_collection.find_one({"_id": ObjectId(doctorId)}).to_list()
                 patientData = await patients_collection.find_one({"_id": ObjectId(patientId)})
 
                 if patientData :
@@ -273,7 +121,6 @@ async def check_patients():
                     query = {
                         "Age" : patientData["age"],
                         "Gender" : patientData["gender"],
-                        "History" : patientData["history"],
                         "timeIn" : count
                     }
 
@@ -287,10 +134,12 @@ async def check_patients():
 
                     priority_score += patientData["Ageing"] * 0.1
 
-                    print(priority_score)
+                    # print(priority_score)
 
                     appointment_list.append({
+                        "appointmentId" : appointent["_id"],
                         "patientId" : patientId,
+                        "Ageing" : patientData["Ageing"],
                         "doctorId" : doctorId,
                         "timeSlot" : appointent["timeSlot"],
                         "priority_score" : priority_score ,
@@ -311,6 +160,7 @@ async def check_patients():
                 doctorId = appointment["doctorId"]
                 patientId = appointment["patientId"]
                 timeSlot = appointment["timeSlot"]
+                appointmentId = appointment["appointmentId"]
                 
 
                 finalBooking = {
@@ -325,40 +175,34 @@ async def check_patients():
                     available = doctorData['available']
                     booked_slot = doctorData['booked_slot']
 
-                    if(available[timeSlot*2-1] > 0):
-                        if(booked_slot[timeSlot*2-1] < 6):
-                            value = timeSlot*2-1
-                            subvalue = booked_slot[timeSlot*2-1]
+                    if(available[timeSlot] > 0):
+                        if(booked_slot[timeSlot] < 6):
+                            value = timeSlot
+                            subvalue = booked_slot[timeSlot]
 
                             alloted_slot_start,alloted_slot_end = get_time_range(value, subvalue)
 
-                            booked_slot[timeSlot*2-1]+=1
+                            booked_slot[timeSlot]+=1
 
                             finalBooking["Start"] = alloted_slot_start
                             finalBooking["End"] = alloted_slot_end
                             finalBooking["finalize_booking"] = True
-                    elif (available[timeSlot*2-2] > 0):
-                        if(booked_slot[timeSlot*2-2] < 6):
-                            value = timeSlot*2-2
-                            subvalue = booked_slot[timeSlot*2-2]
-
-                            alloted_slot_start,alloted_slot_end = get_time_range(value, subvalue)
-
-                            booked_slot[timeSlot*2-2]+=1
-
-                            finalBooking["Start"] = alloted_slot_start
-                            finalBooking["End"] = alloted_slot_end
-                            finalBooking["finalize_booking"] = True
-                            
-
-                        
                     
-                
-                booked_appointment = await appointment_booking.insert_one(finalBooking)
-
-                booking_id = booked_appointment.inserted_id
-
+                    
                 if finalBooking["finalize_booking"]: 
+
+                    booked_appointment = await appointments_collection.update_one(
+                        {"_id": ObjectId(appointmentId)},
+                        {"$set": {
+                            "start" : finalBooking["Start"],
+                            "end" : finalBooking["End"],
+                            "finalize_booking" : True,
+                            "isScheduled" : True,
+                            "isNotified" : False,
+                        }}
+                    )
+
+                    booking_id = appointmentId
 
                     result = await doctors_collection.update_one(
                         {"_id": ObjectId(doctorId)}, 
@@ -373,10 +217,31 @@ async def check_patients():
                         {"_id": ObjectId(patientId)}, 
                         {"$set": {
                             "booking_ref" : ObjectId(booking_id),
+                            "Ageing" : 0,
+                        },
+                        }
+                    )
+                else :
+
+                    booked_appointment = await appointments_collection.update_one(
+                        {"_id": ObjectId(appointmentId)},
+                        {"$set": { 
+                            "isScheduled" : True,
+                            "finalize_booking" : False,
+                            "isNotified" : False,
+                        }}
+                    )
+
+
+                    patient = await patients_collection.update_one(
+                        {"_id": ObjectId(patientId)}, 
+                        {"$set": {
+                            "Ageing" : appointment["Ageing"]+1,
                         },
                         }
                     )
 
-                print(finalBooking)
+
+                # print(finalBooking)
                
-        await asyncio.sleep(30)  # Sleep for 10 seconds
+        await asyncio.sleep(900)  # Sleep for 10 seconds
