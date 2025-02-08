@@ -145,6 +145,7 @@ async def predict_disease(input: SymptomsInput):
                                     "doctorId" : doctor_doc["_id"],
                                     "name" : doctor_doc["name"],
                                     "specialist": doctor_doc["specialist"],
+                                    "profile_image" : doctor_doc["profile_image"],
                                     "recommendationScore" : doctor_doc["time_slot"][input.timeSlot]
                                 })
 
