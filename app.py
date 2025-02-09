@@ -210,8 +210,11 @@ async def calculate_priority_score(query):
 def read_root():
     return {"message": "Disease Prediction API is running!"}
 
-@app.on_event("startup")
-async def startup_event():
+
+
+
+@app.lifespan(app)
+async def lifespan(app):
     asyncio.create_task(check_patients())
 
 # Run the FastAPI server on a different port
