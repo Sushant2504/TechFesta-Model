@@ -99,7 +99,7 @@ async def check_patients():
         
         appointment_count = await appointments_collection.count_documents({ "isScheduled": False })
 
-        # print(f"Patients count: {appointment_count}")
+        print(f"Patients count: {appointment_count}")
         
         if appointment_count > 0:
             

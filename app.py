@@ -215,8 +215,11 @@ def read_root():
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    asyncio.create_task(check_patients())
-
+    task = asyncio.create_task(check_patients())  # Start the background task
+    try:
+        yield  # Yield control back to FastAPI
+    finally:
+        task.cancel()  # Cancel the task when the app shuts down
 
 app = FastAPI(lifespan=lifespan)
 
