@@ -1,7 +1,8 @@
-FROM python:3.8.10-slim
+FROM python:3.11.4-slim
 
 WORKDIR /app
 
 COPY . /app
 
-RUN pip install -r requirements.txt
+RUN pip install -r requirements.txt &&\
+    pip install --upgrade pip=25.0

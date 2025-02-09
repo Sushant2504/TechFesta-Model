@@ -112,7 +112,7 @@ async def predict_disease(input: SymptomsInput):
             disease = symptoms_df.iloc[idx]["Diseases"]
             weight = symptoms_df.iloc[idx]["Weight"]
 
-            
+            print(disease)
             if disease in seen_diseases:
                 continue  # Skip if the disease has already been added
             seen_diseases.add(disease)
