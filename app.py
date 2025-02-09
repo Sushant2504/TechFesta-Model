@@ -16,7 +16,17 @@ from contextlib import asynccontextmanager
 
 
 # Initialize FastAPI
-app = FastAPI()
+# app = FastAPI()
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    task = asyncio.create_task(check_patients())  # Start the background task
+    try:
+        yield  # Yield control back to FastAPI
+    finally:
+        task.cancel()  # Cancel the task when the app shuts down
+
+app = FastAPI(lifespan=lifespan)
 
 # MongoDB URI and database connection
 MONGO_URI = "mongodb+srv://rushikesh22320064:clntvsuLSF67UFTz@cluster0.hjilt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
@@ -213,20 +223,10 @@ def read_root():
 
 
 
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    task = asyncio.create_task(check_patients())  # Start the background task
-    try:
-        yield  # Yield control back to FastAPI
-    finally:
-        task.cancel()  # Cancel the task when the app shuts down
-
-app = FastAPI(lifespan=lifespan)
-
 # Run the FastAPI server on a different port
 if __name__ == "__main__":
     import uvicorn
-    # uvicorn.run(app, host="127.0.0.1", port=8001)  # Change the port number to 8001
+    uvicorn.run(app, host="0.0.0.0", port=8000)  
 
 
 
