@@ -4,5 +4,5 @@ WORKDIR /app
 
 COPY . /app
 
-RUN pip install --upgrade pip=25.0 &&\
+RUN pip install --upgrade pip==25.0 && \
     pip install -r requirements.txt 
