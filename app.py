@@ -12,6 +12,7 @@ import asyncio  # Add this import
 from checker import (
     encrypt_priority_score , check_patients
 )
+from contextlib import asynccontextmanager
 
 
 # Initialize FastAPI
@@ -212,9 +213,8 @@ def read_root():
 
 
 
-
-@app.lifespan(app)
-async def lifespan():
+@asynccontextmanager
+async def lifespan(app: FastAPI):
     asyncio.create_task(check_patients())
 
 # Run the FastAPI server on a different port
