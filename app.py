@@ -217,10 +217,13 @@ def read_root():
 async def lifespan(app: FastAPI):
     asyncio.create_task(check_patients())
 
+
+app = FastAPI(lifespan=lifespan)
+
 # Run the FastAPI server on a different port
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="127.0.0.1", port=8001)  # Change the port number to 8001
 
 
-app = FastAPI(lifespan=lifespan)
+
